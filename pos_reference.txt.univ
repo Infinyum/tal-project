@@ -1,8 +1,8 @@
-Pierre Vinken	NNP
+Pierre Vinken	NOUN
 ,	.
 61 years old	ADJ
 ,	.
-will	AUX
+will	None
 join	VERB
 the	DET
 board	NOUN
@@ -10,31 +10,29 @@ as	ADP
 a	DET
 nonexecutive	ADJ
 director	NOUN
-Nov. 29	NNP
+Nov. 29	NOUN
 .	.
-
-Mr.	NNP
-Vinken	NNP
+Mr.	NOUN
+Vinken	NOUN
 is	VERB
 chairman	NOUN
 of	ADP
-Elsevier	NNP
-N.V.	NNP
+Elsevier	NOUN
+N.V.	NOUN
 ,	.
 the	DET
-Dutch	NNP
+Dutch	NOUN
 publishing	VERB
 group	NOUN
 .	.
-
-Rudolph Agnew	NNP
+Rudolph Agnew	NOUN
 ,	.
 55 years old	ADJ
 and	CONJ
 former	ADJ
 chairman	NOUN
 of	ADP
-Consolidated Gold Fields PLC	NNP
+Consolidated Gold Fields PLC	NOUN
 ,	.
 was	VERB
 named	VERB
@@ -47,16 +45,15 @@ British	ADJ
 industrial	ADJ
 conglomerate	NOUN
 .	.
-
 A	DET
 form	NOUN
 of	ADP
 asbestos	NOUN
 once	ADV
 used	VERB
-to	PART
+to	None
 make	VERB
-Kent	NNP
+Kent	NOUN
 cigarette	NOUN
 filters	NOUN
 has	VERB
@@ -82,7 +79,6 @@ ago	ADV
 researchers	NOUN
 reported	VERB
 .	.
-
 The	DET
 asbestos	NOUN
 fiber	NOUN
@@ -106,7 +102,7 @@ to	ADP
 it	PRON
 causing	VERB
 symptoms	NOUN
-that	CC
+that	CONJ
 show up	VERB
 decades	NOUN
 later	ADJ
@@ -114,19 +110,18 @@ later	ADJ
 researchers	NOUN
 said	VERB
 .	.
-
-Lorillard Inc.	NNP
+Lorillard Inc.	NOUN
 ,	.
 the	DET
 unit	NOUN
 of	ADP
-New York	NNP
--	:
+New York	NOUN
+-	.
 based	VERB
-Loews Corp.	NNP
-that	CC
+Loews Corp.	NOUN
+that	CONJ
 makes	VERB
-Kent	NNP
+Kent	NOUN
 cigarettes	NOUN
 ,	.
 stopped	VERB
@@ -138,9 +133,8 @@ Micronite	NOUN
 cigarette	NOUN
 filters	NOUN
 in	ADP
-1956	NNP
+1956	NOUN
 .	.
-
 Although	ADP
 preliminary	ADJ
 findings	NOUN
@@ -157,12 +151,12 @@ results	NOUN
 appear	VERB
 in	ADP
 today's	NOUN
-New England Journal of Medicine	NNP
+New England Journal of Medicine	NOUN
 ,	.
 a	DET
 forum	NOUN
 likely	ADJ
-to	PART
+to	None
 bring	VERB
 new	ADJ
 attention	NOUN
@@ -170,20 +164,18 @@ to	ADP
 the	DET
 problem	NOUN
 .	.
-
 A	DET
-Lorillard	NNP
+Lorillard	NOUN
 spokewoman	NOUN
 said	VERB
 ,	.
-``	OQU
+``	None
 This	PRON
 is	VERB
 an	DET
 old	ADJ
 story	NOUN
 .	.
-
 We	PRON
 're	VERB
 talking about	VERB
@@ -199,7 +191,6 @@ any	DET
 questionable	ADJ
 properties	NOUN
 .	.
-
 There	PRON
 is	VERB
 no	DET
@@ -209,10 +200,9 @@ our	PRON
 products	NOUN
 now	ADV
 .	.
-
-"	QUOT
+"	None
 Neither	DET
-Lorillard	NNP
+Lorillard	NOUN
 nor	CONJ
 the	DET
 researchers	NOUN
@@ -229,11 +219,10 @@ on	ADP
 smokers	NOUN
 of	ADP
 the	DET
-Kent	NNP
+Kent	NOUN
 cigarettes	NOUN
 .	.
-
-``	OQU
+``	None
 We	PRON
 have on	VERB
 no	DET
@@ -245,16 +234,15 @@ are	VERB
 at	ADP
 risk	NOUN
 ,	.
-"	QUOT
+"	None
 said	VERB
-James A. Talcott	NNP
+James A. Talcott	NOUN
 of	ADP
-Boston's	NNP
-Dana Farber Cancer Institute	NNP
+Boston's	NOUN
+Dana Farber Cancer Institute	NOUN
 .	.
-
-Dr.	NNP
-Talcott	NNP
+Dr.	NOUN
+Talcott	NOUN
 led	VERB
 a	DET
 team	NOUN
@@ -262,30 +250,29 @@ of	ADP
 researchers	NOUN
 from	ADP
 the	DET
-National Cancer Institute	NNP
+National Cancer Institute	NOUN
 and	CONJ
 the	DET
 medical	ADJ
 schools	NOUN
 of	ADP
-Harvard University	NNP
+Harvard University	NOUN
 and	CONJ
-Boston University	NNP
+Boston University	NOUN
 .	.
-
 The	DET
-Lorillard	NNP
+Lorillard	NOUN
 spokeswoman	NOUN
 said	VERB
 asbestos	NOUN
 was	VERB
 used	VERB
 in	ADP
-``	OQU
+``	None
 very	ADV
 modest	ADJ
 amounts	NOUN
-"	QUOT
+"	None
 in	ADP
 making	VERB
 paper	NOUN
@@ -304,16 +291,15 @@ type	NOUN
 of	ADP
 filter	NOUN
 in	ADP
-1956	NNP
+1956	NOUN
 .	.
-
 From	ADP
-1953	NNP
+1953	NOUN
 to	ADP
-1955	NNP
+1955	NOUN
 ,	.
 9.8 billion	NUM
-Kent	NNP
+Kent	NOUN
 cigarettes	NOUN
 with	ADP
 the	DET
@@ -325,7 +311,6 @@ the	DET
 company	NOUN
 said	VERB
 .	.
-
 Among	ADP
 33	NUM
 men	NOUN
@@ -339,7 +324,7 @@ substance	NOUN
 28	NUM
 have	VERB
 died	VERB
---	:
+--	.
 more than	DET
 three	NUM
 times	NOUN
@@ -347,7 +332,6 @@ the	DET
 expected	VERB
 number	NOUN
 .	.
-
 Four	NUM
 of	ADP
 the	DET
@@ -366,7 +350,6 @@ recently	ADV
 diagnosed	VERB
 cancer	NOUN
 .	.
-
 The	DET
 total	NOUN
 of	ADP
@@ -388,8 +371,7 @@ the	DET
 researchers	NOUN
 said	VERB
 .	.
-
-``	OQU
+``	None
 The	DET
 morbidity	NOUN
 rate	NOUN
@@ -407,12 +389,11 @@ asbestos	NOUN
 related	VERB
 diseases	NOUN
 ,	.
-"	QUOT
+"	None
 said	VERB
-Dr.	NNP
-Talcott	NNP
+Dr.	NOUN
+Talcott	NOUN
 .	.
-
 The	DET
 percentage	NOUN
 of	ADP
@@ -424,16 +405,15 @@ the	DET
 workers	NOUN
 at	ADP
 the	DET
-West Groton	NNP
+West Groton	NOUN
 ,	.
 Mass	NOUN
 .	.
-
 ,	.
 paper	NOUN
 factory	NOUN
 appears	VERB
-to	PART
+to	None
 be	VERB
 the	DET
 highest	ADJ
@@ -450,7 +430,6 @@ countries	NOUN
 he	PRON
 said	VERB
 .	.
-
 The	DET
 plant	NOUN
 ,	.
@@ -458,32 +437,31 @@ which	PRON
 is	VERB
 owned	VERB
 by	ADP
-Hollingsworth & Vose Co.	NNP
+Hollingsworth & Vose Co.	NOUN
 ,	.
 was	VERB
 under	ADP
 contract	NOUN
 with	ADP
 Lorillard	NOUN
-to	PART
+to	None
 make	VERB
 the	DET
 cigarette	NOUN
 filters	NOUN
 .	.
-
 The	DET
 finding	NOUN
 probably	ADV
-will	AUX
+will	None
 support	VERB
 those	DET
 who	PRON
 argue	VERB
-that	CC
+that	CONJ
 the	DET
-U.S.	NNP
-should	AUX
+U.S.	NOUN
+should	None
 regulate	VERB
 the	DET
 class	NOUN
@@ -510,13 +488,12 @@ and	CONJ
 other	ADJ
 buildings	NOUN
 ,	.
-Dr.	NNP
-Talcott	NNP
+Dr.	NOUN
+Talcott	NOUN
 said	VERB
 .	.
-
 The	DET
-U.S.	NNP
+U.S.	NOUN
 is	VERB
 one	NUM
 of	ADP
@@ -524,9 +501,9 @@ the	DET
 few	ADJ
 industrialized	VERB
 nations	NOUN
-that	CC
+that	CONJ
 does	VERB
-n't	PART
+n't	None
 have	VERB
 a	DET
 higher	ADJ
@@ -542,15 +519,15 @@ like	ADP
 fibers	NOUN
 such as	ADP
 crocidolite	NOUN
-that	CC
+that	CONJ
 are	VERB
 classified	VERB
 as	ADP
 amphobiles	NOUN
 ,	.
 according to	ADP
-Brooke	NNP
-T. Mossman	NNP
+Brooke	NOUN
+T. Mossman	NOUN
 ,	.
 a	DET
 professor	NOUN
@@ -558,10 +535,9 @@ of	ADP
 pathlogy	NOUN
 at	ADP
 the	DET
-University of Vermont	NNP
-College of Medicine	NNP
+University of Vermont	NOUN
+College of Medicine	NOUN
 .	.
-
 More	ADV
 common	ADJ
 chrysotile	NOUN
@@ -577,18 +553,17 @@ by	ADP
 the	DET
 body	NOUN
 ,	.
-Dr.	NNP
-Mossman	NNP
+Dr.	NOUN
+Mossman	NOUN
 explained	VERB
 .	.
-
 In	ADP
-July	NNP
+July	NOUN
 ,	.
 the	DET
-Environmental	NNP
-Protection	NNP
-Agency	NNP
+Environmental	NOUN
+Protection	NOUN
+Agency	NOUN
 imposed	VERB
 a	DET
 gradual	ADJ
@@ -600,9 +575,8 @@ uses	NOUN
 of	ADP
 asbestos	NOUN
 .	.
-
 By	ADP
-1997	NNP
+1997	NOUN
 ,	.
 almost	ADV
 all	DET
@@ -612,23 +586,22 @@ of	ADP
 cancer	NOUN
 causing	VERB
 asbestos	NOUN
-will	AUX
+will	None
 be	VERB
 outlawed	VERB
 .	.
-
 About	ADP
 160	NUM
 workers	NOUN
 at	ADP
 a	DET
 factory	NOUN
-that	CC
+that	CONJ
 made	VERB
 paper	NOUN
 for	ADP
 the	DET
-Kent	NNP
+Kent	NOUN
 filters	NOUN
 were	VERB
 exposed	VERB
@@ -638,7 +611,6 @@ in	ADP
 the	DET
 1950s	NUM
 .	.
-
 Areas	NOUN
 of	ADP
 the	DET
@@ -652,7 +624,6 @@ crocidolite	NOUN
 was	VERB
 used	VERB
 .	.
-
 Workers	NOUN
 dumped	VERB
 large	ADJ
@@ -682,20 +653,19 @@ in	ADP
 a	DET
 process	NOUN
 used	VERB
-to	PART
+to	None
 make	VERB
 filters	NOUN
 .	.
-
 Workers	NOUN
 described	VERB
-``	OQU
+``	None
 clouds	NOUN
 of	ADP
 blue	ADJ
 dust	NOUN
-"	QUOT
-that	CC
+"	None
+that	CONJ
 hung	VERB
 over	ADP
 parts	NOUN
@@ -710,13 +680,12 @@ ventilated	VERB
 the	DET
 area	NOUN
 .	.
-
-``	OQU
+``	None
 There	PRON
 is	VERB
 no	DET
 question	NOUN
-that	CC
+that	CONJ
 some	DET
 of	ADP
 those	DET
@@ -728,9 +697,9 @@ asbestos	NOUN
 related	VERB
 diseases	NOUN
 ,	.
-"	QUOT
+"	None
 said	VERB
-Darrell Phillips	NNP
+Darrell Phillips	NOUN
 ,	.
 vice	NOUN
 president	NOUN
@@ -738,16 +707,15 @@ of	ADP
 human	ADJ
 resources	NOUN
 for	ADP
-Hollingsworth & Vose	NNP
+Hollingsworth & Vose	NOUN
 .	.
-
-``	OQU
+``	None
 But	CONJ
 you	PRON
 have	VERB
-to	PART
+to	None
 recognize	VERB
-that	CC
+that	CONJ
 these	DET
 events	NOUN
 took	VERB
@@ -755,7 +723,6 @@ place	NOUN
 35 years	NOUN
 ago	ADV
 .	.
-
 It	PRON
 has	VERB
 no	DET
@@ -766,7 +733,6 @@ work	NOUN
 force	NOUN
 today	NOUN
 .	.
-
 Yields	NOUN
 on	ADP
 money	NOUN
@@ -774,12 +740,12 @@ market	VERB
 mutual	ADJ
 funds	NOUN
 continued	VERB
-to	PART
+to	None
 slide	VERB
 ,	.
 amid	ADP
 signs	NOUN
-that	CC
+that	CONJ
 portfolio	NOUN
 managers	NOUN
 expect	VERB
@@ -789,7 +755,6 @@ in	ADP
 interest	NOUN
 rates	NOUN
 .	.
-
 The	DET
 average	ADJ
 seven-day	ADJ
@@ -802,7 +767,7 @@ taxable	ADJ
 funds	NOUN
 tracked	VERB
 by	ADP
-IBC's Money Fund Report	NNP
+IBC's Money Fund Report	NOUN
 eased	VERB
 a	DET
 fraction	NOUN
@@ -818,9 +783,8 @@ for	ADP
 the	DET
 week	NOUN
 ended	VERB
-Tuesday	NNP
+Tuesday	NOUN
 .	.
-
 Compound	NOUN
 yields	NOUN
 assume	VERB
@@ -828,7 +792,7 @@ reinvestment	NOUN
 of	ADP
 dividends	NOUN
 and	CONJ
-that	CC
+that	CONJ
 the	DET
 current	ADJ
 yield	NOUN
@@ -837,7 +801,6 @@ for	ADP
 a	DET
 year	NOUN
 .	.
-
 Average	ADJ
 maturity	NOUN
 of	ADP
@@ -857,14 +820,13 @@ since	ADP
 early August	NOUN
 ,	.
 according to	ADP
-Donoghue's	NNP
+Donoghue's	NOUN
 .	.
-
 Longer	ADJ
 maturities	NOUN
 are	VERB
 thought	VERB
-to	PART
+to	None
 indicate	VERB
 declining	VERB
 interest	NOUN
@@ -874,7 +836,7 @@ they	PRON
 permit	VERB
 portfolio	NOUN
 managers	NOUN
-to	PART
+to	None
 retain	VERB
 relatively	ADV
 higher	ADJ
@@ -884,7 +846,6 @@ a	DET
 longer	ADJ
 period	NOUN
 .	.
-
 Shorter	ADJ
 maturities	NOUN
 are	VERB
@@ -897,13 +858,12 @@ rates	NOUN
 because	ADP
 portfolio	NOUN
 managers	NOUN
-can	AUX
+can	None
 capture	VERB
 higher	ADJ
 rates	NOUN
 sooner	ADV
 .	.
-
 The	DET
 average	ADJ
 maturity	NOUN
@@ -917,7 +877,7 @@ institutions	NOUN
 considered	VERB
 by	ADP
 some	DET
-to	PART
+to	None
 be	VERB
 a	DET
 stronger	ADJ
@@ -937,28 +897,27 @@ point	NOUN
 for	ADP
 the	DET
 year	NOUN
---	:
+--	.
 33 days	NOUN
 .	.
-
 Nevertheless	ADV
 ,	.
 said	VERB
-Brenda Malizia Negus	NNP
+Brenda Malizia Negus	NOUN
 ,	.
 editor	NOUN
 of	ADP
-Money Fund Report	NNP
+Money Fund Report	NOUN
 ,	.
 yields	NOUN
-``	OQU
-may	AUX
+``	None
+may	None
 blip up	VERB
 again	ADV
 before	ADP
 they	PRON
 blip down	VERB
-"	QUOT
+"	None
 because of	ADP
 recent	ADJ
 rises	NOUN
@@ -967,16 +926,15 @@ short-term	ADJ
 interest	NOUN
 rates	NOUN
 .	.
-
 The	DET
 yield	NOUN
 on	ADP
 six-month	ADJ
-Treasury	NNP
+Treasury	NOUN
 bills	NOUN
 sold	VERB
 at	ADP
-Monday's	NNP
+Monday's	NOUN
 auction	NOUN
 ,	.
 for example	ADV
@@ -987,7 +945,6 @@ to	ADP
 from	ADP
 7.90 %	NOUN
 .	.
-
 Despite	ADP
 recent	ADJ
 declines	NOUN
@@ -996,14 +953,13 @@ yields	NOUN
 ,	.
 investors	NOUN
 continue	VERB
-to	PART
+to	None
 pour	VERB
 cash	NOUN
 into	ADP
 money	NOUN
 funds	NOUN
 .	.
-
 Assets	NOUN
 of	ADP
 the	DET
@@ -1021,7 +977,6 @@ week	NOUN
 to	ADP
 $ 352.7 billion	NOUN
 .	.
-
 Typically	ADV
 ,	.
 money	NOUN
@@ -1034,7 +989,7 @@ investments	NOUN
 because	ADP
 portfolio	NOUN
 managers	NOUN
-can	AUX
+can	None
 vary	VERB
 maturities	NOUN
 and	CONJ
@@ -1044,7 +999,6 @@ the	DET
 highest	ADJ
 rates	NOUN
 .	.
-
 The	DET
 top	ADJ
 money	NOUN
@@ -1056,10 +1010,9 @@ well	ADV
 over	ADP
 9 %	NOUN
 .	.
-
-Dreyfus	NNP
-World-Wide	NNP
-Dollar	NNP
+Dreyfus	NOUN
+World-Wide	NOUN
+Dollar	NOUN
 ,	.
 the	DET
 top	NOUN
@@ -1085,7 +1038,6 @@ a	DET
 week	NOUN
 earlier	ADJ
 .	.
-
 It	PRON
 invests	VERB
 heavily	ADV
@@ -1106,7 +1058,6 @@ boosts	VERB
 its	PRON
 yield	NOUN
 .	.
-
 The	DET
 average	ADJ
 seven-day	ADJ
@@ -1123,7 +1074,6 @@ down	ADV
 from	ADP
 8.14 %	NOUN
 .	.
-
 The	DET
 30-day	ADJ
 simple	ADJ
@@ -1132,10 +1082,10 @@ fell	VERB
 to	ADP
 an	DET
 average	ADJ
-8.19 %	NNP
+8.19 %	NOUN
 from	ADP
 8.22 %	NOUN
-;	:
+;	.
 the	DET
 30-day	ADJ
 compound	NOUN
@@ -1148,19 +1098,17 @@ average	ADJ
 from	ADP
 8.56 %	NOUN
 .	.
-
-J.P.	NNP
-Bolduc	NNP
+J.P.	NOUN
+Bolduc	NOUN
 ,	.
 vice	NOUN
 chairman	NOUN
 of	ADP
-W.R.	NNP
-Grace	NNP
+W.R.	NOUN
+Grace	NOUN
 &	CONJ
 Co	NOUN
 .	.
-
 ,	.
 which	PRON
 holds	VERB
@@ -1178,45 +1126,41 @@ elected	VERB
 a	DET
 director	NOUN
 .	.
-
 He	PRON
 succeeds	VERB
-Terrence D. Daniels	NNP
+Terrence D. Daniels	NOUN
 ,	.
 formerly	ADV
 a	DET
-W.R.	NNP
-Grace	NNP
+W.R.	NOUN
+Grace	NOUN
 vice	NOUN
 chairman	NOUN
 ,	.
 who	PRON
 resigned	VERB
 .	.
-
-W.R.	NNP
-Grace	NNP
+W.R.	NOUN
+Grace	NOUN
 holds	VERB
 three	NUM
 of	ADP
-Grace Energy's	NNP
+Grace Energy's	NOUN
 seven	NUM
 board	NOUN
 seats	NOUN
 .	.
-
-Pacific First Financial Corp.	NNP
+Pacific First Financial Corp.	NOUN
 said	VERB
 shareholders	NOUN
 approved	VERB
 its	PRON
 acquisition	NOUN
 by	ADP
-Royal Trustco Ltd	NNP
+Royal Trustco Ltd	NOUN
 .	.
-
 of	ADP
-Toronto	NNP
+Toronto	NOUN
 for	ADP
 $ 27	NOUN
 a	DET
@@ -1225,7 +1169,6 @@ share	NOUN
 or	CONJ
 $ 212 million	NOUN
 .	.
-
 The	DET
 thrift	NOUN
 holding	VERB
@@ -1233,7 +1176,7 @@ company	NOUN
 said	VERB
 it	PRON
 expects	VERB
-to	PART
+to	None
 obtain	VERB
 regulatory	ADJ
 approval	NOUN
@@ -1245,31 +1188,28 @@ by	ADP
 year	NOUN
 end	NOUN
 .	.
-
-McDermott International Inc.	NNP
+McDermott International Inc.	NOUN
 said	VERB
 its	PRON
-Babcock & Wilcox	NNP
+Babcock & Wilcox	NOUN
 unit	NOUN
 completed	VERB
 the	DET
 sale	NOUN
 of	ADP
 its	PRON
-Bailey	NNP
-Controls	NNP
-Operations	NNP
+Bailey	NOUN
+Controls	NOUN
+Operations	NOUN
 to	ADP
-Finmeccanica	NNP
-S.p	NNP
+Finmeccanica	NOUN
+S.p	NOUN
 .	.
-
-A.	NNP
+A.	NOUN
 for	ADP
 $ 295 million	NOUN
 .	.
-
-Finmeccanica	NNP
+Finmeccanica	NOUN
 is	VERB
 an	DET
 Italian	ADJ
@@ -1285,14 +1225,13 @@ mechanical	ADJ
 engineering	NOUN
 industry	NOUN
 .	.
-
-Bailey Controls	NNP
+Bailey Controls	NOUN
 ,	.
 based	VERB
 in	ADP
-Wickliffe	NNP
+Wickliffe	NOUN
 ,	.
-Ohio	NNP
+Ohio	NOUN
 ,	.
 makes	VERB
 computerized	ADJ
@@ -1300,7 +1239,6 @@ industrial	ADJ
 controls	NOUN
 systems	NOUN
 .	.
-
 It	PRON
 employs	VERB
 2,700	NUM
@@ -1313,20 +1251,19 @@ of	ADP
 about	ADV
 $ 370 million	NOUN
 .	.
-
 The	DET
 federal	ADJ
 government	NOUN
 suspended	VERB
 sales	NOUN
 of	ADP
-U.S.	NNP
+U.S.	NOUN
 savings	NOUN
 bonds	NOUN
 because	ADP
-Congress	NNP
+Congress	NOUN
 has	VERB
-n't	PART
+n't	None
 lifted	VERB
 the	DET
 ceiling	NOUN
@@ -1334,18 +1271,17 @@ on	ADP
 government	NOUN
 debt	NOUN
 .	.
-
 Until	ADP
-Congress	NNP
+Congress	NOUN
 acts	VERB
 ,	.
 the	DET
 government	NOUN
 has	VERB
-n't	PART
+n't	None
 any	DET
 authority	NOUN
-to	PART
+to	None
 issue	VERB
 new	ADJ
 debt	NOUN
@@ -1355,10 +1291,9 @@ any	DET
 kind	NOUN
 ,	.
 the	DET
-Treasury	NNP
+Treasury	NOUN
 said	VERB
 .	.
-
 The	DET
 government's	NOUN
 borrowing	NOUN
@@ -1366,7 +1301,7 @@ authority	NOUN
 dropped	VERB
 at	ADP
 midnight	NOUN
-Tuesday	NNP
+Tuesday	NOUN
 to	ADP
 $ 2.80	NOUN
 trillion	NOUN
@@ -1374,9 +1309,8 @@ from	ADP
 $ 2.87	NOUN
 trillion	NOUN
 .	.
-
 Legislation	NOUN
-to	PART
+to	None
 lift	VERB
 the	DET
 debt	NOUN
@@ -1392,11 +1326,10 @@ capital	NOUN
 gains	NOUN
 taxes	NOUN
 .	.
-
-The House	NNP
+The House	NOUN
 has	VERB
 voted	VERB
-to	PART
+to	None
 raise	VERB
 the	DET
 ceiling	NOUN
@@ -1406,11 +1339,11 @@ trillion	NOUN
 ,	.
 but	CONJ
 the	DET
-Senate	NNP
+Senate	NOUN
 is	VERB
-n't	PART
+n't	None
 expected	VERB
-to	PART
+to	None
 act	VERB
 until	ADP
 next	ADJ
@@ -1419,25 +1352,23 @@ at	ADP
 the	DET
 earliest	ADJ
 .	.
-
 The	DET
-Treasury	NNP
+Treasury	NOUN
 said	VERB
 the	DET
-U.S.	NNP
-will	AUX
+U.S.	NOUN
+will	None
 default	VERB
 on	ADP
-Nov. 9	NNP
+Nov. 9	NOUN
 if	ADP
-Congress	NNP
+Congress	NOUN
 does	VERB
-n't	PART
+n't	None
 act	VERB
 by then	ADV
 .	.
-
-Clark J. Vitulli	NNP
+Clark J. Vitulli	NOUN
 was	VERB
 named	VERB
 senior	ADJ
@@ -1448,7 +1379,7 @@ general	ADJ
 manager	NOUN
 of	ADP
 this	DET
-U.S.	NNP
+U.S.	NOUN
 sales	NOUN
 and	CONJ
 marketing	NOUN
@@ -1457,18 +1388,17 @@ of	ADP
 Japanese	ADJ
 auto	NOUN
 maker	NOUN
-Mazda Motor Corp	NNP
+Mazda Motor Corp	NOUN
 .	.
-
 In	ADP
 the	DET
 new	ADJ
 position	NOUN
 he	PRON
-will	AUX
+will	None
 oversee	VERB
-Mazda's	NNP
-U.S.	NNP
+Mazda's	NOUN
+U.S.	NOUN
 sales	NOUN
 ,	.
 service	NOUN
@@ -1478,11 +1408,10 @@ and	CONJ
 marketing	NOUN
 operations	NOUN
 .	.
-
 Previously	ADV
 ,	.
-Mr.	NNP
-Vitulli	NNP
+Mr.	NOUN
+Vitulli	NOUN
 ,	.
 43 years old	ADJ
 ,	.
@@ -1491,11 +1420,10 @@ general	ADJ
 marketing	NOUN
 manager	NOUN
 of	ADP
-Chrysler Corp.'s	NNP
-Chrysler	NNP
+Chrysler Corp.'s	NOUN
+Chrysler	NOUN
 division	NOUN
 .	.
-
 He	PRON
 had	VERB
 been	VERB
@@ -1505,11 +1433,10 @@ and	CONJ
 marketing	NOUN
 executive	NOUN
 with	ADP
-Chrysler	NNP
+Chrysler	NOUN
 for	ADP
 20 years	NOUN
 .	.
-
 When	ADV
 it	PRON
 is	VERB
@@ -1533,38 +1460,35 @@ of	ADP
 resort	NOUN
 towns	NOUN
 like	ADP
-Boca	NNP
-Raton	NNP
+Boca	NOUN
+Raton	NOUN
 and	CONJ
-Hot Springs	NNP
+Hot Springs	NOUN
 .	.
-
 Not	ADV
 this	DET
 year	NOUN
 .	.
-
 The	DET
-National Association of Manufacturers	NNP
+National Association of Manufacturers	NOUN
 settled	VERB
 on	ADP
 the	DET
-Hoosier	NNP
+Hoosier	NOUN
 capital	NOUN
 of	ADP
-Indianapolis	NNP
+Indianapolis	NOUN
 for	ADP
 its	PRON
 fall	NOUN
 board	NOUN
 meeting	NOUN
 .	.
-
 And	CONJ
 the	DET
 city	NOUN
 decided	VERB
-to	PART
+to	None
 treat	VERB
 its	PRON
 guests	NOUN
@@ -1578,33 +1502,32 @@ than	ADP
 factory	NOUN
 owners	NOUN
 .	.
-
 The	DET
 idea	NOUN
 ,	.
 of course	ADV
-:	:
-to	PART
+:	.
+to	None
 prove	VERB
 to	ADP
 125	NUM
 corporate	ADJ
 decision	NOUN
 makers	NOUN
-that	CC
+that	CONJ
 the	DET
 buckle	NOUN
 on	ADP
 the	DET
-Rust Belt	NNP
+Rust Belt	NOUN
 is	VERB
-n't	PART
+n't	None
 so	ADV
 rusty	ADJ
 after	ADP
 all	DET
 ,	.
-that	CC
+that	CONJ
 it	PRON
 is	VERB
 a	DET
@@ -1613,10 +1536,9 @@ place	NOUN
 for	ADP
 a	DET
 company	NOUN
-to	PART
+to	None
 expand	VERB
 .	.
-
 On	ADP
 the	DET
 receiving	VERB
@@ -1629,54 +1551,51 @@ officials	NOUN
 from	ADP
 giants	NOUN
 like	ADP
-Du	NNP
-Pont	NNP
+Du	NOUN
+Pont	NOUN
 and	CONJ
-Maytag	NNP
+Maytag	NOUN
 ,	.
 along with	ADP
 lesser	ADJ
 knowns	NOUN
 like	ADP
-Trojan	NNP
-Steel	NNP
+Trojan	NOUN
+Steel	NOUN
 and	CONJ
 the	DET
-Valley	NNP
-Queen	NNP
-Cheese Factory	NNP
+Valley	NOUN
+Queen	NOUN
+Cheese Factory	NOUN
 .	.
-
 For	ADP
 starters	NOUN
 ,	.
 the	DET
 executives	NOUN
 joined	VERB
-Mayor	NNP
-William H. Hudnut III	NNP
+Mayor	NOUN
+William H. Hudnut III	NOUN
 for	ADP
 an	DET
 evening	NOUN
 of	ADP
 the	DET
-Indianapolis	NNP
-Symphony	NNP
-Orchestra	NNP
+Indianapolis	NOUN
+Symphony	NOUN
+Orchestra	NOUN
 and	CONJ
 a	DET
 guest	NOUN
 pianist	NOUN
 comedian	NOUN
-Victor Borge	NNP
+Victor Borge	NOUN
 .	.
-
 Champagne	NOUN
 and	CONJ
 dessert	NOUN
 followed	VERB
 .	.
-
 The	DET
 next	ADJ
 morning	NOUN
@@ -1695,9 +1614,9 @@ wives	NOUN
 raced	VERB
 to	ADP
 the	DET
-Indianapolis	NNP
-Motor	NNP
-Speedway	NNP
+Indianapolis	NOUN
+Motor	NOUN
+Speedway	NOUN
 ,	.
 unimpeded	ADJ
 by	ADP
@@ -1706,11 +1625,10 @@ or	CONJ
 red	ADJ
 lights	NOUN
 .	.
-
 The	DET
 governor	NOUN
-could	AUX
-n't	PART
+could	None
+n't	None
 make	VERB
 it	PRON
 ,	.
@@ -1723,7 +1641,6 @@ the	DET
 special	ADJ
 guests	NOUN
 .	.
-
 A	DET
 buffet	NOUN
 breakfast	NOUN
@@ -1743,7 +1660,6 @@ to	ADP
 everyday	ADJ
 visitors	NOUN
 .	.
-
 Then	ADV
 ,	.
 in	ADP
@@ -1762,23 +1678,22 @@ and	CONJ
 even	ADV
 the	DET
 official	ADJ
-Indianapolis	NNP
+Indianapolis	NOUN
 500	NUM
 announcer	NOUN
 for	ADP
 a	DET
 10	NUM
--	:
+-	.
 lap	NOUN
 exhibition	NOUN
 race	NOUN
 .	.
-
 After	ADP
 the	DET
 race	NOUN
 ,	.
-Fortune	NNP
+Fortune	NOUN
 500	NUM
 executives	NOUN
 drooled	VERB
@@ -1790,7 +1705,6 @@ cars	NOUN
 and	CONJ
 drivers	NOUN
 .	.
-
 No	DET
 dummies	NOUN
 ,	.
@@ -1811,7 +1725,6 @@ name	NOUN
 or	CONJ
 two	NUM
 .	.
-
 Back	ADV
 downtown	NOUN
 ,	.
@@ -1830,7 +1743,6 @@ the	DET
 buses	NOUN
 again	ADV
 .	.
-
 This	DET
 time	NOUN
 ,	.
@@ -1840,12 +1752,11 @@ for	ADP
 dinner	NOUN
 and	CONJ
 dancing	NOUN
---	:
+--	.
 a	DET
 block	NOUN
 away	ADV
 .	.
-
 Under	ADP
 the	DET
 stars	NOUN
@@ -1854,8 +1765,8 @@ moons	NOUN
 of	ADP
 the	DET
 renovated	VERB
-Indiana	NNP
-Roof	NNP
+Indiana	NOUN
+Roof	NOUN
 ballroom	NOUN
 ,	.
 nine	NUM
@@ -1867,7 +1778,7 @@ in	ADP
 town	NOUN
 fed	VERB
 them	PRON
-Indiana	NNP
+Indiana	NOUN
 duckling	NOUN
 mousseline	NOUN
 ,	.
@@ -1884,14 +1795,13 @@ a	DET
 raspberry	NOUN
 sauce	NOUN
 .	.
-
 Knowing	VERB
 a	DET
 tasty	ADJ
---	:
+--	.
 and	CONJ
 free	ADJ
---	:
+--	.
 meal	NOUN
 when	ADV
 they	PRON
@@ -1907,7 +1817,6 @@ a	DET
 standing	ADJ
 ovation	NOUN
 .	.
-
 More	ADJ
 than	ADP
 a	DET
@@ -1920,7 +1829,7 @@ carpet	NOUN
 treatment	NOUN
 tempts	VERB
 them	PRON
-to	PART
+to	None
 return	VERB
 to	ADP
 a	DET
@@ -1930,7 +1839,6 @@ for	ADP
 future	ADJ
 meetings	NOUN
 .	.
-
 But for	ADP
 now	ADV
 ,	.
@@ -1942,13 +1850,12 @@ to	ADP
 their	PRON
 winter	NOUN
 meeting	NOUN
---	:
-Boca	NNP
+--	.
+Boca	NOUN
 in	ADP
-February	NNP
+February	NOUN
 .	.
-
-South Korea	NNP
+South Korea	NOUN
 registered	VERB
 a	DET
 trade	NOUN
@@ -1956,7 +1863,7 @@ deficit	NOUN
 of	ADP
 $ 101 million	NOUN
 in	ADP
-October	NNP
+October	NOUN
 ,	.
 reflecting	VERB
 the	DET
@@ -1968,20 +1875,19 @@ according to	ADP
 government	NOUN
 figures	NOUN
 released	VERB
-Wednesday	NNP
+Wednesday	NOUN
 .	.
-
 Preliminary	ADJ
 tallies	NOUN
 by	ADP
 the	DET
-Trade and Industry Ministry	NNP
+Trade and Industry Ministry	NOUN
 showed	VERB
 another	DET
 trade	NOUN
 deficit	NOUN
 in	ADP
-October	NNP
+October	NOUN
 ,	.
 the	DET
 fifth	ADJ
@@ -1994,15 +1900,14 @@ casting	VERB
 a	DET
 cloud	NOUN
 on	ADP
-South Korea's	NNP
+South Korea's	NOUN
 export	NOUN
 oriented	VERB
 economy	NOUN
 .	.
-
 Exports	NOUN
 in	ADP
-October	NNP
+October	NOUN
 stood	VERB
 at	ADP
 $ 5.29 billion	NOUN
@@ -2027,17 +1932,16 @@ up	ADV
 20 %	NOUN
 from	ADP
 last	ADJ
-October	NNP
+October	NOUN
 .	.
-
-South Korea's	NNP
+South Korea's	NOUN
 economic	ADJ
 boom	NOUN
 ,	.
 which	PRON
 began	VERB
 in	ADP
-1986	NNP
+1986	NOUN
 ,	.
 stopped	VERB
 this	DET
@@ -2053,7 +1957,6 @@ and	CONJ
 sluggish	ADJ
 exports	NOUN
 .	.
-
 Government	NOUN
 officials	NOUN
 said	VERB
@@ -2064,7 +1967,7 @@ end	NOUN
 of	ADP
 the	DET
 year	NOUN
-would	AUX
+would	None
 remain	VERB
 under	ADP
 a	DET
@@ -2073,13 +1976,12 @@ target	NOUN
 of	ADP
 $ 68 billion	NOUN
 .	.
-
 Despite	ADP
 the	DET
 gloomy	ADJ
 forecast	NOUN
 ,	.
-South Korea	NNP
+South Korea	NOUN
 has	VERB
 recorded	VERB
 a	DET
@@ -2092,11 +1994,10 @@ far	ADP
 this	DET
 year	NOUN
 .	.
-
 From	ADP
-January	NNP
+January	NOUN
 to	ADP
-October	NNP
+October	NOUN
 ,	.
 the	DET
 nation's	NOUN
@@ -2113,25 +2014,23 @@ year	NOUN
 to	ADP
 $ 50.45 billion	NOUN
 .	.
-
 Imports	NOUN
 were	VERB
 at	ADP
 $ 50.38 billion	NOUN
 ,	.
 up	ADV
-19 %	NNP
+19 %	NOUN
 .	.
-
-Newsweek	NNP
+Newsweek	NOUN
 ,	.
 trying	VERB
-to	PART
+to	None
 keep	VERB
 pace	NOUN
 with	ADP
 rival	ADJ
-Time	NNP
+Time	NOUN
 magazine	NOUN
 ,	.
 announced	VERB
@@ -2139,11 +2038,11 @@ new	ADJ
 advertising	NOUN
 rates	NOUN
 for	ADP
-1990	NNP
+1990	NOUN
 and	CONJ
 said	VERB
 it	PRON
-will	AUX
+will	None
 introduce	VERB
 a	DET
 new	ADJ
@@ -2152,19 +2051,18 @@ plan	NOUN
 for	ADP
 advertisers	NOUN
 .	.
-
 The	DET
 new	ADJ
 ad	NOUN
 plan	NOUN
 from	ADP
-Newsweek	NNP
+Newsweek	NOUN
 ,	.
 a	DET
 unit	NOUN
 of	ADP
 the	DET
-Washington Post Co.	NNP
+Washington Post Co.	NOUN
 ,	.
 is	VERB
 the	DET
@@ -2179,9 +2077,8 @@ advertisers	NOUN
 in	ADP
 three years	NOUN
 .	.
-
 Plans	NOUN
-that	CC
+that	CONJ
 give	VERB
 advertisers	NOUN
 discounts	NOUN
@@ -2205,34 +2102,32 @@ the	DET
 fierce	ADJ
 competition	NOUN
 between	ADP
-Newsweek	NNP
+Newsweek	NOUN
 ,	.
-Time Warner Inc.'s	NNP
-Time Magazine	NNP
+Time Warner Inc.'s	NOUN
+Time Magazine	NOUN
 ,	.
 and	CONJ
-Mortimer B. Zuckerman's	NNP
-U.S. News & World Report	NNP
+Mortimer B. Zuckerman's	NOUN
+U.S. News & World Report	NOUN
 .	.
-
-Alan Spoon	NNP
+Alan Spoon	NOUN
 ,	.
 recently	ADV
 named	VERB
-Newsweek	NNP
+Newsweek	NOUN
 president	NOUN
 ,	.
 said	VERB
-Newsweek's	NNP
+Newsweek's	NOUN
 ad	NOUN
 rates	NOUN
-would	AUX
+would	None
 increase	VERB
 5 %	NOUN
 in	ADP
-January	NNP
+January	NOUN
 .	.
-
 A	DET
 full	ADJ
 ,	.
@@ -2240,16 +2135,15 @@ four	NUM
 color	ADJ
 page	NOUN
 in	ADP
-Newsweek	NNP
-will	AUX
+Newsweek	NOUN
+will	None
 cost	VERB
 $ 100,980	NOUN
 .	.
-
 In	ADP
 mid-October	NOUN
 ,	.
-Time	NNP
+Time	NOUN
 magazine	NOUN
 lowered	VERB
 its	PRON
@@ -2258,62 +2152,60 @@ circulation	NOUN
 rate	NOUN
 base	NOUN
 for	ADP
-1990	NNP
+1990	NOUN
 while	ADP
-not	PART
+not	None
 increasing	VERB
 ad	NOUN
 page	NOUN
 rates	NOUN
-;	:
+;	.
 with	ADP
 a	DET
 lower	ADJ
 circulation	NOUN
 base	NOUN
 ,	.
-Time's	NNP
+Time's	NOUN
 ad	NOUN
 rate	NOUN
-will	AUX
+will	None
 be	VERB
 effectively	ADV
 7.5 %	NOUN
 higher	ADJ
 per	ADP
 subscriber	NOUN
-;	:
+;	.
 a	DET
 full	ADJ
 page	NOUN
 in	ADP
-Time	NNP
+Time	NOUN
 costs	VERB
 about	ADV
 $ 120,000	NOUN
 .	.
-
-U.S.	NNP
-News	NNP
+U.S.	NOUN
+News	NOUN
 has	VERB
 yet	ADV
-to	PART
+to	None
 announce	VERB
 its	PRON
-1990	NNP
+1990	NOUN
 ad	NOUN
 rates	NOUN
 .	.
-
-Newsweek	NNP
+Newsweek	NOUN
 said	VERB
 it	PRON
-will	AUX
+will	None
 introduce	VERB
 the	DET
-Circulation	NNP
-Credit	NNP
-Plan	NNP
+Circulation	NOUN
+Credit	NOUN
+Plan	NOUN
 ,	.
 which	PRON
 awards	VERB
@@ -2322,30 +2214,29 @@ credits	NOUN
 to	ADP
 advertisers	NOUN
 on	ADP
-``	OQU
+``	None
 renewal	NOUN
 advertising	NOUN
 .	.
-
-"	QUOT
+"	None
 The	DET
 magazine	NOUN
-will	AUX
+will	None
 reward	VERB
 with	ADP
-``	OQU
+``	None
 page	NOUN
 bonuses	NOUN
-"	QUOT
+"	None
 advertisers	NOUN
 who	PRON
 in	ADP
-1990	NNP
+1990	NOUN
 meet	VERB
 or	CONJ
 exceed	VERB
 their	PRON
-1989	NNP
+1989	NOUN
 spending	NOUN
 ,	.
 as long as	ADP
@@ -2353,23 +2244,22 @@ they	PRON
 spent	VERB
 $ 325,000	NOUN
 in	ADP
-1989	NNP
+1989	NOUN
 and	CONJ
 $ 340,000	NOUN
 in	ADP
-1990	NNP
+1990	NOUN
 .	.
-
-Mr.	NNP
-Spoon	NNP
+Mr.	NOUN
+Spoon	NOUN
 said	VERB
 the	DET
 plan	NOUN
 is	VERB
-not	PART
+not	None
 an	DET
 attempt	NOUN
-to	PART
+to	None
 shore up	VERB
 a	DET
 decline	NOUN
@@ -2381,9 +2271,9 @@ the	DET
 first	ADJ
 nine months	NOUN
 of	ADP
-1989	NNP
-;	:
-Newsweek's	NNP
+1989	NOUN
+;	.
+Newsweek's	NOUN
 ad	NOUN
 pages	NOUN
 totaled	VERB
@@ -2398,12 +2288,11 @@ last	ADJ
 year	NOUN
 ,	.
 according to	ADP
-Publishers	NNP
-Information	NNP
-Bureau	NNP
+Publishers	NOUN
+Information	NOUN
+Bureau	NOUN
 .	.
-
-``	OQU
+``	None
 What	PRON
 matters	VERB
 is	VERB
@@ -2425,17 +2314,16 @@ fine	ADV
 this	DET
 fall	NOUN
 ,	.
-"	QUOT
+"	None
 said	VERB
-Mr.	NNP
-Spoon	NNP
+Mr.	NOUN
+Spoon	NOUN
 .	.
-
 Both	DET
-Newsweek	NNP
+Newsweek	NOUN
 and	CONJ
-U.S.	NNP
-News	NNP
+U.S.	NOUN
+News	NOUN
 have	VERB
 been	VERB
 gaining	VERB
@@ -2457,7 +2345,6 @@ telephones	NOUN
 or	CONJ
 watches	NOUN
 .	.
-
 However	ADV
 ,	.
 none	NOUN
@@ -2471,11 +2358,10 @@ circulation	NOUN
 gains	NOUN
 recently	ADV
 .	.
-
 According to	ADP
-Audit Bureau of Circulations	NNP
+Audit Bureau of Circulations	NOUN
 ,	.
-Time	NNP
+Time	NOUN
 ,	.
 the	DET
 largest	ADJ
@@ -2492,15 +2378,14 @@ decrease	NOUN
 of	ADP
 7.3 %	NOUN
 .	.
-
-Newsweek's	NNP
+Newsweek's	NOUN
 circulation	NOUN
 for	ADP
 the	DET
 first	ADJ
 six months	NOUN
 of	ADP
-1989	NNP
+1989	NOUN
 was	VERB
 3,288,453	NUM
 ,	.
@@ -2512,9 +2397,8 @@ period	NOUN
 last	ADJ
 year	NOUN
 .	.
-
-U.S.	NNP
-News'	NNP
+U.S.	NOUN
+News'	NOUN
 circulation	NOUN
 in	ADP
 the	DET
@@ -2526,19 +2410,18 @@ was	VERB
 down	ADV
 2.6 %	NOUN
 .	.
-
-New England Electric System	NNP
+New England Electric System	NOUN
 bowed	VERB
 out of	ADP
 the	DET
 bidding	NOUN
 for	ADP
-Public Service Co.	NNP
+Public Service Co.	NOUN
 of	ADP
-New Hampshire	NNP
+New Hampshire	NOUN
 ,	.
 saying	VERB
-that	CC
+that	CONJ
 the	DET
 risks	NOUN
 were	VERB
@@ -2553,27 +2436,26 @@ far	ADV
 in	ADP
 the	DET
 future	NOUN
-to	PART
+to	None
 justify	VERB
 a	DET
 higher	ADJ
 offer	NOUN
 .	.
-
 The	DET
 move	NOUN
 leaves	VERB
-United Illuminating Co.	NNP
+United Illuminating Co.	NOUN
 and	CONJ
-Northeast	NNP
-Utilities	NNP
+Northeast	NOUN
+Utilities	NOUN
 as	ADP
 the	DET
 remaining	VERB
 outside	ADJ
 bidders	NOUN
 for	ADP
-PS of New Hampshire	NNP
+PS of New Hampshire	NOUN
 ,	.
 which	PRON
 also	ADV
@@ -2590,37 +2472,35 @@ bankruptcy	NOUN
 proceedings	NOUN
 under which	ADP
 it	PRON
-would	AUX
+would	None
 remain	VERB
 an	DET
 independent	ADJ
 company	NOUN
 .	.
-
-New England Electric	NNP
+New England Electric	NOUN
 ,	.
 based	VERB
 in	ADP
-Westborough	NNP
+Westborough	NOUN
 ,	.
 Mass	NOUN
 .	.
-
 ,	.
 had	VERB
 offered	VERB
 $ 2 billion	NOUN
-to	PART
+to	None
 acquire	VERB
-PS of New Hampshire	NNP
+PS of New Hampshire	NOUN
 ,	.
 well	ADV
 below	ADP
 the	DET
 $ 2.29 billion	NOUN
 value	NOUN
-United	NNP
-Illuminating	NNP
+United	NOUN
+Illuminating	NOUN
 places	NOUN
 on	ADP
 its	PRON
@@ -2628,40 +2508,37 @@ bid	NOUN
 and	CONJ
 the	DET
 $ 2.25 billion	NOUN
-Northeast	NNP
+Northeast	NOUN
 says	VERB
 its	PRON
 bid	NOUN
 is	VERB
 worth	ADP
 .	.
-
-United	NNP
-Illuminating	NNP
+United	NOUN
+Illuminating	NOUN
 is	VERB
 based	VERB
 in	ADP
-New Haven	NNP
+New Haven	NOUN
 ,	.
 Conn	NOUN
 .	.
-
 ,	.
 and	CONJ
-Northeast	NNP
+Northeast	NOUN
 is	VERB
 based	VERB
 in	ADP
-Hartford	NNP
+Hartford	NOUN
 ,	.
-Conn	NNP
+Conn	NOUN
 .	.
-
-PS of New Hampshire	NNP
+PS of New Hampshire	NOUN
 ,	.
-Manchester	NNP
+Manchester	NOUN
 ,	.
-N.H.	NNP
+N.H.	NOUN
 ,	.
 values	VERB
 its	PRON
@@ -2672,8 +2549,7 @@ at	ADP
 about	ADV
 $ 2.2 billion	NOUN
 .	.
-
-John Rowe	NNP
+John Rowe	NOUN
 ,	.
 president	NOUN
 and	CONJ
@@ -2681,7 +2557,7 @@ chief	ADJ
 executive	ADJ
 officer	NOUN
 of	ADP
-New England Electric	NNP
+New England Electric	NOUN
 ,	.
 said	VERB
 the	DET
@@ -2689,7 +2565,7 @@ company's	NOUN
 return	NOUN
 on	ADP
 equity	NOUN
-could	AUX
+could	None
 suffer	VERB
 if	ADP
 it	PRON
@@ -2702,8 +2578,8 @@ its	PRON
 forecasts	NOUN
 related	VERB
 to	ADP
-PS of New Hampshire	NNP
---	:
+PS of New Hampshire	NOUN
+--	.
 such as	ADP
 growth	NOUN
 in	ADP
@@ -2713,14 +2589,13 @@ and	CONJ
 improved	VERB
 operating	NOUN
 efficiencies	NOUN
---	:
+--	.
 did	VERB
-n't	PART
+n't	None
 come	VERB
 true	ADJ
 .	.
-
-``	OQU
+``	None
 When	ADV
 we	PRON
 evaluated	VERB
@@ -2748,35 +2623,32 @@ long	ADJ
 way	NOUN
 out	ADP
 .	.
-
 That	PRON
 got	VERB
 hard	ADV
-to	PART
+to	None
 take	VERB
 ,	.
-"	QUOT
+"	None
 he	PRON
 added	VERB
 .	.
-
-Mr.	NNP
-Rowe	NNP
+Mr.	NOUN
+Rowe	NOUN
 also	ADV
 noted	VERB
-that	CC
+that	CONJ
 political	ADJ
 concerns	NOUN
 also	ADV
 worried	VERB
-New England Electric	NNP
+New England Electric	NOUN
 .	.
-
 No	DET
 matter	NOUN
 who	PRON
 owns	VERB
-PS of New Hampshire	NNP
+PS of New Hampshire	NOUN
 ,	.
 after	ADP
 it	PRON
@@ -2786,7 +2658,7 @@ bankruptcy	NOUN
 proceedings	NOUN
 its	PRON
 rates	NOUN
-will	AUX
+will	None
 be	VERB
 among	ADP
 the	DET
@@ -2798,17 +2670,13 @@ nation	NOUN
 he	PRON
 said	VERB
 .	.
-
-``	OQU
+``	None
 That	PRON
 attracts	VERB
 attention	NOUN
 .	.
-
 .	.
-
 .	.
-
 it	PRON
 was	VERB
 just	ADV
@@ -2818,14 +2686,14 @@ of	ADP
 the	DET
 risk	NOUN
 factors	NOUN
-"	QUOT
-that	CC
+"	None
+that	CONJ
 led	VERB
 to	ADP
 the	DET
 company's	NOUN
 decision	NOUN
-to	PART
+to	None
 withdraw	VERB
 from	ADP
 the	DET
@@ -2834,10 +2702,9 @@ bidding	NOUN
 he	PRON
 added	VERB
 .	.
-
-Wilbur Ross Jr.	NNP
+Wilbur Ross Jr.	NOUN
 of	ADP
-Rothschild Inc.	NNP
+Rothschild Inc.	NOUN
 ,	.
 the	DET
 financial	ADJ
@@ -2853,23 +2720,22 @@ said	VERB
 the	DET
 withdrawal	NOUN
 of	ADP
-New England Electric	NNP
-might	AUX
+New England Electric	NOUN
+might	None
 speed up	VERB
 the	DET
 reorganization	NOUN
 process	NOUN
 .	.
-
 The	DET
 fact	NOUN
-that	CC
-New England	NNP
+that	CONJ
+New England	NOUN
 proposed	VERB
 lower	ADJ
 rate	NOUN
 increases	NOUN
---	:
+--	.
 4.8 %	NOUN
 over	ADP
 seven years	NOUN
@@ -2884,19 +2750,18 @@ other	ADJ
 two	NUM
 outside	ADJ
 bidders	NOUN
---	:
+--	.
 complicated	ADP
 negotiations	NOUN
 with	ADP
 state	NOUN
 officials	NOUN
 ,	.
-Mr.	NNP
-Ross	NNP
+Mr.	NOUN
+Ross	NOUN
 asserted	VERB
 .	.
-
-``	OQU
+``	None
 Now	ADV
 the	DET
 field	NOUN
@@ -2904,22 +2769,21 @@ is	VERB
 less	ADV
 cluttered	VERB
 ,	.
-"	QUOT
+"	None
 he	PRON
 added	VERB
 .	.
-
 Separately	ADV
 ,	.
 the	DET
-Federal Energy Regulatory Commission	NNP
+Federal Energy Regulatory Commission	NOUN
 turned down	VERB
 for	ADP
 now	ADV
 a	DET
 request	NOUN
 by	ADP
-Northeast	NNP
+Northeast	NOUN
 seeking	VERB
 approval	NOUN
 of	ADP
@@ -2927,13 +2791,12 @@ its	PRON
 possible	ADJ
 purchase	NOUN
 of	ADP
-PS of New Hampshire	NNP
+PS of New Hampshire	NOUN
 .	.
-
-Northeast	NNP
+Northeast	NOUN
 said	VERB
 it	PRON
-would	AUX
+would	None
 refile	VERB
 its	PRON
 request	NOUN
@@ -2946,10 +2809,10 @@ expedited	VERB
 review	NOUN
 by	ADP
 the	DET
-FERC	NNP
+FERC	NOUN
 so that	ADP
 it	PRON
-could	AUX
+could	None
 complete	VERB
 the	DET
 purchase	NOUN
@@ -2968,8 +2831,7 @@ the	DET
 bankruptcy	NOUN
 court	NOUN
 .	.
-
-PS of New Hampshire	NNP
+PS of New Hampshire	NOUN
 shares	NOUN
 closed	VERB
 yesterday	NOUN
@@ -2980,12 +2842,11 @@ off	ADP
 25 cents	NOUN
 ,	.
 in	ADP
-New York Stock Exchange	NNP
+New York Stock Exchange	NOUN
 composite	ADJ
 trading	NOUN
 .	.
-
-Norman Ricken	NNP
+Norman Ricken	NOUN
 ,	.
 52 years old	ADJ
 and	CONJ
@@ -2996,18 +2857,18 @@ chief	NOUN
 operating	VERB
 officer	NOUN
 of	ADP
-Toys ``R" Us Inc.	NNP
+Toys ``R" Us Inc.	NOUN
 ,	.
 and	CONJ
-Frederick	NNP
-Deane	NNP
-Jr.	NNP
+Frederick	NOUN
+Deane	NOUN
+Jr.	NOUN
 ,	.
 63	NUM
 ,	.
 chairman	NOUN
 of	ADP
-Signet Banking Corp.	NNP
+Signet Banking Corp.	NOUN
 ,	.
 were	VERB
 elected	VERB
@@ -3021,36 +2882,34 @@ appliances	NOUN
 retailing	NOUN
 chain	NOUN
 .	.
-
 They	PRON
 succeed	VERB
-Daniel M. Rexinger	NNP
+Daniel M. Rexinger	NOUN
 ,	.
 retired	VERB
-Circuit City	NNP
+Circuit City	NOUN
 executive	ADJ
 vice	NOUN
 president	NOUN
 ,	.
 and	CONJ
-Robert R. Glauber	NNP
+Robert R. Glauber	NOUN
 ,	.
-U.S.	NNP
-Treasury	NNP
+U.S.	NOUN
+Treasury	NOUN
 undersecretary	NOUN
 ,	.
 on	ADP
 the	DET
 12	NUM
--	:
+-	.
 member	NOUN
 board	NOUN
 .	.
-
-Commonwealth Edison Co.	NNP
+Commonwealth Edison Co.	NOUN
 was	VERB
 ordered	VERB
-to	PART
+to	None
 refund	VERB
 about	ADV
 $ 250 million	NOUN
@@ -3073,7 +2932,6 @@ nuclear	ADJ
 power	NOUN
 plant	NOUN
 .	.
-
 The	DET
 refund	NOUN
 was	VERB
@@ -3085,13 +2943,13 @@ previously	ADV
 ordered	VERB
 by	ADP
 the	DET
-Illinois Commerce Commission	NNP
+Illinois Commerce Commission	NOUN
 and	CONJ
 trade	NOUN
 groups	NOUN
 said	VERB
 it	PRON
-may	AUX
+may	None
 be	VERB
 the	DET
 largest	ADJ
@@ -3104,14 +2962,13 @@ or	CONJ
 local	ADJ
 utility	NOUN
 .	.
-
 State	NOUN
 court	NOUN
-Judge	NNP
-Richard Curry	NNP
+Judge	NOUN
+Richard Curry	NOUN
 ordered	VERB
-Edison	NNP
-to	PART
+Edison	NOUN
+to	None
 make	VERB
 average	ADJ
 refunds	NOUN
@@ -3122,7 +2979,7 @@ to	ADP
 $ 50	NOUN
 each	DET
 to	ADP
-Edison	NNP
+Edison	NOUN
 customers	NOUN
 who	PRON
 have	VERB
@@ -3130,7 +2987,7 @@ received	VERB
 electric	ADJ
 service	NOUN
 since	ADP
-April 1986	NNP
+April 1986	NOUN
 ,	.
 including	VERB
 about	ADV
@@ -3143,47 +3000,42 @@ during	ADP
 that	DET
 period	NOUN
 .	.
-
-Judge	NNP
-Curry	NNP
+Judge	NOUN
+Curry	NOUN
 ordered	VERB
 the	DET
 refunds	NOUN
-to	PART
+to	None
 begin	VERB
-Feb. 1	NNP
+Feb. 1	NOUN
 and	CONJ
 said	VERB
-that	CC
+that	CONJ
 he	PRON
-would	AUX
-n't	PART
+would	None
+n't	None
 entertain	VERB
 any	DET
 appeals	NOUN
 or	CONJ
 other	ADJ
 attempts	NOUN
-to	PART
+to	None
 block	VERB
 his	PRON
 order	NOUN
 by	ADP
-Commonwealth Edison	NNP
+Commonwealth Edison	NOUN
 .	.
-
-``	OQU
+``	None
 The	DET
 refund	NOUN
 pool	NOUN
 .	.
-
 .	.
-
 .	.
-
-may	AUX
-not	PART
+may	None
+not	None
 be	VERB
 held	VERB
 hostage	NOUN
@@ -3193,13 +3045,12 @@ round	NOUN
 of	ADP
 appeals	NOUN
 ,	.
-"	QUOT
-Judge	NNP
-Curry	NNP
+"	None
+Judge	NOUN
+Curry	NOUN
 said	VERB
 .	.
-
-Commonwealth Edison	NNP
+Commonwealth Edison	NOUN
 said	VERB
 it	PRON
 is	VERB
@@ -3213,18 +3064,17 @@ and	CONJ
 is	VERB
 considering	VERB
 appealing	VERB
-Judge	NNP
-Curry's	NNP
+Judge	NOUN
+Curry's	NOUN
 order	NOUN
 .	.
-
 The	DET
 exact	ADJ
 amount	NOUN
 of	ADP
 the	DET
 refund	NOUN
-will	AUX
+will	None
 be	VERB
 determined	VERB
 next	ADJ
@@ -3235,34 +3085,32 @@ actual	ADJ
 collections	NOUN
 made	VERB
 until	ADP
-Dec. 31	NNP
+Dec. 31	NOUN
 of	ADP
 this	DET
 year	NOUN
 .	.
-
-Commonwealth Edison	NNP
+Commonwealth Edison	NOUN
 said	VERB
 the	DET
 ruling	NOUN
-could	AUX
+could	None
 force	VERB
 it	PRON
-to	PART
+to	None
 slash	VERB
 its	PRON
-1989	NNP
+1989	NOUN
 earnings	NOUN
 by	ADP
 $ 1.55	NOUN
 a	DET
 share	NOUN
 .	.
-
 For	ADP
-1988	NNP
+1988	NOUN
 ,	.
-Commonwealth Edison	NNP
+Commonwealth Edison	NOUN
 reported	VERB
 earnings	NOUN
 of	ADP
@@ -3273,12 +3121,11 @@ $ 3.01	NOUN
 a	DET
 share	NOUN
 .	.
-
 A	DET
-Commonwealth Edison	NNP
+Commonwealth Edison	NOUN
 spokesman	NOUN
 said	VERB
-that	CC
+that	CONJ
 tracking down	VERB
 the	DET
 two million	NOUN
@@ -3292,22 +3139,21 @@ the	DET
 past	ADJ
 3 1/2	NUM
 years	NOUN
-would	AUX
+would	None
 be	VERB
-``	OQU
+``	None
 an	DET
 administrative	ADJ
 nightmare	NOUN
 .	.
-
-"	QUOT
+"	None
 In	ADP
-New York Stock Exchange	NNP
+New York Stock Exchange	NOUN
 composite	ADJ
 trading	NOUN
 yesterday	NOUN
 ,	.
-Commonwealth Edison	NNP
+Commonwealth Edison	NOUN
 closed	VERB
 at	ADP
 $ 38.375	NOUN
@@ -3315,47 +3161,44 @@ $ 38.375	NOUN
 down	ADV
 12.5 cents	NOUN
 .	.
-
 The	DET
 $ 2.5 billion	NOUN
-Byron	NNP
+Byron	NOUN
 1	NUM
 plant	NOUN
 near	ADP
-Rockford	NNP
+Rockford	NOUN
 ,	.
-Ill.	NNP
+Ill.	NOUN
 ,	.
 was	VERB
 completed	VERB
 in	ADP
-1985	NNP
+1985	NOUN
 .	.
-
 In	ADP
 a	DET
 disputed	VERB
-1985	NNP
+1985	NOUN
 ruling	NOUN
 ,	.
 the	DET
-Commerce Commission	NNP
+Commerce Commission	NOUN
 said	VERB
-Commonwealth Edison	NNP
-could	AUX
+Commonwealth Edison	NOUN
+could	None
 raise	VERB
 its	PRON
 electricity	NOUN
 rates	NOUN
 by	ADP
 $ 49 million	NOUN
-to	PART
+to	None
 pay	VERB
 for	ADP
 the	DET
 plant	NOUN
 .	.
-
 But	CONJ
 state	NOUN
 courts	NOUN
@@ -3376,15 +3219,14 @@ the	DET
 rates	NOUN
 illegal	ADJ
 .	.
-
 The	DET
-Illinois Supreme Court	NNP
+Illinois Supreme Court	NOUN
 ordered	VERB
 the	DET
 commission	NOUN
-to	PART
+to	None
 audit	VERB
-Commonwealth Edison's	NNP
+Commonwealth Edison's	NOUN
 construction	NOUN
 expenses	NOUN
 and	CONJ
@@ -3393,7 +3235,6 @@ any	DET
 unreasonable	ADJ
 expenses	NOUN
 .	.
-
 The	DET
 utility	NOUN
 has	VERB
@@ -3412,16 +3253,15 @@ subject to	ADP
 a	DET
 refund	NOUN
 since	ADP
-1986	NNP
+1986	NOUN
 .	.
-
 In	ADP
-August	NNP
+August	NOUN
 ,	.
 the	DET
 commission	NOUN
 ruled	VERB
-that	CC
+that	CONJ
 between	ADP
 $ 190 million	NOUN
 and	CONJ
@@ -3434,20 +3274,19 @@ cost	NOUN
 was	VERB
 unreasonable	ADJ
 and	CONJ
-should	AUX
+should	None
 be	VERB
 refunded	VERB
 ,	.
 plus	CONJ
 interest	NOUN
 .	.
-
 In	ADP
 his	PRON
 ruling	NOUN
 ,	.
-Judge	NNP
-Curry	NNP
+Judge	NOUN
+Curry	NOUN
 added	VERB
 an	DET
 additional	ADJ
@@ -3457,12 +3296,11 @@ the	DET
 commission's	NOUN
 calculations	NOUN
 .	.
-
 Last	ADJ
 month	NOUN
 ,	.
-Judge	NNP
-Curry	NNP
+Judge	NOUN
+Curry	NOUN
 set	VERB
 the	DET
 interest	NOUN
@@ -3473,8 +3311,7 @@ refund	NOUN
 at	ADP
 9 %	NOUN
 .	.
-
-Commonwealth Edison	NNP
+Commonwealth Edison	NOUN
 now	ADV
 faces	VERB
 an	DET
@@ -3486,31 +3323,30 @@ on	ADP
 its	PRON
 summer	NOUN
 \	NOUN
-/	:
+/	.
 winter	VERB
 rate	NOUN
 differential	ADJ
 collections	NOUN
-that	CC
+that	CONJ
 the	DET
-Illinois Appellate Court	NNP
+Illinois Appellate Court	NOUN
 has	VERB
 estimated	VERB
 at	ADP
 $ 140 million	NOUN
 .	.
-
 And	CONJ
 consumer	NOUN
 groups	NOUN
 hope	VERB
-that	CC
-Judge	NNP
-Curry's	NNP
-Byron	NNP
+that	CONJ
+Judge	NOUN
+Curry's	NOUN
+Byron	NOUN
 1	NUM
 order	NOUN
-may	AUX
+may	None
 set	VERB
 a	DET
 precedent	NOUN
@@ -3521,13 +3357,12 @@ nuclear	ADJ
 rate	NOUN
 case	NOUN
 involving	VERB
-Commonwealth Edison's	NNP
-Braidwood	NNP
+Commonwealth Edison's	NOUN
+Braidwood	NOUN
 2	NUM
 plant	NOUN
 .	.
-
-Commonwealth Edison	NNP
+Commonwealth Edison	NOUN
 is	VERB
 seeking	VERB
 about	ADV
@@ -3535,34 +3370,32 @@ $ 245 million	NOUN
 in	ADP
 rate	NOUN
 increases	NOUN
-to	PART
+to	None
 pay	VERB
 for	ADP
-Braidwood	NNP
+Braidwood	NOUN
 2	NUM
 .	.
-
 The	DET
 commission	NOUN
 is	VERB
 expected	VERB
-to	PART
+to	None
 rule	VERB
 on	ADP
 the	DET
-Braidwood	NNP
+Braidwood	NOUN
 2	NUM
 case	NOUN
 by	ADP
 year	NOUN
 end	NOUN
 .	.
-
 Last	ADJ
 year	NOUN
-Commonwealth Edison	NNP
+Commonwealth Edison	NOUN
 had	VERB
-to	PART
+to	None
 refund	VERB
 $ 72.7 million	NOUN
 for	ADP
@@ -3570,12 +3403,11 @@ poor	ADJ
 performance	NOUN
 of	ADP
 its	PRON
-LaSalle I	NNP
+LaSalle I	NOUN
 nuclear	ADJ
 plant	NOUN
 .	.
-
-Japan's	NNP
+Japan's	NOUN
 domestic	ADJ
 sales	NOUN
 of	ADP
@@ -3585,7 +3417,7 @@ trucks	NOUN
 and	CONJ
 buses	NOUN
 in	ADP
-October	NNP
+October	NOUN
 rose	VERB
 18 %	NOUN
 from	ADP
@@ -3603,10 +3435,9 @@ the	DET
 month	NOUN
 ,	.
 the	DET
-Japan Automobile Dealers' Association	NNP
+Japan Automobile Dealers' Association	NOUN
 said	VERB
 .	.
-
 The	DET
 strong	ADJ
 growth	NOUN
@@ -3618,13 +3449,12 @@ increases	NOUN
 of	ADP
 21 %	NOUN
 in	ADP
-August	NNP
+August	NOUN
 and	CONJ
 12 %	NOUN
 in	ADP
-September	NNP
+September	NOUN
 .	.
-
 The	DET
 monthly	ADJ
 sales	NOUN
@@ -3635,10 +3465,9 @@ records	NOUN
 every	DET
 month	NOUN
 since	ADP
-March	NNP
+March	NOUN
 .	.
-
-October	NNP
+October	NOUN
 sales	NOUN
 ,	.
 compared	VERB
@@ -3651,7 +3480,6 @@ inched	VERB
 down	ADV
 0.4 %	NOUN
 .	.
-
 Sales	NOUN
 of	ADP
 passenger	NOUN
@@ -3666,7 +3494,6 @@ to	ADP
 361,376	NUM
 units	NOUN
 .	.
-
 Sales	NOUN
 of	ADP
 medium	ADJ
@@ -3695,17 +3522,15 @@ units	NOUN
 from	ADP
 13,056	NUM
 in	ADP
-October 1988	NNP
+October 1988	NOUN
 .	.
-
-Texas Instruments Japan Ltd	NNP
+Texas Instruments Japan Ltd	NOUN
 .	.
-
 ,	.
 a	DET
 unit	NOUN
 of	ADP
-Texas Instruments Inc.	NNP
+Texas Instruments Inc.	NOUN
 ,	.
 said	VERB
 it	PRON
@@ -3713,27 +3538,26 @@ opened	VERB
 a	DET
 plant	NOUN
 in	ADP
-South Korea	NNP
-to	PART
+South Korea	NOUN
+to	None
 manufacture	VERB
 control	NOUN
 devices	NOUN
 .	.
-
 The	DET
 new	ADJ
 plant	NOUN
 ,	.
 located	VERB
 in	ADP
-Chinchon	NNP
+Chinchon	NOUN
 about	ADV
 60	NUM
 miles	NOUN
 from	ADP
-Seoul	NNP
+Seoul	NOUN
 ,	.
-will	AUX
+will	None
 help	VERB
 meet	VERB
 increasing	VERB
@@ -3744,16 +3568,15 @@ for	ADP
 control	NOUN
 products	NOUN
 in	ADP
-South Korea	NNP
+South Korea	NOUN
 ,	.
 the	DET
 company	NOUN
 said	VERB
 .	.
-
 The	DET
 plant	NOUN
-will	AUX
+will	None
 produce	VERB
 control	NOUN
 devices	NOUN
@@ -3765,12 +3588,11 @@ and	CONJ
 household	NOUN
 appliances	NOUN
 .	.
-
 The	DET
 survival	NOUN
 of	ADP
 spinoff	NOUN
-Cray Computer Corp.	NNP
+Cray Computer Corp.	NOUN
 as	ADP
 a	DET
 fledgling	NOUN
@@ -3779,16 +3601,16 @@ the	DET
 supercomputer	NOUN
 business	NOUN
 appears	VERB
-to	PART
+to	None
 depend	VERB
 heavily	ADV
 on	ADP
 the	DET
 creativity	NOUN
---	:
+--	.
 and	CONJ
 longevity	NOUN
---	:
+--	.
 of	ADP
 its	PRON
 chairman	NOUN
@@ -3796,9 +3618,8 @@ and	CONJ
 chief	NOUN
 designer	NOUN
 ,	.
-Seymour Cray	NNP
+Seymour Cray	NOUN
 .	.
-
 Not	ADV
 only	ADV
 is	VERB
@@ -3812,8 +3633,8 @@ machine	NOUN
 tied	VERB
 directly	ADV
 to	ADP
-Mr.	NNP
-Cray	NNP
+Mr.	NOUN
+Cray	NOUN
 ,	.
 so	ADV
 is	VERB
@@ -3821,20 +3642,19 @@ its	PRON
 balance	NOUN
 sheet	NOUN
 .	.
-
 Documents	NOUN
 filed	VERB
 with	ADP
 the	DET
-Securities and Exchange Commission	NNP
+Securities and Exchange Commission	NOUN
 on	ADP
 the	DET
 pending	VERB
 spinoff	NOUN
 disclosed	VERB
-that	CC
-Cray Research Inc.	NNP
-will	AUX
+that	CONJ
+Cray Research Inc.	NOUN
+will	None
 withdraw	VERB
 the	DET
 almost	ADV
@@ -3848,8 +3668,8 @@ the	DET
 new	ADJ
 firm	NOUN
 if	ADP
-Mr.	NNP
-Cray	NNP
+Mr.	NOUN
+Cray	NOUN
 leaves	VERB
 or	CONJ
 if	ADP
@@ -3862,17 +3682,16 @@ heads	VERB
 is	VERB
 scrapped	VERB
 .	.
-
 The	DET
 documents	NOUN
 also	ADV
 said	VERB
-that	CC
+that	CONJ
 although	ADP
 the	DET
 64 year old	ADJ
-Mr.	NNP
-Cray	NNP
+Mr.	NOUN
+Cray	NOUN
 has	VERB
 been	VERB
 working	VERB
@@ -3884,8 +3703,8 @@ more than	DET
 six years	NOUN
 ,	.
 the	DET
-Cray	NNP
--	:
+Cray	NOUN
+-	.
 3	NUM
 machine	NOUN
 is	VERB
@@ -3898,7 +3717,6 @@ fully	ADV
 operational	ADJ
 prototype	NOUN
 .	.
-
 Moreover	ADJ
 ,	.
 there	PRON
@@ -3908,8 +3726,8 @@ no	DET
 orders	NOUN
 for	ADP
 the	DET
-Cray	NNP
--	:
+Cray	NOUN
+-	.
 3	NUM
 so	ADV
 far	ADV
@@ -3925,7 +3743,6 @@ with	ADP
 several	DET
 prospects	NOUN
 .	.
-
 While	ADP
 many	ADJ
 of	ADP
@@ -3934,16 +3751,16 @@ risks	NOUN
 were	VERB
 anticipated	VERB
 when	ADV
-Minneapolis	NNP
--	:
+Minneapolis	NOUN
+-	.
 based	VERB
-Cray Research	NNP
+Cray Research	NOUN
 first	ADV
 announced	VERB
 the	DET
 spinoff	NOUN
 in	ADP
-May	NNP
+May	NOUN
 ,	.
 the	DET
 strings	NOUN
@@ -3953,86 +3770,82 @@ to	ADP
 the	DET
 financing	NOUN
 had	VERB
-n't	PART
+n't	None
 been	VERB
 made	VERB
 public	ADJ
 until	ADP
 yesterday	NOUN
 .	.
-
-``	OQU
+``	None
 We	PRON
 did	VERB
-n't	PART
+n't	None
 have	VERB
 much	ADV
 of	ADP
 a	DET
 choice	NOUN
 ,	.
-"	QUOT
-Cray Computer's	NNP
+"	None
+Cray Computer's	NOUN
 chief	NOUN
 financial	ADJ
 officer	NOUN
 ,	.
-Gregory Barnum	NNP
+Gregory Barnum	NOUN
 ,	.
 said	VERB
 in	ADP
 an	DET
 interview	NOUN
 .	.
-
-``	OQU
+``	None
 The	DET
 theory	NOUN
 is	VERB
-that	CC
-Seymour	NNP
+that	CONJ
+Seymour	NOUN
 is	VERB
 the	DET
 chief	ADJ
 designer	NOUN
 of	ADP
 the	DET
-Cray	NNP
--	:
+Cray	NOUN
+-	.
 3	NUM
 ,	.
 and	CONJ
 without	ADP
 him	PRON
 it	PRON
-could	AUX
-not	PART
+could	None
+not	None
 be	VERB
 completed	VERB
 .	.
-
-Cray Research	NNP
+Cray Research	NOUN
 did	VERB
-not	PART
+not	None
 want	VERB
-to	PART
+to	None
 fund	VERB
 a	DET
 project	NOUN
-that	CC
+that	CONJ
 did	VERB
-not	PART
+not	None
 include	VERB
-Seymour	NNP
+Seymour	NOUN
 .	.
-
-"	QUOT
+"	None
 The	DET
 documents	NOUN
 also	ADV
 said	VERB
-that	CC
-Cray Computer	NNP
+that	CONJ
+Cray Computer	NOUN
 anticipates	VERB
 needing	VERB
 perhaps	ADV
@@ -4042,22 +3855,20 @@ in	ADP
 financing	NOUN
 beginning	VERB
 next	ADJ
-September	NNP
+September	NOUN
 .	.
-
 But	CONJ
-Mr.	NNP
-Barnum	NNP
+Mr.	NOUN
+Barnum	NOUN
 called	VERB
 that	PRON
-``	OQU
+``	None
 a	DET
 worst	ADJ
 case	NOUN
-"	QUOT
+"	None
 scenario	NOUN
 .	.
-
 The	DET
 filing	NOUN
 on	ADP
@@ -4067,39 +3878,38 @@ of	ADP
 the	DET
 spinoff	NOUN
 caused	VERB
-Cray Research	NNP
+Cray Research	NOUN
 stock	NOUN
-to	PART
+to	None
 jump	VERB
 $ 2.875	NOUN
 yesterday	NOUN
-to	PART
+to	None
 close	VERB
 at	ADP
 $ 38	NOUN
 in	ADP
-New York Stock Exchange	NNP
+New York Stock Exchange	NOUN
 composite	ADJ
 trading	NOUN
 .	.
-
 Analysts	NOUN
 noted	VERB
 yesterday	NOUN
-that	CC
-Cray Research's	NNP
+that	CONJ
+Cray Research's	NOUN
 decision	NOUN
-to	PART
+to	None
 link	VERB
 its	PRON
 $ 98.3 million	NOUN
 promissory	ADJ
 note	NOUN
 to	ADP
-Mr.	NNP
-Cray's	NNP
+Mr.	NOUN
+Cray's	NOUN
 presence	NOUN
-will	AUX
+will	None
 complicate	VERB
 a	DET
 valuation	NOUN
@@ -4108,11 +3918,10 @@ the	DET
 new	ADJ
 company	NOUN
 .	.
-
-``	OQU
+``	None
 It	PRON
 has	VERB
-to	PART
+to	None
 be	VERB
 considered	VERB
 as	ADP
@@ -4123,44 +3932,41 @@ for	ADP
 the	DET
 investor	NOUN
 ,	.
-"	QUOT
+"	None
 said	VERB
-Gary P. Smaby	NNP
+Gary P. Smaby	NOUN
 of	ADP
-Smaby Group Inc.	NNP
+Smaby Group Inc.	NOUN
 ,	.
-Minneapolis	NNP
+Minneapolis	NOUN
 .	.
-
-``	OQU
-Cray Computer	NNP
-will	AUX
+``	None
+Cray Computer	NOUN
+will	None
 be	VERB
 a	DET
 concept	NOUN
 stock	NOUN
 ,	.
-"	QUOT
+"	None
 he	PRON
 said	VERB
 .	.
-
-``	OQU
+``	None
 You	PRON
 either	ADV
 believe	VERB
-Seymour	NNP
-can	AUX
+Seymour	NOUN
+can	None
 do	VERB
 it	PRON
 again	ADV
 or	CONJ
 you	PRON
 do	VERB
-n't	PART
+n't	None
 .	.
-
-"	QUOT
+"	None
 Besides	ADP
 the	DET
 designer's	NOUN
@@ -4170,14 +3976,14 @@ other	ADJ
 risk	NOUN
 factors	NOUN
 for	ADP
-Mr.	NNP
-Cray's	NNP
+Mr.	NOUN
+Cray's	NOUN
 new	ADJ
 company	NOUN
 include	VERB
 the	DET
-Cray	NNP
--	:
+Cray	NOUN
+-	.
 3's	NUM
 tricky	ADJ
 ,	.
@@ -4185,9 +3991,8 @@ unproven	ADJ
 chip	NOUN
 technology	NOUN
 .	.
-
 The	DET
-SEC	NNP
+SEC	NOUN
 documents	NOUN
 describe	VERB
 those	DET
@@ -4207,25 +4012,24 @@ fragile	ADJ
 and	CONJ
 minute	ADJ
 they	PRON
-will	AUX
+will	None
 require	VERB
 special	ADJ
 robotic	ADJ
 handling	NOUN
 equipment	NOUN
 .	.
-
 In addition	ADV
 ,	.
 the	DET
-Cray	NNP
--	:
+Cray	NOUN
+-	.
 3	NUM
-will	AUX
+will	None
 contain	VERB
 16	NUM
 processors	NOUN
---	:
+--	.
 twice	ADV
 as many as	ADV
 the	DET
@@ -4233,18 +4037,17 @@ largest	ADJ
 current	ADJ
 supercomputer	NOUN
 .	.
-
-Cray Computer	NNP
+Cray Computer	NOUN
 also	ADV
-will	AUX
+will	None
 face	VERB
 intense	ADJ
 competition	NOUN
 ,	.
-not	PART
+not	None
 only	ADV
 from	ADP
-Cray Research	NNP
+Cray Research	NOUN
 ,	.
 which	PRON
 has	VERB
@@ -4259,11 +4062,11 @@ and	CONJ
 which	PRON
 is	VERB
 expected	VERB
-to	PART
+to	None
 roll out	VERB
 the	DET
-C	SYM
--	:
+C	X
+-	.
 90	NUM
 machine	NOUN
 ,	.
@@ -4272,31 +4075,30 @@ direct	ADJ
 competitor	NOUN
 with	ADP
 the	DET
-Cray	NNP
--	:
+Cray	NOUN
+-	.
 3	NUM
 ,	.
 in	ADP
-1991	NNP
+1991	NOUN
 .	.
-
 The	DET
 spinoff	NOUN
 also	ADV
-will	AUX
+will	None
 compete	VERB
 with	ADP
-International Business Machines Corp.	NNP
+International Business Machines Corp.	NOUN
 and	CONJ
-Japan's	NNP
+Japan's	NOUN
 Big	ADJ
 Three	NUM
---	:
-Hitachi Ltd.	NNP
+--	.
+Hitachi Ltd.	NOUN
 ,	.
-NEC Corp.	NNP
+NEC Corp.	NOUN
 and	CONJ
-Fujitsu Ltd.	NNP
+Fujitsu Ltd.	NOUN
 The	DET
 new	ADJ
 company	NOUN
@@ -4317,34 +4119,33 @@ between	ADP
 $ 15 million	NOUN
 and	CONJ
 $ 30 million	NOUN
---	:
+--	.
 presumably	ADV
 the	DET
-Cray	NNP
--	:
+Cray	NOUN
+-	.
 3	NUM
 price	NOUN
 range	NOUN
 .	.
-
 Under	ADP
 terms	NOUN
 of	ADP
 the	DET
 spinoff	NOUN
 ,	.
-Cray Research	NNP
+Cray Research	NOUN
 stockholders	NOUN
 are	VERB
-to	PART
+to	None
 receive	VERB
 one	NUM
-Cray Computer	NNP
+Cray Computer	NOUN
 share	NOUN
 for	ADP
 every	DET
 two	NUM
-Cray Research	NNP
+Cray Research	NOUN
 shares	NOUN
 they	PRON
 own	VERB
@@ -4352,13 +4153,12 @@ in	ADP
 a	DET
 distribution	NOUN
 expected	VERB
-to	PART
+to	None
 occur	VERB
 in	ADP
 about	ADV
 two weeks	NOUN
 .	.
-
 No	DET
 price	NOUN
 for	ADP
@@ -4369,33 +4169,30 @@ has	VERB
 been	VERB
 set	VERB
 .	.
-
 Instead	ADV
 ,	.
 the	DET
 companies	NOUN
-will	AUX
+will	None
 leave	VERB
 it	PRON
 up to	ADV
 the	DET
 marketplace	NOUN
-to	PART
+to	None
 decide	VERB
 .	.
-
-Cray Computer	NNP
+Cray Computer	NOUN
 has	VERB
 applied	VERB
-to	PART
+to	None
 trade	VERB
 on	ADP
-Nasdaq	NNP
+Nasdaq	NOUN
 .	.
-
 Analysts	NOUN
 calculate	VERB
-Cray Computer's	NNP
+Cray Computer's	NOUN
 initial	ADJ
 book	NOUN
 value	NOUN
@@ -4405,12 +4202,11 @@ $ 4.75	NOUN
 a	DET
 share	NOUN
 .	.
-
 Along with	ADP
 the	DET
 note	NOUN
 ,	.
-Cray Research	NNP
+Cray Research	NOUN
 is	VERB
 transferring	VERB
 about	ADV
@@ -4423,8 +4219,8 @@ those	DET
 related	VERB
 to	ADP
 the	DET
-Cray	NNP
--	:
+Cray	NOUN
+-	.
 3	NUM
 development	NOUN
 ,	.
@@ -4434,26 +4230,24 @@ been	VERB
 a	DET
 drain	NOUN
 on	ADP
-Cray Research's	NNP
+Cray Research's	NOUN
 earnings	NOUN
 .	.
-
 Pro-forma	ADJ
 balance	NOUN
 sheets	NOUN
 clearly	ADV
 show	VERB
 why	ADV
-Cray Research	NNP
+Cray Research	NOUN
 favored	VERB
 the	DET
 spinoff	NOUN
 .	.
-
 Without	ADP
 the	DET
-Cray	NNP
--	:
+Cray	NOUN
+-	.
 3	NUM
 research	NOUN
 and	CONJ
@@ -4462,11 +4256,11 @@ expenses	NOUN
 ,	.
 the	DET
 company	NOUN
-would	AUX
+would	None
 have	VERB
 been	VERB
 able	ADJ
-to	PART
+to	None
 report	VERB
 a	DET
 profit	NOUN
@@ -4477,14 +4271,13 @@ the	DET
 first	ADJ
 half	DET
 of	ADP
-1989	NNP
+1989	NOUN
 rather than	ADP
 the	DET
 $ 5.9 million	NOUN
 it	PRON
 posted	VERB
 .	.
-
 On	ADP
 the	DET
 other	ADJ
@@ -4495,51 +4288,48 @@ it	PRON
 existed	VERB
 then	ADV
 ,	.
-Cray Computer	NNP
-would	AUX
+Cray Computer	NOUN
+would	None
 have	VERB
 incurred	VERB
 a	DET
 $ 20.5 million	NOUN
 loss	NOUN
 .	.
-
-Mr.	NNP
-Cray	NNP
+Mr.	NOUN
+Cray	NOUN
 ,	.
 who	PRON
-could	AUX
-n't	PART
+could	None
+n't	None
 be	VERB
 reached	VERB
 for	ADP
 comment	NOUN
 ,	.
-will	AUX
+will	None
 work	VERB
 for	ADP
 the	DET
 new	ADJ
-Colorado Springs	NNP
+Colorado Springs	NOUN
 ,	.
-Colo	NNP
+Colo	NOUN
 .	.
-
 ,	.
 company	NOUN
 as	ADP
 an	DET
 independent	ADJ
 contractor	NOUN
---	:
+--	.
 the	DET
 arrangement	NOUN
 he	PRON
 had	VERB
 with	ADP
-Cray Research	NNP
+Cray Research	NOUN
 .	.
-
 Regarded	VERB
 as	ADP
 the	DET
@@ -4548,34 +4338,31 @@ of	ADP
 the	DET
 supercomputer	NOUN
 ,	.
-Mr.	NNP
-Cray	NNP
+Mr.	NOUN
+Cray	NOUN
 was	VERB
 paid	VERB
 $ 600,000	NOUN
 at	ADP
-Cray Research	NNP
+Cray Research	NOUN
 last	ADJ
 year	NOUN
 .	.
-
 At	ADP
-Cray Computer	NNP
+Cray Computer	NOUN
 ,	.
 he	PRON
-will	AUX
+will	None
 be	VERB
 paid	VERB
 $ 240,000	NOUN
 .	.
-
 Besides	ADP
-Messrs	NNP
+Messrs	NOUN
 .	.
-
-Cray	NNP
+Cray	NOUN
 and	CONJ
-Barnum	NNP
+Barnum	NOUN
 ,	.
 other	ADJ
 senior	ADJ
@@ -4584,7 +4371,7 @@ at	ADP
 the	DET
 company	NOUN
 includes	VERB
-Neil Davenport	NNP
+Neil Davenport	NOUN
 ,	.
 47	NUM
 ,	.
@@ -4593,8 +4380,8 @@ and	CONJ
 chief	NOUN
 executive	NOUN
 officer	NOUN
-;	:
-Joseph M. Blanchard	NNP
+;	.
+Joseph M. Blanchard	NOUN
 ,	.
 37	NUM
 ,	.
@@ -4602,8 +4389,8 @@ vice	NOUN
 president	NOUN
 ,	.
 engineering	NOUN
-;	:
-Malcolm A. Hammerton	NNP
+;	.
+Malcolm A. Hammerton	NOUN
 ,	.
 40	NUM
 ,	.
@@ -4611,9 +4398,9 @@ vice	NOUN
 president	NOUN
 ,	.
 software	NOUN
-;	:
+;	.
 and	CONJ
-Douglas R. Wheeland	NNP
+Douglas R. Wheeland	NOUN
 ,	.
 45	NUM
 ,	.
@@ -4622,14 +4409,12 @@ president	NOUN
 ,	.
 hardware	NOUN
 .	.
-
 All	PRON
 came	VERB
 from	ADP
-Cray Research	NNP
+Cray Research	NOUN
 .	.
-
-Cray Computer	NNP
+Cray Computer	NOUN
 ,	.
 which	PRON
 currently	ADV
@@ -4649,10 +4434,9 @@ by	ADP
 the	DET
 end	NOUN
 of	ADP
-1990	NNP
+1990	NOUN
 .	.
-
-John R. Stevens	NNP
+John R. Stevens	NOUN
 ,	.
 49 years old	ADJ
 ,	.
@@ -4671,14 +4455,13 @@ both	DET
 new	ADJ
 positions	NOUN
 .	.
-
 He	PRON
-will	AUX
+will	None
 continue	VERB
-to	PART
+to	None
 report	VERB
 to	ADP
-Donald Pardus	NNP
+Donald Pardus	NOUN
 ,	.
 president	NOUN
 and	CONJ
@@ -4686,9 +4469,8 @@ chief	NOUN
 executive	NOUN
 officer	NOUN
 .	.
-
-Mr.	NNP
-Stevens	NNP
+Mr.	NOUN
+Stevens	NOUN
 was	VERB
 executive	NOUN
 vice	NOUN
@@ -4700,9 +4482,8 @@ utility	NOUN
 holding	NOUN
 company	NOUN
 .	.
-
-Arthur A.	NNP
-Hatch	NNP
+Arthur A.	NOUN
+Hatch	NOUN
 ,	.
 59	NUM
 ,	.
@@ -4715,7 +4496,6 @@ of	ADP
 the	DET
 company	NOUN
 .	.
-
 He	PRON
 was	VERB
 previously	ADV
@@ -4723,36 +4503,33 @@ president	NOUN
 of	ADP
 the	DET
 company's	NOUN
-Eastern Edison Co.	NNP
+Eastern Edison Co.	NOUN
 unit	NOUN
 .	.
-
-John D. Carney	NNP
+John D. Carney	NOUN
 ,	.
 45	NUM
 ,	.
 was	VERB
 named	VERB
-to	PART
+to	None
 succeed	VERB
-Mr.	NNP
-Hatch	NNP
+Mr.	NOUN
+Hatch	NOUN
 as	ADP
 president	NOUN
 of	ADP
-Eastern Edison	NNP
+Eastern Edison	NOUN
 .	.
-
 Previously	ADV
 he	PRON
 was	VERB
 vice	ADV
 president	NOUN
 of	ADP
-Eastern Edison	NNP
+Eastern Edison	NOUN
 .	.
-
-Robert P. Tassinari	NNP
+Robert P. Tassinari	NOUN
 ,	.
 63	NUM
 ,	.
@@ -4762,18 +4539,16 @@ senior	ADJ
 vice	NOUN
 president	NOUN
 of	ADP
-Eastern Utilities	NNP
+Eastern Utilities	NOUN
 .	.
-
 He	PRON
 was	VERB
 previously	ADV
 vice	NOUN
 president	NOUN
 .	.
-
 The	DET
-U.S.	NNP
+U.S.	NOUN
 ,	.
 claiming	VERB
 some	DET
@@ -4784,11 +4559,11 @@ trade	NOUN
 diplomacy	NOUN
 ,	.
 removed	VERB
-South Korea	NNP
+South Korea	NOUN
 ,	.
-Taiwan	NNP
+Taiwan	NOUN
 and	CONJ
-Saudi Arabia	NNP
+Saudi Arabia	NOUN
 from	ADP
 a	DET
 list	NOUN
@@ -4801,9 +4576,9 @@ watching	VERB
 for	ADP
 allegedly	ADV
 failing	VERB
-to	PART
+to	None
 honor	VERB
-U.S.	NNP
+U.S.	NOUN
 patents	NOUN
 ,	.
 copyrights	NOUN
@@ -4813,24 +4588,23 @@ intellectual	ADJ
 property	NOUN
 rights	NOUN
 .	.
-
 However	ADV
 ,	.
 five	NUM
 other	ADJ
 countries	NOUN
---	:
-China	NNP
+--	.
+China	NOUN
 ,	.
-Thailand	NNP
+Thailand	NOUN
 ,	.
-India	NNP
+India	NOUN
 ,	.
-Brazil	NNP
+Brazil	NOUN
 and	CONJ
-Mexico	NNP
---	:
-will	AUX
+Mexico	NOUN
+--	.
+will	None
 remain	VERB
 on	ADP
 that	DET
@@ -4846,22 +4620,21 @@ an	DET
 interim	ADJ
 review	NOUN
 ,	.
-U.S.	NNP
-Trade Representative	NNP
-Carla Hills	NNP
+U.S.	NOUN
+Trade Representative	NOUN
+Carla Hills	NOUN
 announced	VERB
 .	.
-
 Under	ADP
 the	DET
 new	ADJ
-U.S.	NNP
+U.S.	NOUN
 trade	NOUN
 law	NOUN
 ,	.
 those	DET
 countries	NOUN
-could	AUX
+could	None
 face	VERB
 accelerated	ADJ
 unfair	NOUN
@@ -4874,7 +4647,7 @@ sanctions	NOUN
 if	ADP
 they	PRON
 do	VERB
-n't	PART
+n't	None
 improve	VERB
 their	PRON
 protection	NOUN
@@ -4885,16 +4658,15 @@ by	ADP
 next	ADJ
 spring	NOUN
 .	.
-
-Mrs.	NNP
-Hills	NNP
+Mrs.	NOUN
+Hills	NOUN
 said	VERB
 many	ADJ
 of	ADP
 the	DET
 25	NUM
 countries	NOUN
-that	CC
+that	CONJ
 she	PRON
 placed	VERB
 under	ADP
@@ -4904,24 +4676,23 @@ of	ADP
 scrutiny	NOUN
 have	VERB
 made	VERB
-``	OQU
+``	None
 genuine	ADJ
 progress	NOUN
-"	QUOT
+"	None
 on	ADP
 this	DET
 touchy	ADJ
 issue	NOUN
 .	.
-
 She	PRON
 said	VERB
 there	PRON
 is	VERB
-``	OQU
+``	None
 growing	VERB
 realization	NOUN
-"	QUOT
+"	None
 around	ADP
 the	DET
 world	NOUN
@@ -4939,26 +4710,25 @@ nations	NOUN
 and	CONJ
 particularly	ADV
 the	DET
-``	OQU
+``	None
 creativity	NOUN
 and	CONJ
 inventiveness	NOUN
 of	ADP
 an	DET
-{	OPAR
+{	None
 offending	VERB
-}	CPAR
+}	None
 country's	NOUN
 own	ADJ
 citizens	NOUN
 .	.
-
-"	QUOT
-U.S.	NNP
+"	None
+U.S.	NOUN
 trade	NOUN
 negotiators	NOUN
 argue	VERB
-that	CC
+that	CONJ
 countries	NOUN
 with	ADP
 inadequate	ADJ
@@ -4967,7 +4737,7 @@ for	ADP
 intellectual	ADJ
 property	NOUN
 rights	NOUN
-could	AUX
+could	None
 be	VERB
 hurting	VERB
 themselves	PRON
@@ -4981,7 +4751,7 @@ authors	NOUN
 and	CONJ
 by	ADP
 deterring	VERB
-U.S.	NNP
+U.S.	NOUN
 high	ADJ
 technology	NOUN
 firms	NOUN
@@ -4994,11 +4764,10 @@ best	ADJ
 products	NOUN
 there	ADV
 .	.
-
-Mrs.	NNP
-Hills	NNP
+Mrs.	NOUN
+Hills	NOUN
 lauded	VERB
-South Korea	NNP
+South Korea	NOUN
 for	ADP
 creating	VERB
 an	DET
@@ -5016,15 +4785,14 @@ officers	NOUN
 and	CONJ
 prosecutors	NOUN
 trained	VERB
-to	PART
+to	None
 pursue	VERB
 movie	NOUN
 and	CONJ
 book	NOUN
 pirates	NOUN
 .	.
-
-Seoul	NNP
+Seoul	NOUN
 also	ADV
 has	VERB
 instituted	VERB
@@ -5033,7 +4801,7 @@ search	NOUN
 and	CONJ
 seizure	NOUN
 procedures	NOUN
-to	PART
+to	None
 aid	VERB
 these	DET
 teams	NOUN
@@ -5041,15 +4809,14 @@ teams	NOUN
 she	PRON
 said	VERB
 .	.
-
-Taiwan	NNP
+Taiwan	NOUN
 has	VERB
 improved	VERB
 its	PRON
 standing	NOUN
 with	ADP
 the	DET
-U.S.	NNP
+U.S.	NOUN
 by	ADP
 initialing	VERB
 a	DET
@@ -5064,7 +4831,7 @@ law	NOUN
 and	CONJ
 introducing	VERB
 legislation	NOUN
-to	PART
+to	None
 protect	VERB
 foreign	ADJ
 movie	NOUN
@@ -5076,12 +4843,11 @@ of	ADP
 their	PRON
 films	NOUN
 .	.
-
 That	DET
 measure	NOUN
-could	AUX
+could	None
 compel	VERB
-Taipei's	NNP
+Taipei's	NOUN
 growing	VERB
 number	NOUN
 of	ADP
@@ -5089,7 +4855,7 @@ small	ADJ
 video	NOUN
 viewing	VERB
 parlors	NOUN
-to	PART
+to	None
 pay	VERB
 movie	NOUN
 producers	NOUN
@@ -5098,8 +4864,7 @@ showing	VERB
 their	PRON
 films	NOUN
 .	.
-
-Saudi Arabia	NNP
+Saudi Arabia	NOUN
 ,	.
 for	ADP
 its	PRON
@@ -5107,7 +4872,7 @@ part	NOUN
 ,	.
 has	VERB
 vowed	VERB
-to	PART
+to	None
 enact	VERB
 a	DET
 copyright	NOUN
@@ -5117,7 +4882,7 @@ with	ADP
 international	ADJ
 standards	NOUN
 and	CONJ
-to	PART
+to	None
 apply	VERB
 the	DET
 law	NOUN
@@ -5129,16 +4894,15 @@ as to	ADP
 literary	ADJ
 works	NOUN
 ,	.
-Mrs.	NNP
-Hills	NNP
+Mrs.	NOUN
+Hills	NOUN
 said	VERB
 .	.
-
 These	DET
 three	NUM
 countries	NOUN
 are	VERB
-n't	PART
+n't	None
 completely	ADV
 off	ADP
 the	DET
@@ -5146,36 +4910,34 @@ hook	NOUN
 ,	.
 though	ADV
 .	.
-
 They	PRON
-will	AUX
+will	None
 remain	VERB
 on	ADP
 a	DET
 lower	ADJ
 priority	NOUN
 list	NOUN
-that	CC
+that	CONJ
 includes	VERB
 17	NUM
 other	ADJ
 countries	NOUN
 .	.
-
 Those	DET
 countries	NOUN
---	:
+--	.
 including	VERB
-Japan	NNP
+Japan	NOUN
 ,	.
-Italy	NNP
+Italy	NOUN
 ,	.
-Canada	NNP
+Canada	NOUN
 ,	.
-Greece	NNP
+Greece	NOUN
 and	CONJ
-Spain	NNP
---	:
+Spain	NOUN
+--	.
 are	VERB
 still	ADV
 of	ADP
@@ -5183,11 +4945,11 @@ some	DET
 concern	NOUN
 to	ADP
 the	DET
-U.S.	NNP
+U.S.	NOUN
 but	CONJ
 are	VERB
 deemed	VERB
-to	PART
+to	None
 pose	VERB
 less	ADV
 serious	ADJ
@@ -5202,16 +4964,15 @@ than	ADP
 those	DET
 on	ADP
 the	DET
-``	OQU
+``	None
 priority	NOUN
-"	QUOT
+"	None
 list	NOUN
 .	.
-
-Gary Hoffman	NNP
+Gary Hoffman	NOUN
 ,	.
 a	DET
-Washington	NNP
+Washington	NOUN
 lawyer	NOUN
 specializing	VERB
 in	ADP
@@ -5223,7 +4984,7 @@ said	VERB
 the	DET
 threat	NOUN
 of	ADP
-U.S.	NNP
+U.S.	NOUN
 retaliation	NOUN
 ,	.
 combined	VERB
@@ -5231,7 +4992,7 @@ with	ADP
 a	DET
 growing	VERB
 recognition	NOUN
-that	CC
+that	CONJ
 protecting	VERB
 intellectual	ADJ
 property	NOUN
@@ -5247,42 +5008,40 @@ the	DET
 improvements	NOUN
 made	VERB
 by	ADP
-South Korea	NNP
+South Korea	NOUN
 ,	.
-Taiwan	NNP
+Taiwan	NOUN
 and	CONJ
-Saudi Arabia	NNP
+Saudi Arabia	NOUN
 .	.
-
-``	OQU
+``	None
 What	PRON
 this	PRON
 tells	VERB
 us	PRON
 is	VERB
-that	CC
-U.S.	NNP
+that	CONJ
+U.S.	NOUN
 trade	NOUN
 law	NOUN
 is	VERB
 working	VERB
 ,	.
-"	QUOT
+"	None
 he	PRON
 said	VERB
 .	.
-
 He	PRON
 said	VERB
-Mexico	NNP
-could	AUX
+Mexico	NOUN
+could	None
 be	VERB
 one	NUM
 of	ADP
 the	DET
 next	ADJ
 countries	NOUN
-to	PART
+to	None
 be	VERB
 removed	VERB
 from	ADP
@@ -5292,46 +5051,44 @@ list	NOUN
 because of	ADP
 its	PRON
 efforts	NOUN
-to	PART
+to	None
 craft	VERB
 a	DET
 new	ADJ
 patent	NOUN
 law	NOUN
 .	.
-
-Mrs.	NNP
-Hills	NNP
+Mrs.	NOUN
+Hills	NOUN
 said	VERB
-that	CC
+that	CONJ
 the	DET
-U.S.	NNP
+U.S.	NOUN
 is	VERB
 still	ADV
 concerned	VERB
 about	ADP
-``	OQU
+``	None
 disturbing	ADJ
 developments	NOUN
 in	ADP
-Turkey	NNP
+Turkey	NOUN
 and	CONJ
 continuing	VERB
 slow	ADJ
 progress	NOUN
 in	ADP
-Malaysia	NNP
+Malaysia	NOUN
 .	.
-
-"	QUOT
+"	None
 She	PRON
 did	VERB
-n't	PART
+n't	None
 elaborate	ADJ
 ,	.
 although	ADP
 earlier	ADJ
-U.S.	NNP
+U.S.	NOUN
 trade	NOUN
 reports	NOUN
 have	VERB
@@ -5340,25 +5097,24 @@ of	ADP
 videocassette	NOUN
 piracy	NOUN
 in	ADP
-Malaysia	NNP
+Malaysia	NOUN
 and	CONJ
 disregard	NOUN
 for	ADP
-U.S.	NNP
+U.S.	NOUN
 pharmaceutical	ADJ
 patents	NOUN
 in	ADP
-Turkey	NNP
+Turkey	NOUN
 .	.
-
 The	DET
-1988	NNP
+1988	NOUN
 trade	NOUN
 act	NOUN
 requires	VERB
-Mrs.	NNP
-Hills	NNP
-to	PART
+Mrs.	NOUN
+Hills	NOUN
+to	None
 issue	VERB
 another	DET
 review	NOUN
@@ -5369,22 +5125,21 @@ of	ADP
 these	DET
 countries	NOUN
 by	ADP
-April 30	NNP
+April 30	NOUN
 .	.
-
 So	ADP
 far	ADV
 ,	.
-Mrs.	NNP
-Hills	NNP
+Mrs.	NOUN
+Hills	NOUN
 has	VERB
-n't	PART
+n't	None
 deemed	VERB
 any	DET
 cases	NOUN
 bad	ADJ
 enough	ADV
-to	PART
+to	None
 merit	VERB
 an	DET
 accelerated	VERB
@@ -5399,22 +5154,21 @@ of	ADP
 the	DET
 act	NOUN
 .	.
-
-Argentina	NNP
+Argentina	NOUN
 said	VERB
 it	PRON
-will	AUX
+will	None
 ask	VERB
 creditor	NOUN
 banks	NOUN
-to	PART
+to	None
 halve	VERB
 its	PRON
 foreign	ADJ
 debt	NOUN
 of	ADP
 $ 64 billion	NOUN
---	:
+--	.
 the	DET
 third	ADJ
 highest	ADJ
@@ -5423,16 +5177,15 @@ the	DET
 developing	VERB
 world	NOUN
 .	.
-
 The	DET
 declaration	NOUN
 by	ADP
-Economy	NNP
-Minister	NNP
-Nestor Rapanelli	NNP
+Economy	NOUN
+Minister	NOUN
+Nestor Rapanelli	NOUN
 is	VERB
 believed	VERB
-to	PART
+to	None
 be	VERB
 the first time	ADP
 such	DET
@@ -5450,7 +5203,6 @@ of	ADP
 such	DET
 stature	NOUN
 .	.
-
 The	DET
 Latin	ADJ
 American	ADJ
@@ -5467,11 +5219,10 @@ early	ADJ
 last	ADJ
 year	NOUN
 .	.
-
-``	OQU
-Argentina	NNP
+``	None
+Argentina	NOUN
 aspires	VERB
-to	PART
+to	None
 reach	VERB
 a	DET
 reduction	NOUN
@@ -5485,58 +5236,55 @@ its	PRON
 external	ADJ
 debt	NOUN
 ,	.
-"	QUOT
-Mr.	NNP
-Rapanelli	NNP
+"	None
+Mr.	NOUN
+Rapanelli	NOUN
 said	VERB
 through	ADP
 his	PRON
 spokesman	NOUN
 ,	.
-Miguel Alurralde	NNP
+Miguel Alurralde	NOUN
 .	.
-
-Mr.	NNP
-Rapanelli	NNP
+Mr.	NOUN
+Rapanelli	NOUN
 met	VERB
 in	ADP
-August	NNP
+August	NOUN
 with	ADP
-U.S.	NNP
-Assistant Treasury Secretary	NNP
-David Mulford	NNP
+U.S.	NOUN
+Assistant Treasury Secretary	NOUN
+David Mulford	NOUN
 .	.
-
 Argentine	ADJ
 negotiator	NOUN
-Carlos Carballo	NNP
+Carlos Carballo	NOUN
 was	VERB
 in	ADP
-Washington	NNP
+Washington	NOUN
 and	CONJ
-New York	NNP
+New York	NOUN
 this	DET
 week	NOUN
-to	PART
+to	None
 meet	VERB
 with	ADP
 banks	NOUN
 .	.
-
-Mr.	NNP
-Rapanelli	NNP
+Mr.	NOUN
+Rapanelli	NOUN
 recently	ADV
 has	VERB
 said	VERB
 the	DET
 government	NOUN
 of	ADP
-President Carlos Menem	NNP
+President Carlos Menem	NOUN
 ,	.
 who	PRON
 took	VERB
 office	NOUN
-Jul. 8	NNP
+Jul. 8	NOUN
 ,	.
 feels	VERB
 a	DET
@@ -5553,18 +5301,17 @@ way	NOUN
 the	DET
 debt	NOUN
 problem	NOUN
-may	AUX
+may	None
 be	VERB
 solved	VERB
 .	.
-
 But	CONJ
 he	PRON
 has	VERB
-not	PART
+not	None
 said	VERB
 before	ADP
-that	CC
+that	CONJ
 the	DET
 country	NOUN
 wants	VERB
@@ -5573,22 +5320,21 @@ the	DET
 debt	NOUN
 forgiven	VERB
 .	.
-
-(	OPAR
+(	None
 During	ADP
 its	PRON
 centennial	NOUN
 year	NOUN
 ,	.
-The Wall Street Journal	NNP
-will	AUX
+The Wall Street Journal	NOUN
+will	None
 report	VERB
 events	NOUN
 of	ADP
 the	DET
 past	ADJ
 century	NOUN
-that	CC
+that	CONJ
 stand	VERB
 as	ADP
 milestones	NOUN
@@ -5597,11 +5343,10 @@ American	ADJ
 business	NOUN
 history	NOUN
 .	.
-
-)	CPAR
+)	None
 THREE	NUM
 COMPUTERS	NOUN
-that	CC
+that	CONJ
 CHANGED	VERB
 the	DET
 face	NOUN
@@ -5611,24 +5356,22 @@ computing	NOUN
 were	VERB
 launched	VERB
 in	ADP
-1977	NNP
+1977	NOUN
 .	.
-
 That	DET
 year	NOUN
 the	DET
-Apple II	NNP
+Apple II	NOUN
 ,	.
-Commodore	NNP
-Pet	NNP
+Commodore	NOUN
+Pet	NOUN
 and	CONJ
-Tandy	NNP
-TRS-80	NNP
+Tandy	NOUN
+TRS-80	NOUN
 came	VERB
 to	ADP
 market	NOUN
 .	.
-
 The	DET
 computers	NOUN
 were	VERB
@@ -5637,14 +5380,13 @@ by	ADP
 today's	NOUN
 standards	NOUN
 .	.
-
-Apple II	NNP
+Apple II	NOUN
 owners	NOUN
 ,	.
 for example	ADV
 ,	.
 had	VERB
-to	PART
+to	None
 use	VERB
 their	PRON
 television	NOUN
@@ -5657,15 +5399,14 @@ data	NOUN
 on	ADP
 audiocassettes	NOUN
 .	.
-
 But	CONJ
-Apple II	NNP
+Apple II	NOUN
 was	VERB
 a	DET
 major	ADJ
 advance	NOUN
 from	ADP
-Apple I	NNP
+Apple I	NOUN
 ,	.
 which	PRON
 was	VERB
@@ -5674,28 +5415,26 @@ in	ADP
 a	DET
 garage	NOUN
 by	ADP
-Stephen Wozniak	NNP
+Stephen Wozniak	NOUN
 and	CONJ
-Steven Jobs	NNP
+Steven Jobs	NOUN
 for	ADP
 hobbyists	NOUN
 such as	ADP
 the	DET
-Homebrew	NNP
-Computer	NNP
-Club	NNP
+Homebrew	NOUN
+Computer	NOUN
+Club	NOUN
 .	.
-
 In addition	ADV
 ,	.
 the	DET
-Apple II	NNP
+Apple II	NOUN
 was	VERB
 an	DET
 affordable	ADJ
 $ 1,298	NOUN
 .	.
-
 Crude	ADJ
 as	ADP
 they	PRON
@@ -5717,7 +5456,6 @@ home	NOUN
 and	CONJ
 office	NOUN
 .	.
-
 Big	ADJ
 mainframe	NOUN
 computers	NOUN
@@ -5729,13 +5467,12 @@ around	ADP
 for	ADP
 years	NOUN
 .	.
-
 But	CONJ
 the	DET
 new	ADJ
-1977	NNP
+1977	NOUN
 PCs	NOUN
---	:
+--	.
 unlike	ADP
 earlier	ADJ
 built	VERB
@@ -5744,16 +5481,16 @@ kit	NOUN
 types	NOUN
 such as	ADP
 the	DET
-Altair	NNP
+Altair	NOUN
 ,	.
-Sol	NNP
+Sol	NOUN
 and	CONJ
-IMSAI	NNP
---	:
+IMSAI	NOUN
+--	.
 had	VERB
 keyboards	NOUN
 and	CONJ
-could	AUX
+could	None
 store	VERB
 about	ADV
 two	NUM
@@ -5764,7 +5501,6 @@ in	ADP
 their	PRON
 memories	NOUN
 .	.
-
 Current	ADJ
 PCs	NOUN
 are	VERB
@@ -5781,10 +5517,9 @@ times	NOUN
 greater	ADJ
 than	ADP
 their	PRON
-1977	NNP
+1977	NOUN
 counterparts	NOUN
 .	.
-
 There	PRON
 were	VERB
 many	ADJ
@@ -5792,12 +5527,11 @@ pioneer	NOUN
 PC	NOUN
 contributors	NOUN
 .	.
-
-William Gates	NNP
+William Gates	NOUN
 and	CONJ
-Paul Allen	NNP
+Paul Allen	NOUN
 in	ADP
-1975	NNP
+1975	NOUN
 developed	VERB
 an	DET
 early	ADJ
@@ -5808,35 +5542,34 @@ for	ADP
 PCs	NOUN
 ,	.
 and	CONJ
-Gates	NNP
+Gates	NOUN
 became	VERB
 an	DET
 industry	NOUN
 billionaire	NOUN
 six years	NOUN
 after	ADP
-IBM	NNP
+IBM	NOUN
 adapted	VERB
 one	NUM
 of	ADP
 these	DET
 versions	NOUN
 in	ADP
-1981	NNP
+1981	NOUN
 .	.
-
-Alan F. Shugart	NNP
+Alan F. Shugart	NOUN
 ,	.
 currently	ADV
 chairman	NOUN
 of	ADP
-Seagate	NNP
-Technology	NNP
+Seagate	NOUN
+Technology	NOUN
 ,	.
 led	VERB
 the	DET
 team	NOUN
-that	CC
+that	CONJ
 developed	VERB
 the	DET
 disk	NOUN
@@ -5844,14 +5577,13 @@ drives	NOUN
 for	ADP
 PCs	NOUN
 .	.
-
-Dennis Hayes	NNP
+Dennis Hayes	NOUN
 and	CONJ
-Dale	NNP
-Heatherington	NNP
+Dale	NOUN
+Heatherington	NOUN
 ,	.
 two	NUM
-Atlanta	NNP
+Atlanta	NOUN
 engineers	NOUN
 ,	.
 were	VERB
@@ -5861,18 +5593,17 @@ of	ADP
 the	DET
 internal	ADJ
 modems	NOUN
-that	CC
+that	CONJ
 allow	VERB
 PCs	NOUN
-to	PART
+to	None
 share	VERB
 data	NOUN
 via	ADP
 the	DET
 telephone	NOUN
 .	.
-
-IBM	NNP
+IBM	NOUN
 ,	.
 the	DET
 world	NOUN
@@ -5881,13 +5612,13 @@ in	ADP
 computers	NOUN
 ,	.
 did	VERB
-n't	PART
+n't	None
 offer	VERB
 its	PRON
 first	ADJ
 PC	NOUN
 until	ADP
-August 1981	NNP
+August 1981	NOUN
 as	ADP
 many	ADJ
 other	ADJ
@@ -5896,7 +5627,6 @@ entered	VERB
 the	DET
 market	NOUN
 .	.
-
 Today	NOUN
 ,	.
 PC	NOUN
@@ -5907,13 +5637,11 @@ some	DET
 $ 38.3 billion	NOUN
 world-wide	ADJ
 .	.
-
-F.H.	NNP
-Faulding	NNP
+F.H.	NOUN
+Faulding	NOUN
 &	CONJ
 Co	NOUN
 .	.
-
 ,	.
 an	DET
 Australian	ADJ
@@ -5922,51 +5650,48 @@ company	NOUN
 ,	.
 said	VERB
 its	PRON
-Moleculon Inc.	NNP
+Moleculon Inc.	NOUN
 affiliate	NOUN
 acquired	VERB
-Kalipharma Inc.	NNP
+Kalipharma Inc.	NOUN
 for	ADP
 $ 23 million	NOUN
 .	.
-
-Kalipharma	NNP
+Kalipharma	NOUN
 is	VERB
 a	DET
-New Jersey	NNP
--	:
+New Jersey	NOUN
+-	.
 based	VERB
 pharmaceuticals	NOUN
 concern	NOUN
-that	CC
+that	CONJ
 sells	VERB
 products	NOUN
 under	ADP
 the	DET
-Purepac	NNP
+Purepac	NOUN
 label	NOUN
 .	.
-
-Faulding	NNP
+Faulding	NOUN
 said	VERB
 it	PRON
 owns	VERB
 33 %	NOUN
 of	ADP
-Moleculon's	NNP
+Moleculon's	NOUN
 voting	NOUN
 stock	NOUN
 and	CONJ
 has	VERB
 an	DET
 agreement	NOUN
-to	PART
+to	None
 acquire	VERB
 an	DET
 additional	ADJ
-19 %	NNP
+19 %	NOUN
 .	.
-
 That	DET
 stake	NOUN
 ,	.
@@ -5979,28 +5704,27 @@ stock	NOUN
 holdings	NOUN
 ,	.
 gives	VERB
-Faulding	NNP
+Faulding	NOUN
 the	DET
 right	NOUN
-to	PART
+to	None
 increase	VERB
 its	PRON
 interest	NOUN
 to	ADP
 70 %	NOUN
 of	ADP
-Moleculon's	NNP
+Moleculon's	NOUN
 voting	NOUN
 stock	NOUN
 .	.
-
 Oil	NOUN
 production	NOUN
 from	ADP
-Australia's	NNP
-Bass Strait	NNP
+Australia's	NOUN
+Bass Strait	NOUN
 fields	NOUN
-will	AUX
+will	None
 be	VERB
 raised	VERB
 by	ADP
@@ -6017,7 +5741,7 @@ the	DET
 launch	NOUN
 of	ADP
 the	DET
-Whiting	NNP
+Whiting	NOUN
 field	NOUN
 ,	.
 the	DET
@@ -6027,7 +5751,7 @@ five	NUM
 small	ADJ
 fields	NOUN
 scheduled	VERB
-to	PART
+to	None
 be	VERB
 brought	VERB
 into	ADP
@@ -6036,23 +5760,21 @@ before	ADP
 the	DET
 end	NOUN
 of	ADP
-1990	NNP
+1990	NOUN
 .	.
-
-Esso Australia Ltd	NNP
+Esso Australia Ltd	NOUN
 .	.
-
 ,	.
 a	DET
 unit	NOUN
 of	ADP
-New York	NNP
--	:
+New York	NOUN
+-	.
 based	VERB
-Exxon Corp.	NNP
+Exxon Corp.	NOUN
 ,	.
 and	CONJ
-Broken Hill Pty.	NNP
+Broken Hill Pty.	NOUN
 operate	VERB
 the	DET
 fields	NOUN
@@ -6061,19 +5783,17 @@ a	DET
 joint	ADJ
 venture	NOUN
 .	.
-
-Esso	NNP
+Esso	NOUN
 said	VERB
 the	DET
-Whiting	NNP
+Whiting	NOUN
 field	NOUN
 started	VERB
 production	NOUN
-Tuesday	NNP
+Tuesday	NOUN
 .	.
-
 Output	NOUN
-will	AUX
+will	None
 be	VERB
 gradually	ADV
 increased	VERB
@@ -6086,7 +5806,6 @@ barrels	NOUN
 a	DET
 day	NOUN
 .	.
-
 The	DET
 field	NOUN
 has	VERB
@@ -6095,7 +5814,6 @@ of	ADP
 21 million	NOUN
 barrels	NOUN
 .	.
-
 Reserves	NOUN
 for	ADP
 the	DET
@@ -6106,15 +5824,14 @@ total	VERB
 50 million	NOUN
 barrels	NOUN
 .	.
-
 The	DET
-Perch	NNP
+Perch	NOUN
 and	CONJ
-Dolphin	NNP
+Dolphin	NOUN
 fields	NOUN
 are	VERB
 expected	VERB
-to	PART
+to	None
 start	VERB
 producing	VERB
 early	ADJ
@@ -6123,15 +5840,14 @@ year	NOUN
 ,	.
 and	CONJ
 the	DET
-Seahorse	NNP
+Seahorse	NOUN
 and	CONJ
-Tarwhine	NNP
+Tarwhine	NOUN
 fields	NOUN
 later	ADJ
 next	ADJ
 year	NOUN
 .	.
-
 Esso	NOUN
 said	VERB
 the	DET
@@ -6144,8 +5860,8 @@ Australian	ADJ
 government	NOUN
 decided	VERB
 in	ADP
-1987	NNP
-to	PART
+1987	NOUN
+to	None
 make	VERB
 the	DET
 first	ADJ
@@ -6159,8 +5875,7 @@ of	ADP
 excise	ADJ
 tax	NOUN
 .	.
-
-R.P. Scherer Corp.	NNP
+R.P. Scherer Corp.	NOUN
 said	VERB
 it	PRON
 completed	VERB
@@ -6169,7 +5884,7 @@ $ 10.2 million	NOUN
 sale	NOUN
 of	ADP
 its	PRON
-Southern Optical	NNP
+Southern Optical	NOUN
 subsidiary	NOUN
 to	ADP
 a	DET
@@ -6180,28 +5895,27 @@ the	DET
 unit's	NOUN
 president	NOUN
 ,	.
-Thomas R. Sloan	NNP
+Thomas R. Sloan	NOUN
 ,	.
 and	CONJ
 other	ADJ
 managers	NOUN
 .	.
-
 Following	VERB
 the	DET
 acquisition	NOUN
 of	ADP
-R.P.	NNP
-Scherer	NNP
+R.P.	NOUN
+Scherer	NOUN
 by	ADP
 a	DET
 buy out	NOUN
 group	NOUN
 led	VERB
 by	ADP
-Shearson	NNP
-Lehman	NNP
-Hutton	NNP
+Shearson	NOUN
+Lehman	NOUN
+Hutton	NOUN
 earlier	ADJ
 this	DET
 year	NOUN
@@ -6212,7 +5926,7 @@ of	ADP
 gelatin	NOUN
 capsules	NOUN
 decided	VERB
-to	PART
+to	None
 divest	VERB
 itself	PRON
 of	ADP
@@ -6223,12 +5937,11 @@ non	NOUN
 encapsulating	VERB
 businesses	NOUN
 .	.
-
 The	DET
 sale	NOUN
 of	ADP
-Southern	NNP
-Optical	NNP
+Southern	NOUN
+Optical	NOUN
 is	VERB
 a	DET
 part	NOUN
@@ -6236,12 +5949,11 @@ of	ADP
 the	DET
 program	NOUN
 .	.
-
 The	DET
-White House	NNP
+White House	NOUN
 said	VERB
-President	NNP
-Bush	NNP
+President	NOUN
+Bush	NOUN
 has	VERB
 approved	VERB
 duty	NOUN
@@ -6254,27 +5966,26 @@ certain	ADJ
 types	NOUN
 of	ADP
 watches	NOUN
-that	CC
+that	CONJ
 are	VERB
-n't	PART
+n't	None
 produced	VERB
 in	ADP
-``	OQU
+``	None
 significant	ADJ
 quantities	NOUN
-"	QUOT
+"	None
 in	ADP
 the	DET
-U.S.	NNP
+U.S.	NOUN
 ,	.
 the	DET
-Virgin Islands	NNP
+Virgin Islands	NOUN
 and	CONJ
 other	ADJ
-U.S.	NNP
+U.S.	NOUN
 possessions	NOUN
 .	.
-
 The	DET
 action	NOUN
 came	VERB
@@ -6283,20 +5994,19 @@ a	DET
 petition	NOUN
 filed	VERB
 by	ADP
-Timex Inc.	NNP
+Timex Inc.	NOUN
 for	ADP
 changes	NOUN
 in	ADP
 the	DET
-U.S.	NNP
-Generalized System of Preferences	NNP
+U.S.	NOUN
+Generalized System of Preferences	NOUN
 for	ADP
 imports	NOUN
 from	ADP
 developing	VERB
 nations	NOUN
 .	.
-
 Previously	ADV
 ,	.
 watch	NOUN
@@ -6308,8 +6018,7 @@ duty	NOUN
 free	ADJ
 treatment	NOUN
 .	.
-
-Timex	NNP
+Timex	NOUN
 had	VERB
 requested	VERB
 duty	NOUN
@@ -6325,18 +6034,17 @@ covered	VERB
 by	ADP
 58	NUM
 different	ADJ
-U.S.	NNP
+U.S.	NOUN
 tariff	NOUN
 classifications	NOUN
 .	.
-
 The	DET
-White House	NNP
+White House	NOUN
 said	VERB
-Mr.	NNP
-Bush	NNP
+Mr.	NOUN
+Bush	NOUN
 decided	VERB
-to	PART
+to	None
 grant	VERB
 duty	NOUN
 free	ADJ
@@ -6354,31 +6062,30 @@ other	ADJ
 types	NOUN
 of	ADP
 watches	NOUN
-``	OQU
+``	None
 because of	ADP
 the	DET
 potential	NOUN
 for	ADP
 material	NOUN
 injury	NOUN
-to	PART
+to	None
 watch	VERB
 producers	NOUN
 located	VERB
 in	ADP
 the	DET
-U.S.	NNP
+U.S.	NOUN
 and	CONJ
 the	DET
-Virgin Islands	NNP
+Virgin Islands	NOUN
 .	.
-
-"	QUOT
-Timex	NNP
+"	None
+Timex	NOUN
 is	VERB
 a	DET
 major	ADJ
-U.S.	NNP
+U.S.	NOUN
 producer	NOUN
 and	CONJ
 seller	NOUN
@@ -6394,7 +6101,7 @@ watches	NOUN
 assembled	VERB
 in	ADP
 the	DET
-Philippines	NNP
+Philippines	NOUN
 and	CONJ
 other	ADJ
 developing	VERB
@@ -6402,20 +6109,19 @@ nations	NOUN
 covered	VERB
 by	ADP
 the	DET
-U.S.	NNP
+U.S.	NOUN
 tariff	NOUN
 preferences	NOUN
 .	.
-
-U.S.	NNP
+U.S.	NOUN
 trade	NOUN
 officials	NOUN
 said	VERB
 the	DET
-Philippines	NNP
+Philippines	NOUN
 and	CONJ
-Thailand	NNP
-would	AUX
+Thailand	NOUN
+would	None
 be	VERB
 the	DET
 main	ADJ
@@ -6425,16 +6131,15 @@ the	DET
 president's	NOUN
 action	NOUN
 .	.
-
 Imports	NOUN
 of	ADP
 the	DET
 types	NOUN
 of	ADP
 watches	NOUN
-that	CC
+that	CONJ
 now	ADV
-will	AUX
+will	None
 be	VERB
 eligible	ADJ
 for	ADP
@@ -6445,7 +6150,7 @@ totaled	VERB
 about	ADV
 $ 37.3 million	NOUN
 in	ADP
-1988	NNP
+1988	NOUN
 ,	.
 a	DET
 relatively	ADV
@@ -6455,7 +6160,7 @@ of	ADP
 the	DET
 $ 1.5 billion	NOUN
 in	ADP
-U.S.	NNP
+U.S.	NOUN
 watch	NOUN
 imports	NOUN
 that	DET
@@ -6465,28 +6170,27 @@ according to	ADP
 an	DET
 aide	NOUN
 to	ADP
-U.S.	NNP
-Trade Representative	NNP
-Carla Hills	NNP
+U.S.	NOUN
+Trade Representative	NOUN
+Carla Hills	NOUN
 .	.
-
-Magna International Inc.'s	NNP
+Magna International Inc.'s	NOUN
 chief	ADJ
 financial	ADJ
 officer	NOUN
 ,	.
-James McAlpine	NNP
+James McAlpine	NOUN
 ,	.
 resigned	ADJ
 and	CONJ
 its	PRON
 chairman	NOUN
 ,	.
-Frank Stronach	NNP
+Frank Stronach	NOUN
 ,	.
 is	VERB
 stepping in	VERB
-to	PART
+to	None
 help	VERB
 turn around	VERB
 the	DET
@@ -6498,21 +6202,20 @@ the	DET
 company	NOUN
 said	VERB
 .	.
-
-Mr.	NNP
-Stronach	NNP
-will	AUX
+Mr.	NOUN
+Stronach	NOUN
+will	None
 direct	VERB
 an	DET
 effort	NOUN
-to	PART
+to	None
 reduce	VERB
 overhead	NOUN
 and	CONJ
 curb	VERB
 capital	NOUN
 spending	NOUN
-``	OQU
+``	None
 until	ADP
 a	DET
 more	ADV
@@ -6525,30 +6228,28 @@ achieved	VERB
 and	CONJ
 maintained	VERB
 ,	.
-"	QUOT
-Magna	NNP
+"	None
+Magna	NOUN
 said	VERB
 .	.
-
-Stephen Akerfeldt	NNP
+Stephen Akerfeldt	NOUN
 ,	.
 currently	ADV
 vice	NOUN
 president	NOUN
 finance	NOUN
 ,	.
-will	AUX
+will	None
 succeed	VERB
-Mr.	NNP
-McAlpine	NNP
+Mr.	NOUN
+McAlpine	NOUN
 .	.
-
 An	DET
 ambitious	ADJ
 expansion	NOUN
 has	VERB
 left	VERB
-Magna	NNP
+Magna	NOUN
 with	ADP
 excess	ADJ
 capacity	NOUN
@@ -6565,7 +6266,6 @@ enters	VERB
 a	DET
 downturn	NOUN
 .	.
-
 The	DET
 company	NOUN
 has	VERB
@@ -6586,8 +6286,7 @@ steady	ADJ
 sales	NOUN
 growth	NOUN
 .	.
-
-Magna	NNP
+Magna	NOUN
 recently	ADV
 cut	VERB
 its	PRON
@@ -6598,8 +6297,8 @@ half	DET
 and	CONJ
 the	DET
 company's	NOUN
-Class	NNP
-A	NNP
+Class	NOUN
+A	NOUN
 shares	NOUN
 are	VERB
 wallowing	VERB
@@ -6612,18 +6311,17 @@ of	ADP
 16.125	NUM
 Canadian	ADJ
 dollars	NOUN
-(	OPAR
-US	NNP
+(	None
+US	NOUN
 $ 13.73	NOUN
-)	CPAR
+)	None
 .	.
-
 On	ADP
 the	DET
-Toronto Stock Exchange	NNP
+Toronto Stock Exchange	NOUN
 yesterday	NOUN
 ,	.
-Magna	NNP
+Magna	NOUN
 shares	NOUN
 closed	VERB
 up	ADV
@@ -6631,19 +6329,18 @@ up	ADV
 Canadian	ADJ
 cents	NOUN
 to	ADP
-C	SYM
+C	X
 $ 9.625	NOUN
 .	.
-
-Mr.	NNP
-Stronach	NNP
+Mr.	NOUN
+Stronach	NOUN
 ,	.
 founder	NOUN
 and	CONJ
 controlling	VERB
 shareholder	NOUN
 of	ADP
-Magna	NNP
+Magna	NOUN
 ,	.
 resigned	VERB
 as	ADP
@@ -6652,7 +6349,7 @@ executive	NOUN
 officer	NOUN
 last	ADJ
 year	NOUN
-to	PART
+to	None
 seek	VERB
 ,	.
 unsuccessfully	ADV
@@ -6660,16 +6357,15 @@ unsuccessfully	ADV
 a	DET
 seat	NOUN
 in	ADP
-Canada's	NNP
-Parliament	NNP
+Canada's	NOUN
+Parliament	NOUN
 .	.
-
 Analysts	NOUN
 said	VERB
-Mr.	NNP
-Stronach	NNP
+Mr.	NOUN
+Stronach	NOUN
 wants	VERB
-to	PART
+to	None
 resume	VERB
 a	DET
 more	ADV
@@ -6680,24 +6376,22 @@ running	VERB
 the	DET
 company	NOUN
 .	.
-
 They	PRON
 expect	VERB
 him	PRON
-to	PART
+to	None
 cut	VERB
 costs	NOUN
 throughout	ADP
 the	DET
 organization	NOUN
 .	.
-
 The	DET
 company	NOUN
 said	VERB
-Mr.	NNP
-Stronach	NNP
-will	AUX
+Mr.	NOUN
+Stronach	NOUN
+will	None
 personally	ADV
 direct	VERB
 the	DET
@@ -6705,53 +6399,50 @@ restructuring	NOUN
 ,	.
 assisted	VERB
 by	ADP
-Manfred Gingl	NNP
+Manfred Gingl	NOUN
 ,	.
 president	NOUN
 and	CONJ
 chief	NOUN
 executive	NOUN
 .	.
-
 Neither	DET
 they	PRON
 nor	CONJ
-Mr.	NNP
-McAlpine	NNP
-could	AUX
+Mr.	NOUN
+McAlpine	NOUN
+could	None
 be	VERB
 reached	VERB
 for	ADP
 comment	NOUN
 .	.
-
-Magna	NNP
+Magna	NOUN
 said	VERB
-Mr.	NNP
-McAlpine	NNP
+Mr.	NOUN
+McAlpine	NOUN
 resigned	VERB
-to	PART
+to	None
 pursue	VERB
 a	DET
 consulting	NOUN
 career	NOUN
 ,	.
 with	ADP
-Magna	NNP
+Magna	NOUN
 as	ADP
 one	NUM
 of	ADP
 his	PRON
 clients	NOUN
 .	.
-
-Lord	NNP
-Chilver	NNP
+Lord	NOUN
+Chilver	NOUN
 ,	.
 63 year old	ADJ
 chairman	NOUN
 of	ADP
-English China Clays PLC	NNP
+English China Clays PLC	NOUN
 ,	.
 was	VERB
 named	VERB
@@ -6764,7 +6455,6 @@ British	ADJ
 chemical	NOUN
 company	NOUN
 .	.
-
 Japanese	ADJ
 investors	NOUN
 nearly	ADV
@@ -6781,11 +6471,10 @@ totaling	VERB
 $ 701 million	NOUN
 ,	.
 the	DET
-U.S.	NNP
-Federal National Mortgage Association	NNP
+U.S.	NOUN
+Federal National Mortgage Association	NOUN
 said	VERB
 .	.
-
 The	DET
 purchases	NOUN
 show	VERB
@@ -6796,15 +6485,15 @@ of	ADP
 Japanese	ADJ
 investors	NOUN
 in	ADP
-U.S.	NNP
+U.S.	NOUN
 mortgage	NOUN
 based	VERB
 instruments	NOUN
 ,	.
-Fannie Mae's	NNP
+Fannie Mae's	NOUN
 chairman	NOUN
 ,	.
-David O. Maxwell	NNP
+David O. Maxwell	NOUN
 ,	.
 said	VERB
 at	ADP
@@ -6812,7 +6501,6 @@ a	DET
 news	NOUN
 conference	NOUN
 .	.
-
 He	PRON
 said	VERB
 more than	DET
@@ -6827,18 +6515,16 @@ Japanese	ADJ
 institutional	ADJ
 investors	NOUN
 .	.
-
 The	DET
 rest	NOUN
 went	VERB
 to	ADP
 investors	NOUN
 from	ADP
-France	NNP
+France	NOUN
 and	CONJ
-Hong Kong	NNP
+Hong Kong	NOUN
 .	.
-
 Earlier	ADJ
 this	DET
 year	NOUN
@@ -6855,20 +6541,18 @@ securities	NOUN
 mutual	ADJ
 fund	NOUN
 .	.
-
 That	DET
 fund	NOUN
 was	VERB
 put together	VERB
 by	ADP
-Blackstone Group	NNP
+Blackstone Group	NOUN
 ,	.
 a	DET
-New York	NNP
+New York	NOUN
 investment	NOUN
 bank	NOUN
 .	.
-
 The	DET
 latest	ADJ
 two	NUM
@@ -6877,23 +6561,22 @@ were	VERB
 assembled	VERB
 jointly	ADV
 by	ADP
-Goldman	NNP
+Goldman	NOUN
 ,	.
-Sachs & Co.	NNP
+Sachs & Co.	NOUN
 of	ADP
 the	DET
-U.S.	NNP
+U.S.	NOUN
 and	CONJ
-Japan's	NNP
-Daiwa Securities Co	NNP
+Japan's	NOUN
+Daiwa Securities Co	NOUN
 .	.
-
 The	DET
 new	ADJ
 ,	.
 seven-year	ADJ
 funds	NOUN
---	:
+--	.
 one	NUM
 offering	VERB
 a	DET
@@ -6910,11 +6593,11 @@ return	NOUN
 linked	VERB
 to	ADP
 the	DET
-London	NNP
+London	NOUN
 interbank	NOUN
 offered	VERB
 rate	NOUN
---	:
+--	.
 offer	VERB
 two	NUM
 key	ADJ
@@ -6923,22 +6606,21 @@ to	ADP
 Japanese	ADJ
 investors	NOUN
 .	.
-
 First	ADJ
 ,	.
 they	PRON
 are	VERB
 designed	VERB
-to	PART
+to	None
 eliminate	VERB
 the	DET
 risk	NOUN
 of	ADP
 prepayment	NOUN
---	:
+--	.
 mortgage-backed	ADJ
 securities	NOUN
-can	AUX
+can	None
 be	VERB
 retired	VERB
 early	ADV
@@ -6952,7 +6634,7 @@ such	DET
 prepayment	NOUN
 forces	VERB
 investors	NOUN
-to	PART
+to	None
 redeploy	VERB
 their	PRON
 money	NOUN
@@ -6960,7 +6642,6 @@ at	ADP
 lower	ADJ
 rates	NOUN
 .	.
-
 Second	ADJ
 ,	.
 they	PRON
@@ -6979,14 +6660,13 @@ burden	NOUN
 on	ADP
 investors	NOUN
 .	.
-
 By	ADP
 addressing	VERB
 those	DET
 problems	NOUN
 ,	.
-Mr.	NNP
-Maxwell	NNP
+Mr.	NOUN
+Maxwell	NOUN
 said	VERB
 ,	.
 the	DET
@@ -6994,7 +6674,7 @@ new	ADJ
 funds	NOUN
 have	VERB
 become	VERB
-``	OQU
+``	None
 extremely	ADV
 attractive	ADJ
 to	ADP
@@ -7004,10 +6684,9 @@ other	ADJ
 investors	NOUN
 outside	ADP
 the	DET
-U.S.	NNP
+U.S.	NOUN
 .	.
-
-"	QUOT
+"	None
 Such	ADJ
 devices	NOUN
 have	VERB
@@ -7038,7 +6717,6 @@ a	DET
 rapid	ADJ
 rate	NOUN
 .	.
-
 They	PRON
 also	ADV
 have	VERB
@@ -7046,14 +6724,14 @@ become	VERB
 large	ADJ
 purchasers	NOUN
 of	ADP
-Fannie Mae's	NNP
+Fannie Mae's	NOUN
 corporate	ADJ
 debt	NOUN
 ,	.
 buying	VERB
 $ 2.4 billion	NOUN
 in	ADP
-Fannie Mae	NNP
+Fannie Mae	NOUN
 bonds	NOUN
 during	ADP
 the	DET
@@ -7073,8 +6751,7 @@ total	ADJ
 amount	NOUN
 issued	VERB
 .	.
-
-James L. Pate	NNP
+James L. Pate	NOUN
 ,	.
 54 year old	ADJ
 executive	NOUN
@@ -7097,8 +6774,7 @@ to	ADP
 14	NUM
 members	NOUN
 .	.
-
-LTV Corp.	NNP
+LTV Corp.	NOUN
 said	VERB
 a	DET
 federal	ADJ
@@ -7106,10 +6782,10 @@ bankruptcy	NOUN
 court	NOUN
 judge	NOUN
 agreed	VERB
-to	PART
+to	None
 extend	VERB
 until	ADP
-March 8, 1990	NNP
+March 8, 1990	NOUN
 ,	.
 the	DET
 period	NOUN
@@ -7127,13 +6803,12 @@ has	VERB
 the	DET
 exclusive	ADJ
 right	NOUN
-to	PART
+to	None
 file	VERB
 a	DET
 reorganization	NOUN
 plan	NOUN
 .	.
-
 The	DET
 company	NOUN
 is	VERB
@@ -7144,8 +6819,8 @@ Chapter	NOUN
 of	ADP
 the	DET
 federal	ADJ
-Bankruptcy	NNP
-Code	NNP
+Bankruptcy	NOUN
+Code	NOUN
 ,	.
 giving	VERB
 it	PRON
@@ -7157,34 +6832,33 @@ lawsuits	NOUN
 while	ADP
 it	PRON
 attempts	VERB
-to	PART
+to	None
 work out	VERB
 a	DET
 plan	NOUN
-to	PART
+to	None
 pay	VERB
 its	PRON
 debts	NOUN
 .	.
-
 Italian	ADJ
 chemical	NOUN
 giant	NOUN
-Montedison	NNP
-S.p.A.	NNP
+Montedison	NOUN
+S.p.A.	NOUN
 ,	.
 through	ADP
 its	PRON
-Montedison	NNP
-Acquisition	NNP
-N.V.	NNP
+Montedison	NOUN
+Acquisition	NOUN
+N.V.	NOUN
 indirect	ADJ
 unit	NOUN
 ,	.
 began	VERB
 its	PRON
 $ 37	NOUN
--	:
+-	.
 a	DET
 share	NOUN
 tender	NOUN
@@ -7196,8 +6870,8 @@ common	ADJ
 shares	NOUN
 outstanding	ADJ
 of	ADP
-Erbamont	NNP
-N.V.	NNP
+Erbamont	NOUN
+N.V.	NOUN
 ,	.
 a	DET
 maker	NOUN
@@ -7206,9 +6880,8 @@ pharmaceuticals	NOUN
 incorporated	VERB
 in	ADP
 the	DET
-Netherlands	NNP
+Netherlands	NOUN
 .	.
-
 The	DET
 offer	NOUN
 ,	.
@@ -7217,19 +6890,18 @@ in	ADP
 today's	NOUN
 editions	NOUN
 of	ADP
-The Wall Street Journal	NNP
+The Wall Street Journal	NOUN
 ,	.
 is	VERB
 scheduled	VERB
-to	PART
+to	None
 expire	VERB
 at	ADP
 the	DET
 end	NOUN
 of	ADP
-November	NNP
+November	NOUN
 .	.
-
 Montedison	NOUN
 currently	ADV
 owns	VERB
@@ -7241,7 +6913,6 @@ common	ADJ
 shares	NOUN
 outstanding	ADJ
 .	.
-
 The	DET
 offer	NOUN
 is	VERB
@@ -7256,8 +6927,7 @@ between	ADP
 the	DET
 companies	NOUN
 .	.
-
-Japan's	NNP
+Japan's	NOUN
 reserves	NOUN
 of	ADP
 gold	NOUN
@@ -7276,15 +6946,14 @@ a	DET
 hefty	ADJ
 $ 1.82 billion	NOUN
 in	ADP
-October	NNP
+October	NOUN
 to	ADP
 $ 84.29 billion	NOUN
 ,	.
 the	DET
-Finance Ministry	NNP
+Finance Ministry	NOUN
 said	VERB
 .	.
-
 The	DET
 total	NOUN
 marks	VERB
@@ -7294,7 +6963,6 @@ consecutive	ADJ
 monthly	ADJ
 decline	NOUN
 .	.
-
 The	DET
 protracted	ADJ
 downturn	NOUN
@@ -7302,16 +6970,16 @@ reflects	VERB
 the	DET
 intensity	NOUN
 of	ADP
-Bank of Japan	NNP
+Bank of Japan	NOUN
 yen	NOUN
 support	VERB
 intervention	NOUN
 since	ADP
-June	NNP
+June	NOUN
 ,	.
 when	ADV
 the	DET
-U.S.	NNP
+U.S.	NOUN
 currency	NOUN
 temporarily	ADV
 surged	VERB
@@ -7320,7 +6988,6 @@ the	DET
 150.00 yen	NOUN
 level	NOUN
 .	.
-
 The	DET
 announcement	NOUN
 follows	VERB
@@ -7334,11 +7001,10 @@ country's	NOUN
 foreign	ADJ
 reserves	NOUN
 in	ADP
-September	NNP
+September	NOUN
 to	ADP
 $ 86.12 billion	NOUN
 .	.
-
 Pick	VERB
 a	DET
 country	NOUN
@@ -7346,7 +7012,6 @@ country	NOUN
 any	DET
 country	NOUN
 .	.
-
 It	PRON
 is	VERB
 the	DET
@@ -7354,8 +7019,8 @@ latest	ADJ
 investment	NOUN
 craze	NOUN
 sweeping	VERB
-Wall Street	NNP
-:	:
+Wall Street	NOUN
+:	.
 a	DET
 rash	NOUN
 of	ADP
@@ -7369,7 +7034,7 @@ those	DET
 publicly	ADV
 traded	VERB
 portfolios	NOUN
-that	CC
+that	CONJ
 invest	VERB
 in	ADP
 stocks	NOUN
@@ -7379,7 +7044,6 @@ single	ADJ
 foreign	ADJ
 country	NOUN
 .	.
-
 No	ADV
 fewer	ADJ
 than	ADP
@@ -7401,44 +7065,41 @@ the	DET
 level	NOUN
 of	ADP
 all of	DET
-1988	NNP
+1988	NOUN
 ,	.
 according to	ADP
-Charles E. Simon	NNP
+Charles E. Simon	NOUN
 &	CONJ
 Co	NOUN
 .	.
-
 ,	.
 a	DET
-Washington	NNP
--	:
+Washington	NOUN
+-	.
 based	VERB
 research	NOUN
 firm	NOUN
 .	.
-
 The	DET
 turf	NOUN
 recently	ADV
 has	VERB
 ranged	VERB
 from	ADP
-Chile	NNP
+Chile	NOUN
 to	ADP
-Austria	NNP
+Austria	NOUN
 to	ADP
-Portugal	NNP
+Portugal	NOUN
 .	.
-
 Next	ADJ
 week	NOUN
 ,	.
 the	DET
-Philippine	NNP
-Fund's	NNP
+Philippine	NOUN
+Fund's	NOUN
 launch	NOUN
-will	AUX
+will	None
 be	VERB
 capped	VERB
 by	ADP
@@ -7446,9 +7107,9 @@ a	DET
 visit	NOUN
 by	ADP
 Philippine	ADJ
-President	NNP
-Corazon Aquino	NNP
---	:
+President	NOUN
+Corazon Aquino	NOUN
+--	.
 the	DET
 first	ADJ
 time	NOUN
@@ -7462,38 +7123,35 @@ an	DET
 issue	NOUN
 at	ADP
 the	DET
-Big Board	NNP
+Big Board	NOUN
 here	ADV
 .	.
-
 The	DET
 next	ADJ
 province	NOUN
 ?	.
-
-``	OQU
+``	None
 Anything	NOUN
 is	VERB
 possible	ADJ
---	:
+--	.
 how about	ADV
 the	DET
-New Guinea Fund	NNP
+New Guinea Fund	NOUN
 ?	.
-
-"	QUOT
+"	None
 quips	VERB
-George Foot	NNP
+George Foot	NOUN
 ,	.
 a	DET
 managing	VERB
 partner	NOUN
 at	ADP
-Newgate Management Associates	NNP
+Newgate Management Associates	NOUN
 of	ADP
-Northampton	NNP
+Northampton	NOUN
 ,	.
-Mass.	NNP
+Mass.	NOUN
 The	DET
 recent	ADJ
 explosion	NOUN
@@ -7502,18 +7160,18 @@ country	NOUN
 funds	NOUN
 mirrors	VERB
 the	DET
-``	OQU
+``	None
 closed	VERB
 end	NOUN
 fund	NOUN
 mania	NOUN
-"	QUOT
+"	None
 of	ADP
 the	DET
 1920s	NOUN
 ,	.
-Mr.	NNP
-Foot	NNP
+Mr.	NOUN
+Foot	NOUN
 says	VERB
 ,	.
 when	ADV
@@ -7524,17 +7182,15 @@ grew	VERB
 wildly	ADV
 popular	ADJ
 .	.
-
 They	PRON
 fell	VERB
 into	ADP
 oblivion	NOUN
 after	ADP
 the	DET
-1929	NNP
+1929	NOUN
 crash	NOUN
 .	.
-
 Unlike	ADP
 traditional	ADJ
 open	ADJ
@@ -7550,10 +7206,10 @@ country	NOUN
 portfolios	NOUN
 are	VERB
 the	DET
-``	OQU
+``	None
 closed	VERB
 end	NOUN
-"	QUOT
+"	None
 type	NOUN
 ,	.
 issuing	VERB
@@ -7562,11 +7218,10 @@ fixed	VERB
 number	NOUN
 of	ADP
 shares	NOUN
-that	CC
+that	CONJ
 trade	VERB
 publicly	ADV
 .	.
-
 The	DET
 surge	NOUN
 brings	VERB
@@ -7578,19 +7233,18 @@ number	NOUN
 of	ADP
 country	NOUN
 funds	NOUN
-that	CC
+that	CONJ
 are	VERB
 or	CONJ
 soon	ADV
-will	AUX
+will	None
 be	VERB
 listed	VERB
 in	ADP
-New York	NNP
+New York	NOUN
 or	CONJ
-London	NNP
+London	NOUN
 .	.
-
 These	DET
 funds	NOUN
 now	ADV
@@ -7602,16 +7256,15 @@ dollars	NOUN
 in	ADP
 assets	NOUN
 .	.
-
-``	OQU
+``	None
 People	NOUN
 are	VERB
 looking	VERB
-to	PART
+to	None
 stake	VERB
 their	PRON
 claims	NOUN
-"	QUOT
+"	None
 now	ADV
 before	ADV
 the	DET
@@ -7622,24 +7275,22 @@ nations	NOUN
 runs out	VERB
 ,	.
 says	VERB
-Michael Porter	NNP
+Michael Porter	NOUN
 ,	.
 an	DET
 analyst	NOUN
 at	ADP
-Smith	NNP
-Barney	NNP
+Smith	NOUN
+Barney	NOUN
 ,	.
-Harris	NNP
-Upham	NNP
+Harris	NOUN
+Upham	NOUN
 &	CONJ
 Co	NOUN
 .	.
-
 ,	.
-New York	NNP
+New York	NOUN
 .	.
-
 Behind	ADP
 all	DET
 the	DET
@@ -7650,7 +7301,6 @@ heavy	ADJ
 duty	NOUN
 competition	NOUN
 .	.
-
 As	ADP
 individual	ADJ
 investors	NOUN
@@ -7669,18 +7319,17 @@ securities	NOUN
 firms	NOUN
 have	VERB
 scrambled	VERB
-to	PART
+to	None
 find	VERB
 new	ADJ
 products	NOUN
-that	CC
+that	CONJ
 brokers	NOUN
 find	VERB
 easy	ADJ
-to	PART
+to	None
 sell	VERB
 .	.
-
 And	CONJ
 the	DET
 firms	NOUN
@@ -7691,20 +7340,19 @@ nets	NOUN
 far	ADV
 and	CONJ
 wide	ADV
-to	PART
+to	None
 do	VERB
 it	PRON
 .	.
-
 Financial	ADJ
 planners	NOUN
 often	ADV
 urge	VERB
 investors	NOUN
-to	PART
+to	None
 diversify	VERB
 and	CONJ
-to	PART
+to	None
 hold	VERB
 a	DET
 smattering	NOUN
@@ -7712,7 +7360,6 @@ of	ADP
 international	ADJ
 securities	NOUN
 .	.
-
 And	CONJ
 many	ADJ
 emerging	VERB
@@ -7725,18 +7372,17 @@ markets	NOUN
 ,	.
 such as	ADP
 the	DET
-U.S.	NNP
+U.S.	NOUN
 and	CONJ
-Japan	NNP
+Japan	NOUN
 .	.
-
 Country	NOUN
 funds	NOUN
 offer	VERB
 an	DET
 easy	ADJ
 way	NOUN
-to	PART
+to	None
 get	VERB
 a	DET
 taste	NOUN
@@ -7752,37 +7398,34 @@ seeking out	VERB
 individual	ADJ
 companies	NOUN
 .	.
-
 But	CONJ
 it	PRON
 does	VERB
-n't	PART
+n't	None
 take	VERB
 much	ADJ
-to	PART
+to	None
 get	VERB
 burned	VERB
 .	.
-
 Political	ADJ
 and	CONJ
 currency	NOUN
 gyrations	NOUN
-can	AUX
+can	None
 whipsaw	VERB
 the	DET
 funds	NOUN
 .	.
-
 Another	DET
 concern	NOUN
-:	:
+:	.
 The	DET
 funds'	NOUN
 share	NOUN
 prices	NOUN
 tend	VERB
-to	PART
+to	None
 swing	VERB
 more	ADV
 than	ADP
@@ -7790,7 +7433,6 @@ the	DET
 broader	ADJ
 market	NOUN
 .	.
-
 When	ADV
 the	DET
 stock	NOUN
@@ -7798,24 +7440,23 @@ market	NOUN
 dropped	VERB
 nearly	ADV
 7 %	NOUN
-Oct. 13	NNP
+Oct. 13	NOUN
 ,	.
 for instance	ADV
 ,	.
 the	DET
-Mexico	NNP
+Mexico	NOUN
 Fund	NOUN
 plunged	VERB
 about	ADV
 18 %	NOUN
 and	CONJ
 the	DET
-Spain	NNP
+Spain	NOUN
 Fund	NOUN
 fell	VERB
 16 %	NOUN
 .	.
-
 And	CONJ
 most	ADJ
 country	NOUN
@@ -7828,10 +7469,9 @@ most	ADJ
 stocks	NOUN
 after	ADP
 the	DET
-1987	NNP
+1987	NOUN
 crash	NOUN
 .	.
-
 What	PRON
 is	VERB
 so	ADV
@@ -7843,7 +7483,7 @@ frenzy	NOUN
 right	ADV
 now	ADV
 is	VERB
-that	CC
+that	CONJ
 many	ADJ
 are	VERB
 trading	VERB
@@ -7859,7 +7499,6 @@ their	PRON
 underlying	ADJ
 portfolios	NOUN
 .	.
-
 After	ADP
 trading	VERB
 at	ADP
@@ -7870,7 +7509,7 @@ of	ADP
 more than	DET
 20 %	NOUN
 in	ADP
-late 1987	NNP
+late 1987	NOUN
 and	CONJ
 part	NOUN
 of	ADP
@@ -7888,10 +7527,9 @@ premium	NOUN
 of	ADP
 6 %	NOUN
 .	.
-
 The	DET
 reason	NOUN
-:	:
+:	.
 Share	NOUN
 prices	NOUN
 of	ADP
@@ -7913,7 +7551,6 @@ stocks	NOUN
 they	PRON
 hold	VERB
 .	.
-
 It	PRON
 is	VERB
 probably	ADV
@@ -7923,11 +7560,11 @@ a	DET
 premium	NOUN
 for	ADP
 funds	NOUN
-that	CC
+that	CONJ
 invest	VERB
 in	ADP
 markets	NOUN
-that	CC
+that	CONJ
 are	VERB
 partially	ADV
 closed	VERB
@@ -7936,13 +7573,12 @@ foreign	ADJ
 investors	NOUN
 ,	.
 such as	ADP
-South Korea	NNP
+South Korea	NOUN
 ,	.
 some	DET
 specialists	NOUN
 say	VERB
 .	.
-
 But	CONJ
 some	DET
 European	ADJ
@@ -7950,8 +7586,8 @@ funds	NOUN
 recently	ADV
 have	VERB
 skyrocketed	VERB
-;	:
-Spain	NNP
+;	.
+Spain	NOUN
 Fund	NOUN
 has	VERB
 surged	VERB
@@ -7961,7 +7597,6 @@ startling	ADJ
 120 %	NOUN
 premium	NOUN
 .	.
-
 It	PRON
 has	VERB
 been	VERB
@@ -7976,50 +7611,47 @@ long-term	ADJ
 play	NOUN
 tied	VERB
 to	ADP
-1992's	NNP
+1992's	NOUN
 European	ADJ
 economic	ADJ
 integration	NOUN
 .	.
-
 And	CONJ
 several	DET
 new	ADJ
 funds	NOUN
-that	CC
+that	CONJ
 are	VERB
-n't	PART
+n't	None
 even	ADV
 fully	ADV
 invested	VERB
 yet	ADV
 have	VERB
 jumped	VERB
-to	PART
+to	None
 trade	VERB
 at	ADP
 big	ADJ
 premiums	NOUN
 .	.
-
-``	OQU
+``	None
 I	PRON
 'm	VERB
 very	ADV
 alarmed	VERB
-to	PART
+to	None
 see	VERB
 these	DET
 rich	ADJ
 valuations	NOUN
 ,	.
-"	QUOT
+"	None
 says	VERB
-Smith Barney's	NNP
-Mr.	NNP
-Porter	NNP
+Smith Barney's	NOUN
+Mr.	NOUN
+Porter	NOUN
 .	.
-
 The	DET
 newly	ADV
 fattened	VERB
@@ -8034,30 +7666,29 @@ some	DET
 country	NOUN
 funds	NOUN
 ,	.
-Mr.	NNP
-Porter	NNP
+Mr.	NOUN
+Porter	NOUN
 suggests	VERB
 .	.
-
 Unlike	ADP
 many	ADJ
-U.S.	NNP
+U.S.	NOUN
 investors	NOUN
 ,	.
 those	DET
 in	ADP
-Asia	NNP
+Asia	NOUN
 or	CONJ
-Europe	NNP
+Europe	NOUN
 seeking	VERB
 foreign	ADJ
 stock	NOUN
 exposure	NOUN
-may	AUX
+may	None
 be	VERB
 less	ADV
 resistant	ADJ
-to	PART
+to	None
 paying	VERB
 higher	ADJ
 prices	NOUN
@@ -8065,10 +7696,9 @@ for	ADP
 country	NOUN
 funds	NOUN
 .	.
-
-``	OQU
+``	None
 There	PRON
-may	AUX
+may	None
 be	VERB
 an	DET
 international	ADJ
@@ -8080,17 +7710,16 @@ funds	NOUN
 listed	VERB
 here	ADV
 ,	.
-"	QUOT
-Mr.	NNP
-Porter	NNP
+"	None
+Mr.	NOUN
+Porter	NOUN
 says	VERB
 .	.
-
 Nonetheless	ADV
 ,	.
 plenty	ADJ
 of	ADP
-U.S.	NNP
+U.S.	NOUN
 analysts	NOUN
 and	CONJ
 money	NOUN
@@ -8107,14 +7736,13 @@ some	DET
 country	NOUN
 funds	NOUN
 .	.
-
 They	PRON
 argue	VERB
-that	CC
-U.S.	NNP
+that	CONJ
+U.S.	NOUN
 investors	NOUN
 often	ADV
-can	AUX
+can	None
 buy	VERB
 American	ADJ
 depositary	ADJ
@@ -8126,10 +7754,10 @@ stocks	NOUN
 in	ADP
 many	ADJ
 funds	NOUN
-;	:
+;	.
 these	DET
 so-called	ADJ
-ADRs	NNP
+ADRs	NOUN
 represent	VERB
 shares	NOUN
 of	ADP
@@ -8138,13 +7766,12 @@ companies	NOUN
 traded	VERB
 in	ADP
 the	DET
-U.S.	NNP
+U.S.	NOUN
 .	.
-
 That	DET
 way	NOUN
 investors	NOUN
-can	AUX
+can	None
 essentially	ADV
 buy	VERB
 the	DET
@@ -8154,24 +7781,23 @@ paying	VERB
 the	DET
 premium	NOUN
 .	.
-
 For	ADP
 people	NOUN
 who	PRON
 insist on	VERB
 jumping in	VERB
 now	ADV
-to	PART
+to	None
 buy	VERB
 the	DET
 funds	NOUN
 ,	.
-Newgate's	NNP
-Mr.	NNP
-Foot	NNP
+Newgate's	NOUN
+Mr.	NOUN
+Foot	NOUN
 says	VERB
-:	:
-``	OQU
+:	.
+``	None
 The	DET
 only	ADJ
 advice	NOUN
@@ -8181,7 +7807,7 @@ for	ADP
 these	DET
 folks	NOUN
 is	VERB
-that	CC
+that	CONJ
 those	DET
 who	PRON
 come	VERB
@@ -8193,15 +7819,14 @@ had	VERB
 better	ADV
 be	VERB
 ready	ADJ
-to	PART
+to	None
 leave	VERB
 quickly	ADV
 .	.
-
 The	DET
-U.S.	NNP
+U.S.	NOUN
 and	CONJ
-Soviet Union	NNP
+Soviet Union	NOUN
 are	VERB
 holding	VERB
 technical	ADJ
@@ -8210,7 +7835,7 @@ about	ADP
 possible	ADJ
 repayment	NOUN
 by	ADP
-Moscow	NNP
+Moscow	NOUN
 of	ADP
 $ 188 million	NOUN
 in	ADP
@@ -8221,14 +7846,13 @@ debts	NOUN
 owed	VERB
 to	ADP
 the	DET
-U.S.	NNP
+U.S.	NOUN
 government	NOUN
 ,	.
 the	DET
-State Department	NNP
+State Department	NOUN
 said	VERB
 .	.
-
 If	ADP
 the	DET
 debts	NOUN
@@ -8236,21 +7860,20 @@ are	VERB
 repaid	VERB
 ,	.
 it	PRON
-could	AUX
+could	None
 clear	VERB
 the	DET
 way	NOUN
 for	ADP
 Soviet	ADJ
 bonds	NOUN
-to	PART
+to	None
 be	VERB
 sold	VERB
 in	ADP
 the	DET
-U.S.	NNP
+U.S.	NOUN
 .	.
-
 However	ADV
 ,	.
 after	ADP
@@ -8261,31 +7884,30 @@ the	DET
 Soviets	NOUN
 ,	.
 a	DET
-State Department	NNP
+State Department	NOUN
 spokesman	NOUN
 said	VERB
-that	CC
+that	CONJ
 it	PRON
 is	VERB
-``	OQU
+``	None
 too	ADV
 early	ADV
-to	PART
+to	None
 say	VERB
-"	QUOT
+"	None
 whether	ADP
 that	PRON
-will	AUX
+will	None
 happen	VERB
 .	.
-
 Coincident	ADJ
 with	ADP
 the	DET
 talks	NOUN
 ,	.
 the	DET
-State Department	NNP
+State Department	NOUN
 said	VERB
 it	PRON
 has	VERB
@@ -8293,18 +7915,17 @@ permitted	VERB
 a	DET
 Soviet	ADJ
 bank	NOUN
-to	PART
+to	None
 open	VERB
 a	DET
-New York	NNP
+New York	NOUN
 branch	NOUN
 .	.
-
 The	DET
 branch	NOUN
 of	ADP
 the	DET
-Bank for Foreign Economic Affairs	NNP
+Bank for Foreign Economic Affairs	NOUN
 was	VERB
 approved	VERB
 last	ADJ
@@ -8312,23 +7933,22 @@ spring	NOUN
 and	CONJ
 opened	VERB
 in	ADP
-July	NNP
+July	NOUN
 .	.
-
 But	CONJ
 a	DET
 Soviet	ADJ
 bank	NOUN
 here	ADV
-would	AUX
+would	None
 be	VERB
 crippled	VERB
 unless	ADP
-Moscow	NNP
+Moscow	NOUN
 found	VERB
 a	DET
 way	NOUN
-to	PART
+to	None
 settle	VERB
 the	DET
 $ 188 million	NOUN
@@ -8342,7 +7962,7 @@ the	DET
 country's	NOUN
 short-lived	ADJ
 democratic	ADJ
-Kerensky	NNP
+Kerensky	NOUN
 government	NOUN
 before	ADP
 the	DET
@@ -8350,18 +7970,17 @@ Communists	NOUN
 seized	VERB
 power	NOUN
 in	ADP
-1917	NNP
+1917	NOUN
 .	.
-
 Under	ADP
 a	DET
-1934	NNP
+1934	NOUN
 law	NOUN
 ,	.
 the	DET
-Johnson Debt	NNP
-Default	NNP
-Act	NNP
+Johnson Debt	NOUN
+Default	NOUN
+Act	NOUN
 ,	.
 as	ADV
 amended	VERB
@@ -8371,7 +7990,7 @@ is	VERB
 illegal	ADJ
 for	ADP
 Americans	NOUN
-to	PART
+to	None
 extend	VERB
 credit	NOUN
 to	ADP
@@ -8380,7 +7999,7 @@ in	ADP
 default	NOUN
 to	ADP
 the	DET
-U.S.	NNP
+U.S.	NOUN
 government	NOUN
 ,	.
 unless	ADP
@@ -8389,25 +8008,23 @@ are	VERB
 members	NOUN
 of	ADP
 the	DET
-World Bank	NNP
+World Bank	NOUN
 and	CONJ
-International Monetary Fund	NNP
+International Monetary Fund	NOUN
 .	.
-
 The	DET
-U.S.S.R.	NNP
+U.S.S.R.	NOUN
 belongs	VERB
 to	ADP
 neither	DET
 organization	NOUN
 .	.
-
-Moscow	NNP
+Moscow	NOUN
 has	VERB
 settled	VERB
 pre	NOUN
--	:
-1917	NNP
+-	.
+1917	NOUN
 debts	NOUN
 with	ADP
 other	ADJ
@@ -8420,38 +8037,36 @@ less than	ADV
 face	NOUN
 value	NOUN
 .	.
-
 The	DET
-State Department	NNP
+State Department	NOUN
 stressed	VERB
 the	DET
 pre	NOUN
--	:
-1933	NNP
+-	.
+1933	NOUN
 debts	NOUN
 as	ADP
 the	DET
 key	NOUN
-to	PART
+to	None
 satisfying	VERB
 the	DET
-Johnson Act	NNP
+Johnson Act	NOUN
 .	.
-
 But	CONJ
 the	DET
 Soviets	NOUN
-might	AUX
+might	None
 still	ADV
 face	VERB
 legal	ADJ
 obstacles	NOUN
-to	PART
+to	None
 raising	VERB
 money	NOUN
 in	ADP
 the	DET
-U.S.	NNP
+U.S.	NOUN
 until	ADP
 they	PRON
 settle	VERB
@@ -8472,11 +8087,10 @@ lend	VERB
 lease	NOUN
 program	NOUN
 .	.
-
 In	ADP
 another	DET
 reflection	NOUN
-that	CC
+that	CONJ
 the	DET
 growth	NOUN
 of	ADP
@@ -8488,7 +8102,7 @@ leveling off	VERB
 the	DET
 government	NOUN
 said	VERB
-that	CC
+that	CONJ
 orders	NOUN
 for	ADP
 manufactured	VERB
@@ -8498,48 +8112,45 @@ spending	NOUN
 on	ADP
 construction	NOUN
 failed	VERB
-to	PART
+to	None
 rise	VERB
 in	ADP
-September	NNP
+September	NOUN
 .	.
-
 Meanwhile	ADV
 ,	.
 the	DET
-National Association of Purchasing Management	NNP
+National Association of Purchasing Management	NOUN
 said	VERB
 its	PRON
 latest	ADJ
 survey	NOUN
 indicated	VERB
-that	CC
+that	CONJ
 the	DET
 manufacturing	NOUN
 economy	NOUN
 contracted	VERB
 in	ADP
-October	NNP
+October	NOUN
 for	ADP
 the	DET
 sixth	ADJ
 consecutive	ADJ
 month	NOUN
 .	.
-
 Its	PRON
 index	NOUN
 inched	VERB
 up to	ADV
 47.6 %	NOUN
 in	ADP
-October	NNP
+October	NOUN
 from	ADP
 46 %	NOUN
 in	ADP
-September	NNP
+September	NOUN
 .	.
-
 Any	DET
 reading	NOUN
 below	ADP
@@ -8552,7 +8163,6 @@ is	VERB
 generally	ADV
 declining	VERB
 .	.
-
 The	DET
 purchasing	VERB
 managers	NOUN
@@ -8561,25 +8171,24 @@ however	ADV
 ,	.
 also	ADV
 said	VERB
-that	CC
+that	CONJ
 orders	NOUN
 turned	VERB
 up	ADV
 in	ADP
-October	NNP
+October	NOUN
 after	ADP
 four months	NOUN
 of	ADP
 decline	NOUN
 .	.
-
 Factories	NOUN
 booked	VERB
 $ 236.74 billion	NOUN
 in	ADP
 orders	NOUN
 in	ADP
-September	NNP
+September	NOUN
 ,	.
 nearly	ADV
 the	DET
@@ -8588,15 +8197,14 @@ as	ADP
 the	DET
 $ 236.79 billion	NOUN
 in	ADP
-August	NNP
+August	NOUN
 ,	.
 the	DET
-Commerce Department	NNP
+Commerce Department	NOUN
 said	VERB
 .	.
-
 If	ADP
-not	PART
+not	None
 for	ADP
 a	DET
 59.6 %	NOUN
@@ -8612,12 +8220,11 @@ contractors	NOUN
 ,	.
 factory	NOUN
 orders	NOUN
-would	AUX
+would	None
 have	VERB
 fallen	VERB
 2.1 %	NOUN
 .	.
-
 In	ADP
 a	DET
 separate	ADJ
@@ -8636,7 +8243,7 @@ rate	NOUN
 of	ADP
 $ 415.6 billion	NOUN
 ,	.
-not	PART
+not	None
 significantly	ADV
 different	ADJ
 from	ADP
@@ -8644,9 +8251,8 @@ the	DET
 $ 415.8 billion	NOUN
 reported	VERB
 for	ADP
-August	NNP
+August	NOUN
 .	.
-
 Private	ADJ
 construction	NOUN
 spending	NOUN
@@ -8660,7 +8266,6 @@ activity	NOUN
 was	VERB
 up	ADV
 .	.
-
 The	DET
 figures	NOUN
 in	ADP
@@ -8668,7 +8273,7 @@ both	DET
 reports	NOUN
 were	VERB
 adjusted	VERB
-to	PART
+to	None
 remove	VERB
 the	DET
 effects	NOUN
@@ -8679,20 +8284,19 @@ patterns	NOUN
 ,	.
 but	CONJ
 were	VERB
-n't	PART
+n't	None
 adjusted	VERB
 for	ADP
 inflation	NOUN
 .	.
-
-Kenneth Mayland	NNP
+Kenneth Mayland	NOUN
 ,	.
 economist	NOUN
 for	ADP
-Society Corp.	NNP
+Society Corp.	NOUN
 ,	.
 a	DET
-Cleveland	NNP
+Cleveland	NOUN
 bank	NOUN
 ,	.
 said	VERB
@@ -8704,10 +8308,9 @@ factory	NOUN
 goods	NOUN
 is	VERB
 beginning	VERB
-to	PART
+to	None
 taper off	VERB
 .	.
-
 At	ADP
 the	DET
 same	ADJ
@@ -8723,39 +8326,35 @@ the	DET
 spring	NOUN
 has	VERB
 failed	VERB
-to	PART
+to	None
 revive	VERB
 the	DET
 residential	ADJ
 construction	NOUN
 industry	NOUN
 .	.
-
-``	OQU
+``	None
 What	PRON
 sector	NOUN
 is	VERB
 stepping	VERB
 forward	ADV
-to	PART
+to	None
 pick up	VERB
 the	DET
 slack	NOUN
 ?	.
-
-"	QUOT
+"	None
 he	PRON
 asked	VERB
 .	.
-
-``	OQU
+``	None
 I	PRON
 draw	VERB
 a	DET
 blank	NOUN
 .	.
-
-"	QUOT
+"	None
 By	ADP
 most	ADJ
 measures	NOUN
@@ -8769,54 +8368,50 @@ now	ADV
 growing	VERB
 very	ADV
 slowly	ADV
---	:
+--	.
 if	ADP
 at	ADP
 all	DET
 .	.
-
 Factory	NOUN
 payrolls	NOUN
 fell	VERB
 in	ADP
-September	NNP
+September	NOUN
 .	.
-
 So	ADV
 did	VERB
 the	DET
-Federal Reserve Board's	NNP
+Federal Reserve Board's	NOUN
 industrial	ADJ
 production	NOUN
 index	NOUN
 .	.
-
 Yet	CONJ
 many	ADJ
 economists	NOUN
 are	VERB
-n't	PART
+n't	None
 predicting	VERB
-that	CC
+that	CONJ
 the	DET
 economy	NOUN
 is	VERB
 about	ADV
-to	PART
+to	None
 slip	VERB
 into	ADP
 recession	NOUN
 .	.
-
 They	PRON
 cite	VERB
 a	DET
 lack	NOUN
 of	ADP
-``	OQU
+``	None
 imbalances	NOUN
-"	QUOT
-that	CC
+"	None
+that	CONJ
 provide	VERB
 early	ADJ
 warning	NOUN
@@ -8825,7 +8420,6 @@ of	ADP
 a	DET
 downturn	NOUN
 .	.
-
 Inventories	NOUN
 are	VERB
 closely	ADV
@@ -8836,26 +8430,24 @@ clues	NOUN
 ,	.
 for instance	ADV
 .	.
-
 Economists	NOUN
 say	VERB
 a	DET
 buildup	NOUN
 in	ADP
 inventories	NOUN
-can	AUX
+can	None
 provoke	VERB
 cutbacks	NOUN
 in	ADP
 production	NOUN
-that	CC
-can	AUX
+that	CONJ
+can	None
 lead	VERB
 to	ADP
 a	DET
 recession	NOUN
 .	.
-
 But	CONJ
 yesterday's	NOUN
 factory	NOUN
@@ -8867,7 +8459,7 @@ news	NOUN
 on	ADP
 that	DET
 front	NOUN
-:	:
+:	.
 it	PRON
 said	VERB
 factory	NOUN
@@ -8875,53 +8467,50 @@ inventories	NOUN
 fell	VERB
 0.1 %	NOUN
 in	ADP
-September	NNP
+September	NOUN
 ,	.
 the	DET
 first	ADJ
 decline	NOUN
 since	ADP
-February 1987	NNP
+February 1987	NOUN
 .	.
-
-``	OQU
+``	None
 This	PRON
 conforms	VERB
 to	ADP
 the	DET
-`	OQU
+`	None
 soft	ADJ
 landing	NOUN
-'	QUOT
+'	None
 scenario	NOUN
 ,	.
-"	QUOT
+"	None
 said	VERB
-Elliott	NNP
-Platt	NNP
+Elliott	NOUN
+Platt	NOUN
 ,	.
 an	DET
 economist	NOUN
 at	ADP
-Donaldson	NNP
+Donaldson	NOUN
 ,	.
-Lufkin & Jenrette Securities Corp	NNP
+Lufkin & Jenrette Securities Corp	NOUN
 .	.
-
-``	OQU
+``	None
 I	PRON
 do	VERB
-n't	PART
+n't	None
 see	VERB
 any	DET
 signs	NOUN
-that	CC
+that	CONJ
 inventories	NOUN
 are	VERB
 excessive	ADJ
 .	.
-
-"	QUOT
+"	None
 A	DET
 soft	ADJ
 landing	NOUN
@@ -8929,7 +8518,7 @@ is	VERB
 an	DET
 economic	ADJ
 slowdown	NOUN
-that	CC
+that	CONJ
 eases	VERB
 inflation	NOUN
 without	ADP
@@ -8938,7 +8527,6 @@ to	ADP
 a	DET
 recession	NOUN
 .	.
-
 The	DET
 department	NOUN
 said	VERB
@@ -8946,18 +8534,18 @@ orders	NOUN
 for	ADP
 nondurable	ADJ
 goods	NOUN
---	:
+--	.
 those	DET
 intended	VERB
-to	PART
+to	None
 last	VERB
 more than	DET
 three years	NOUN
---	:
+--	.
 fell	VERB
 0.3 %	NOUN
 in	ADP
-September	NNP
+September	NOUN
 to	ADP
 $ 109.73 billion	NOUN
 after	ADV
@@ -8967,7 +8555,6 @@ the	DET
 month	NOUN
 before	ADV
 .	.
-
 Orders	NOUN
 for	ADP
 durable	ADJ
@@ -8984,21 +8571,19 @@ the	DET
 month	NOUN
 before	ADV
 .	.
-
 The	DET
 department	NOUN
 previously	ADV
 estimated	VERB
-that	CC
+that	CONJ
 durable	ADJ
 goods	NOUN
 orders	NOUN
 fell	VERB
 0.1 %	NOUN
 in	ADP
-September	NNP
+September	NOUN
 .	.
-
 Factory	NOUN
 shipments	NOUN
 fell	VERB
@@ -9009,22 +8594,20 @@ after	ADP
 rising	VERB
 5.4 %	NOUN
 in	ADP
-August	NNP
+August	NOUN
 .	.
-
 Shipments	NOUN
 have	VERB
 been	VERB
 relatively	ADV
 level	ADJ
 since	ADP
-January	NNP
+January	NOUN
 ,	.
 the	DET
-Commerce Department	NNP
+Commerce Department	NOUN
 noted	VERB
 .	.
-
 Manufacturers'	NOUN
 backlogs	NOUN
 of	ADP
@@ -9033,7 +8616,7 @@ orders	NOUN
 rose	VERB
 0.5 %	NOUN
 in	ADP
-September	NNP
+September	NOUN
 to	ADP
 $ 497.34 billion	NOUN
 ,	.
@@ -9047,7 +8630,6 @@ capital	NOUN
 goods	NOUN
 sector	NOUN
 .	.
-
 Excluding	VERB
 these	DET
 orders	NOUN
@@ -9056,7 +8638,6 @@ backlogs	NOUN
 declined	VERB
 0.3 %	NOUN
 .	.
-
 In	ADP
 its	PRON
 construction	NOUN
@@ -9064,7 +8645,7 @@ spending	NOUN
 report	NOUN
 ,	.
 the	DET
-Commerce Department	NNP
+Commerce Department	NOUN
 said	VERB
 residential	ADJ
 construction	NOUN
@@ -9082,7 +8663,7 @@ was	VERB
 off	ADJ
 0.9 %	NOUN
 in	ADP
-September	NNP
+September	NOUN
 to	ADP
 an	DET
 annual	ADJ
@@ -9090,15 +8671,14 @@ rate	NOUN
 of	ADP
 $ 191.9 billion	NOUN
 .	.
-
-David Berson	NNP
+David Berson	NOUN
 ,	.
 economist	NOUN
 for	ADP
 the	DET
-Mortgage	NNP
-Bankers	NNP
-Association	NNP
+Mortgage	NOUN
+Bankers	NOUN
+Association	NOUN
 ,	.
 predicted	VERB
 the	DET
@@ -9107,7 +8687,7 @@ in	ADP
 interest	NOUN
 rates	NOUN
 eventually	ADV
-will	AUX
+will	None
 boost	VERB
 spending	NOUN
 on	ADP
@@ -9117,13 +8697,12 @@ homes	NOUN
 ,	.
 but	CONJ
 probably	ADV
-not	PART
+not	None
 until	ADP
 early	ADJ
 next	ADJ
 year	NOUN
 .	.
-
 Spending	NOUN
 on	ADP
 private	ADJ
@@ -9145,8 +8724,7 @@ sector	NOUN
 showing	VERB
 strength	NOUN
 .	.
-
-Government	NNP
+Government	NOUN
 construction	NOUN
 spending	NOUN
 rose	VERB
@@ -9154,24 +8732,22 @@ rose	VERB
 to	ADP
 $ 88 billion	NOUN
 .	.
-
 After	ADV
 adjusting	VERB
 for	ADP
 inflation	NOUN
 ,	.
 the	DET
-Commerce Department	NNP
+Commerce Department	NOUN
 said	VERB
 construction	NOUN
 spending	NOUN
 did	VERB
-n't	PART
+n't	None
 change	VERB
 in	ADP
-September	NNP
+September	NOUN
 .	.
-
 For	ADP
 the	DET
 first	ADJ
@@ -9191,7 +8767,6 @@ last	ADJ
 year's	NOUN
 level	NOUN
 .	.
-
 The	DET
 government's	NOUN
 construction	NOUN
@@ -9207,11 +8782,10 @@ in	ADP
 the	DET
 week	NOUN
 by	ADP
-McGraw-Hill Inc.'s	NNP
-F.W. Dodge Group	NNP
+McGraw-Hill Inc.'s	NOUN
+F.W. Dodge Group	NOUN
 .	.
-
-Dodge	NNP
+Dodge	NOUN
 reported	VERB
 an	DET
 8 %	NOUN
@@ -9221,9 +8795,8 @@ construction	NOUN
 contracts	NOUN
 awarded	VERB
 in	ADP
-September	NNP
+September	NOUN
 .	.
-
 The	DET
 goverment	NOUN
 counts	VERB
@@ -9232,8 +8805,8 @@ as	ADP
 it	PRON
 is	VERB
 spent	VERB
-;	:
-Dodge	NNP
+;	.
+Dodge	NOUN
 counts	VERB
 contracts	NOUN
 when	ADV
@@ -9241,7 +8814,6 @@ they	PRON
 are	VERB
 awarded	VERB
 .	.
-
 The	DET
 government	NOUN
 includes	VERB
@@ -9250,19 +8822,18 @@ spent	VERB
 on	ADP
 residential	ADJ
 renovation	NOUN
-;	:
-Dodge	NNP
+;	.
+Dodge	NOUN
 does	VERB
-n't	PART
+n't	None
 .	.
-
 Although	ADP
 the	DET
 purchasing	NOUN
 managers'	NOUN
 index	NOUN
 continues	VERB
-to	PART
+to	None
 indicate	VERB
 a	DET
 slowing	VERB
@@ -9270,14 +8841,14 @@ economy	NOUN
 ,	.
 it	PRON
 is	VERB
-n't	PART
+n't	None
 signaling	VERB
 an	DET
 imminent	ADJ
 recession	NOUN
 ,	.
 said	VERB
-Robert Bretz	NNP
+Robert Bretz	NOUN
 ,	.
 chairman	NOUN
 of	ADP
@@ -9291,18 +8862,18 @@ of	ADP
 materials	NOUN
 management	NOUN
 at	ADP
-Pitney Bowes Inc.	NNP
+Pitney Bowes Inc.	NOUN
 ,	.
-Stamford	NNP
+Stamford	NOUN
 ,	.
-Conn.	NNP
+Conn.	NOUN
 He	PRON
 said	VERB
 the	DET
 index	NOUN
-would	AUX
+would	None
 have	VERB
-to	PART
+to	None
 be	VERB
 in	ADP
 the	DET
@@ -9312,7 +8883,7 @@ range	NOUN
 for	ADP
 several	DET
 months	NOUN
-to	PART
+to	None
 be	VERB
 considered	VERB
 a	DET
@@ -9320,13 +8891,12 @@ forecast	NOUN
 of	ADP
 recession	NOUN
 .	.
-
 The	DET
 report	NOUN
 offered	VERB
 new	ADJ
 evidence	NOUN
-that	CC
+that	CONJ
 the	DET
 nation's	NOUN
 export	NOUN
@@ -9336,13 +8906,12 @@ though	ADP
 still	ADV
 continuing	VERB
 ,	.
-may	AUX
+may	None
 be	VERB
 slowing	VERB
 .	.
-
 Only	ADV
-19 %	NNP
+19 %	NOUN
 of	ADP
 the	DET
 purchasing	VERB
@@ -9352,15 +8921,14 @@ better	ADJ
 export	NOUN
 orders	NOUN
 in	ADP
-October	NNP
+October	NOUN
 ,	.
 down	ADV
 from	ADP
 27 %	NOUN
 in	ADP
-September	NNP
+September	NOUN
 .	.
-
 And	CONJ
 8 %	NOUN
 said	VERB
@@ -9378,7 +8946,6 @@ the	DET
 month	NOUN
 before	ADV
 .	.
-
 The	DET
 purhasing	NOUN
 managers'	NOUN
@@ -9386,13 +8953,12 @@ report	NOUN
 also	ADV
 added	VERB
 evidence	NOUN
-that	CC
+that	CONJ
 inflation	NOUN
 is	VERB
 under	ADP
 control	NOUN
 .	.
-
 For	ADP
 the	DET
 fifth	ADJ
@@ -9410,7 +8976,6 @@ they	PRON
 purchased	VERB
 fell	VERB
 .	.
-
 The	DET
 decline	NOUN
 was	VERB
@@ -9418,13 +8983,12 @@ even	ADV
 steeper	ADJ
 than	ADP
 in	ADP
-September	NNP
+September	NOUN
 .	.
-
 They	PRON
 also	ADV
 said	VERB
-that	CC
+that	CONJ
 vendors	NOUN
 were	VERB
 delivering	VERB
@@ -9432,7 +8996,7 @@ goods	NOUN
 more	ADV
 quickly	ADV
 in	ADP
-October	NNP
+October	NOUN
 than	ADP
 they	PRON
 had	VERB
@@ -9444,26 +9008,24 @@ five	NUM
 previous	ADJ
 months	NOUN
 .	.
-
 Economists	NOUN
 consider	VERB
 that	PRON
 a	DET
 sign	NOUN
-that	CC
+that	CONJ
 inflationary	ADJ
 pressures	NOUN
 are	VERB
 abating	VERB
 .	.
-
 When	ADV
 demand	NOUN
 is	VERB
 stronger	ADJ
 than	ADP
 suppliers	NOUN
-can	AUX
+can	None
 handle	VERB
 and	CONJ
 delivery	NOUN
@@ -9472,10 +9034,9 @@ lengthen	VERB
 ,	.
 prices	NOUN
 tend	VERB
-to	PART
+to	None
 rise	VERB
 .	.
-
 The	DET
 purchasing	NOUN
 managers'	NOUN
@@ -9491,7 +9052,6 @@ more than	DET
 purchasing	NOUN
 executives	NOUN
 .	.
-
 Each	DET
 of	ADP
 the	DET
@@ -9518,24 +9078,22 @@ reporting	VERB
 a	DET
 worsening	NOUN
 .	.
-
 For	ADP
 the	DET
 first	ADJ
 time	NOUN
 ,	.
 the	DET
-October	NNP
+October	NOUN
 survey	NOUN
 polled	VERB
 members	NOUN
 on	ADP
 imports	NOUN
 .	.
-
 It	PRON
 found	VERB
-that	CC
+that	CONJ
 of	ADP
 the	DET
 73 %	NOUN
@@ -9548,7 +9106,7 @@ they	PRON
 imported	VERB
 more	ADV
 in	ADP
-October	NNP
+October	NOUN
 and	CONJ
 12 %	NOUN
 said	VERB
@@ -9560,27 +9118,26 @@ the	DET
 previous	ADJ
 month	NOUN
 .	.
-
 While	ADP
 acknowledging	VERB
 one month's	NOUN
 figures	NOUN
 do	VERB
-n't	PART
+n't	None
 prove	VERB
 a	DET
 trend	NOUN
 ,	.
-Mr.	NNP
-Bretz	NNP
+Mr.	NOUN
+Bretz	NOUN
 said	VERB
 ,	.
-``	OQU
+``	None
 It	PRON
 does	VERB
 lead	VERB
 you	PRON
-to	PART
+to	None
 suspect	VERB
 imports	NOUN
 are	VERB
@@ -9589,12 +9146,11 @@ down	ADV
 ,	.
 or	CONJ
 at least	ADV
-not	PART
+not	None
 increasing	VERB
 that much	ADV
 .	.
-
-"	QUOT
+"	None
 Items	NOUN
 listed	VERB
 as	ADP
@@ -9613,33 +9169,31 @@ they	PRON
 included	VERB
 one	NUM
 newcomer	NOUN
-:	:
+:	.
 milk	NOUN
 and	CONJ
 milk	NOUN
 powder	NOUN
 .	.
-
-``	OQU
+``	None
 It	PRON
 is	VERB
 an	DET
 odd	ADJ
 thing	NOUN
-to	PART
+to	None
 put on	VERB
 the	DET
 list	NOUN
 ,	.
-"	QUOT
-Mr.	NNP
-Bretz	NNP
+"	None
+Mr.	NOUN
+Bretz	NOUN
 noted	VERB
 .	.
-
 He	PRON
 said	VERB
-that	CC
+that	CONJ
 for	ADP
 the	DET
 second	ADJ
@@ -9658,7 +9212,6 @@ nonfat	ADJ
 dry	ADJ
 milk	NOUN
 .	.
-
 They	PRON
 blamed	VERB
 increased	VERB
@@ -9672,7 +9225,7 @@ time	NOUN
 of	ADP
 exceptionally	ADV
 high	ADJ
-U.S.	NNP
+U.S.	NOUN
 exports	NOUN
 of	ADP
 dry	ADJ
@@ -9685,20 +9238,18 @@ low	ADJ
 import	NOUN
 quotas	NOUN
 .	.
-
-Pamela Sebastian	NNP
+Pamela Sebastian	NOUN
 in	ADP
-New York	NNP
+New York	NOUN
 contributed	VERB
 to	ADP
 this	DET
 article	NOUN
 .	.
-
 Here	ADV
 are	VERB
 the	DET
-Commerce Department's	NNP
+Commerce Department's	NOUN
 figures	NOUN
 for	ADP
 construction	NOUN
@@ -9713,11 +9264,10 @@ adjusted	VERB
 annual	ADJ
 rates	NOUN
 .	.
-
 Here	ADV
 are	VERB
 the	DET
-Commerce Department's	NNP
+Commerce Department's	NOUN
 latest	ADJ
 figures	NOUN
 for	ADP
@@ -9730,27 +9280,26 @@ dollars	NOUN
 seasonally	ADV
 adjusted	VERB
 .	.
-
 Judging	VERB
 from	ADP
 the	DET
 Americana	NOUN
 in	ADP
-Haruki Murakami's	NNP
-``	OQU
+Haruki Murakami's	NOUN
+``	None
 A	DET
-Wild	NNP
-Sheep	NNP
-Chase	NNP
-"	QUOT
-(	OPAR
-Kodansha	NNP
+Wild	NOUN
+Sheep	NOUN
+Chase	NOUN
+"	None
+(	None
+Kodansha	NOUN
 ,	.
 320	NUM
 pages	NOUN
 ,	.
 $ 18.95	NOUN
-)	CPAR
+)	None
 ,	.
 baby	NOUN
 boomers	NOUN
@@ -9759,18 +9308,17 @@ both	DET
 sides	NOUN
 of	ADP
 the	DET
-Pacific	NNP
+Pacific	NOUN
 have	VERB
 a	DET
 lot	NOUN
 in	ADP
 common	NOUN
 .	.
-
 Although	ADP
 set	VERB
 in	ADP
-Japan	NNP
+Japan	NOUN
 ,	.
 the	DET
 novel's	NOUN
@@ -9783,35 +9331,32 @@ Western	ADJ
 especially	ADV
 American	ADJ
 .	.
-
 Characters	NOUN
 drink	VERB
-Salty	NNP
-Dogs	NNP
+Salty	NOUN
+Dogs	NOUN
 ,	.
 whistle	VERB
-``	OQU
-Johnny	NNP
-B.	NNP
-Goode	NNP
-"	QUOT
+``	None
+Johnny	NOUN
+B.	NOUN
+Goode	NOUN
+"	None
 and	CONJ
 watch	VERB
-Bugs	NNP
-Bunny	NNP
+Bugs	NOUN
+Bunny	NOUN
 reruns	NOUN
 .	.
-
 They	PRON
 read	VERB
-Mickey Spillane	NNP
+Mickey Spillane	NOUN
 and	CONJ
 talk about	VERB
-Groucho	NNP
+Groucho	NOUN
 and	CONJ
-Harpo	NNP
+Harpo	NOUN
 .	.
-
 They	PRON
 worry	VERB
 about	ADP
@@ -9830,12 +9375,10 @@ and	CONJ
 desultory	ADJ
 affairs	NOUN
 .	.
-
 This	PRON
 is	VERB
-Japan	NNP
+Japan	NOUN
 ?	.
-
 For	ADP
 an	DET
 American	ADJ
@@ -9849,13 +9392,13 @@ of	ADP
 this	DET
 engaging	ADJ
 novel	NOUN
-should	AUX
+should	None
 come in	VERB
 recognizing	VERB
-that	CC
-Japan	NNP
+that	CONJ
+Japan	NOUN
 is	VERB
-n't	PART
+n't	None
 the	DET
 buttoned	VERB
 down	ADV
@@ -9865,12 +9408,11 @@ contemporary	ADJ
 American	ADJ
 lore	NOUN
 .	.
-
 It	PRON
 is	VERB
 also	ADV
 refreshing	VERB
-to	PART
+to	None
 read	VERB
 a	DET
 Japanese	ADJ
@@ -9878,16 +9420,16 @@ author	NOUN
 who	PRON
 clearly	ADV
 does	VERB
-n't	PART
+n't	None
 belong	VERB
 to	ADP
 the	DET
 self	NOUN
 aggrandizing	NOUN
-``	OQU
+``	None
 we	PRON
 Japanese	ADJ
-"	QUOT
+"	None
 school	NOUN
 of	ADP
 writers	NOUN
@@ -9904,14 +9446,13 @@ unfathomable	ADJ
 by	ADP
 outsiders	NOUN
 .	.
-
 If	ADP
-``	OQU
+``	None
 A	DET
-Wild	NNP
-Sheep	NNP
-Chase	NNP
-"	QUOT
+Wild	NOUN
+Sheep	NOUN
+Chase	NOUN
+"	None
 carries	VERB
 an	DET
 implicit	ADJ
@@ -9922,7 +9463,7 @@ relations	NOUN
 ,	.
 it	PRON
 is	VERB
-that	CC
+that	CONJ
 the	DET
 Japanese	NOUN
 are	VERB
@@ -9935,29 +9476,27 @@ of	ADP
 us	PRON
 think	VERB
 .	.
-
 That's	PRON
 is	VERB
-not	PART
-to	PART
+not	None
+to	None
 say	VERB
-that	CC
+that	CONJ
 the	DET
 nutty	ADJ
 plot	NOUN
 of	ADP
-``	OQU
+``	None
 A	DET
-Wild	NNP
-Sheep	NNP
-Chase	NNP
-"	QUOT
+Wild	NOUN
+Sheep	NOUN
+Chase	NOUN
+"	None
 is	VERB
 rooted	VERB
 in	ADP
 reality	NOUN
 .	.
-
 It	PRON
 is	VERB
 imaginative	ADJ
@@ -9965,7 +9504,6 @@ and	CONJ
 often	ADV
 funny	ADJ
 .	.
-
 A	DET
 disaffected	ADJ
 ,	.
@@ -9973,7 +9511,7 @@ hard	ADV
 drinking	VERB
 ,	.
 nearly	ADV
--	:
+-	.
 30	NUM
 hero	NOUN
 sets off	VERB
@@ -10003,10 +9541,9 @@ erudite	ADJ
 mobster	NOUN
 with	ADP
 a	DET
-Stanford	NNP
+Stanford	NOUN
 degree	NOUN
 .	.
-
 He	PRON
 has	VERB
 in	ADP
@@ -10027,7 +9564,6 @@ a	DET
 docile	ADJ
 butterfly	NOUN
 .	.
-
 Along	ADP
 the	DET
 way	NOUN
@@ -10042,14 +9578,14 @@ who	PRON
 offers	VERB
 the	DET
 hero	NOUN
-God's	NNP
+God's	NOUN
 phone	NOUN
 number	NOUN
-;	:
+;	.
 and	CONJ
 the	DET
-Sheep	NNP
-Man	NNP
+Sheep	NOUN
+Man	NOUN
 ,	.
 a	DET
 sweet	ADJ
@@ -10058,48 +9594,46 @@ roughhewn	ADJ
 figure	NOUN
 who	PRON
 wears	VERB
---	:
+--	.
 what	PRON
 else	ADV
---	:
+--	.
 a	DET
 sheepskin	NOUN
 .	.
-
 The	DET
 40 year old	ADJ
-Mr.	NNP
-Murakami	NNP
+Mr.	NOUN
+Murakami	NOUN
 is	VERB
 a	DET
 publishing	NOUN
 sensation	NOUN
 in	ADP
-Japan	NNP
+Japan	NOUN
 .	.
-
 A	DET
 more	ADV
 recent	ADJ
 novel	NOUN
 ,	.
-``	OQU
-Norwegian	NNP
-Wood	NNP
-"	QUOT
-(	OPAR
+``	None
+Norwegian	NOUN
+Wood	NOUN
+"	None
+(	None
 every	DET
 Japanese	NOUN
 under	ADP
 40	NUM
 seems	VERB
-to	PART
+to	None
 be	VERB
 fluent	ADJ
 in	ADP
-Beatles	NNP
+Beatles	NOUN
 lyrics	NOUN
-)	CPAR
+)	None
 ,	.
 has	VERB
 sold	VERB
@@ -10107,13 +9641,12 @@ more than	DET
 four million	NOUN
 copies	NOUN
 since	ADP
-Kodansha	NNP
+Kodansha	NOUN
 published	VERB
 it	PRON
 in	ADP
-1987	NNP
+1987	NOUN
 .	.
-
 But	CONJ
 he	PRON
 is	VERB
@@ -10123,11 +9656,11 @@ of	ADP
 several	DET
 youthful	ADJ
 writers	NOUN
---	:
-Tokyo's	NNP
+--	.
+Tokyo's	NOUN
 brat	NOUN
 pack	NOUN
---	:
+--	.
 who	PRON
 are	VERB
 dominating	VERB
@@ -10136,9 +9669,8 @@ best	ADJ
 seller	NOUN
 charts	NOUN
 in	ADP
-Japan	NNP
+Japan	NOUN
 .	.
-
 Their	PRON
 books	NOUN
 are	VERB
@@ -10156,26 +9688,25 @@ dashes	NOUN
 of	ADP
 Americana	NOUN
 .	.
-
 In	ADP
-Robert Whiting's	NNP
-``	OQU
+Robert Whiting's	NOUN
+``	None
 You	PRON
-Gotta	NNP
-Have	NNP
+Gotta	NOUN
+Have	NOUN
 Wa	.
-"	QUOT
-(	OPAR
-Macmillan	NNP
+"	None
+(	None
+Macmillan	NOUN
 ,	.
 339	NUM
 pages	NOUN
 ,	.
 $ 17.95	NOUN
-)	CPAR
+)	None
 ,	.
 the	DET
-Beatles	NNP
+Beatles	NOUN
 give	VERB
 way	NOUN
 to	ADP
@@ -10186,21 +9717,20 @@ the	DET
 Nipponese	ADJ
 version	NOUN
 we	PRON
-would	AUX
+would	None
 be	VERB
 hard	ADV
 put	VERB
-to	PART
+to	None
 call	VERB
 a	DET
-``	OQU
+``	None
 game	NOUN
 .	.
-
-"	QUOT
+"	None
 As	ADP
-Mr.	NNP
-Whiting	NNP
+Mr.	NOUN
+Whiting	NOUN
 describes	VERB
 it	PRON
 ,	.
@@ -10208,10 +9738,10 @@ Nipponese	ADJ
 baseball	NOUN
 is	VERB
 a	DET
-``	OQU
+``	None
 mirror	NOUN
 of	ADP
-Japan's	NNP
+Japan's	NOUN
 fabled	ADJ
 virtues	NOUN
 of	ADP
@@ -10220,18 +9750,17 @@ work	NOUN
 and	CONJ
 harmony	NOUN
 .	.
-
-"	QUOT
-``	OQU
-Wa	NNP
-"	QUOT
+"	None
+``	None
+Wa	NOUN
+"	None
 is	VERB
 Japanese	ADJ
 for	ADP
-``	OQU
+``	None
 team	NOUN
 spirit	NOUN
-"	QUOT
+"	None
 and	CONJ
 Japanese	ADJ
 ballplayers	NOUN
@@ -10242,7 +9771,6 @@ miles	NOUN
 of	ADP
 it	PRON
 .	.
-
 A	DET
 player's	NOUN
 commitment	NOUN
@@ -10259,18 +9787,17 @@ his	PRON
 batting	NOUN
 average	NOUN
 .	.
-
 Polls	NOUN
 once	ADV
 named	VERB
-Tokyo	NNP
-Giants	NNP
+Tokyo	NOUN
+Giants	NOUN
 star	NOUN
-Tatsunori	NNP
-Hara	NNP
+Tatsunori	NOUN
+Hara	NOUN
 ,	.
 a	DET
-``	OQU
+``	None
 humble	ADJ
 ,	.
 uncomplaining	ADJ
@@ -10278,20 +9805,19 @@ uncomplaining	ADJ
 obedient	ADJ
 soul	NOUN
 ,	.
-"	QUOT
+"	None
 as	ADP
 the	DET
 male	ADJ
 symbol	NOUN
 of	ADP
-Japan	NNP
+Japan	NOUN
 .	.
-
 But	CONJ
 other than	ADP
 the	DET
 fact	NOUN
-that	CC
+that	CONJ
 besuboru	NOUN
 is	VERB
 played	VERB
@@ -10305,7 +9831,7 @@ bat	NOUN
 it	PRON
 is	VERB
 unrecognizable	ADJ
-:	:
+:	.
 Fans	NOUN
 politely	ADV
 return	VERB
@@ -10314,7 +9840,7 @@ balls	NOUN
 to	ADP
 stadium	NOUN
 ushers	NOUN
-;	:
+;	.
 the	DET
 strike	NOUN
 zone	NOUN
@@ -10325,14 +9851,14 @@ size	NOUN
 of	ADP
 the	DET
 hitter	NOUN
-;	:
+;	.
 ties	NOUN
 are	VERB
 permitted	VERB
---	:
+--	.
 even	ADJ
 welcomed	VERB
---	:
+--	.
 since	ADP
 they	PRON
 honorably	ADV
@@ -10341,9 +9867,9 @@ the	DET
 shame	NOUN
 of	ADP
 defeat	NOUN
-;	:
+;	.
 players	NOUN
-must	AUX
+must	None
 abide by	VERB
 strict	ADJ
 rules	NOUN
@@ -10354,16 +9880,16 @@ in	ADP
 their	PRON
 personal	ADJ
 lives	NOUN
---	:
+--	.
 players	NOUN
 for	ADP
 the	DET
-Tokyo	NNP
-Giants	NNP
+Tokyo	NOUN
+Giants	NOUN
 ,	.
 for example	ADV
 ,	.
-must	AUX
+must	None
 always	ADV
 wear	VERB
 ties	NOUN
@@ -10372,13 +9898,12 @@ on	ADP
 the	DET
 road	NOUN
 .	.
-
-``	OQU
+``	None
 You	PRON
-Gotta	NNP
-Have	NNP
-Wa	NNP
-"	QUOT
+Gotta	NOUN
+Have	NOUN
+Wa	NOUN
+"	None
 is	VERB
 the	DET
 often	ADV
@@ -10397,9 +9922,8 @@ team	NOUN
 ,	.
 fare	VERB
 in	ADP
-Japan	NNP
+Japan	NOUN
 .	.
-
 Despite	ADP
 the	DET
 enormous	ADJ
@@ -10409,7 +9933,7 @@ money	NOUN
 they	PRON
 're	VERB
 paid	VERB
-to	PART
+to	None
 stand up	VERB
 at	ADP
 a	DET
@@ -10422,7 +9946,7 @@ number	NOUN
 decide	VERB
 it	PRON
 is	VERB
-not	PART
+not	None
 worth	ADJ
 it	PRON
 and	CONJ
@@ -10430,26 +9954,24 @@ run	VERB
 for	ADP
 home	NOUN
 .	.
-
-``	OQU
-Funny	NNP
-Business	NNP
-"	QUOT
-(	OPAR
-Soho	NNP
+``	None
+Funny	NOUN
+Business	NOUN
+"	None
+(	None
+Soho	NOUN
 ,	.
 228	NUM
 pages	NOUN
 ,	.
 $ 17.95	NOUN
-)	CPAR
+)	None
 by	ADP
-Gary Katzenstein	NNP
+Gary Katzenstein	NOUN
 is	VERB
 anything	NOUN
 but	ADV
 .	.
-
 It	PRON
 is	VERB
 the	DET
@@ -10460,7 +9982,7 @@ an	DET
 impudent	ADJ
 American	NOUN
 whom	PRON
-Sony	NNP
+Sony	NOUN
 hosted	VERB
 for	ADP
 a	DET
@@ -10470,10 +9992,10 @@ he	PRON
 was	VERB
 on	ADP
 a	DET
-Luce Fellowship	NNP
+Luce Fellowship	NOUN
 in	ADP
-Tokyo	NNP
---	:
+Tokyo	NOUN
+--	.
 to	ADP
 the	DET
 regret	NOUN
@@ -10481,7 +10003,6 @@ of	ADP
 both	DET
 parties	NOUN
 .	.
-
 In	ADP
 sometimes	ADV
 amusing	ADJ
@@ -10494,11 +10015,11 @@ even	ADV
 vicious	ADJ
 passages	NOUN
 ,	.
-Mr.	NNP
-Katzenstein	NNP
+Mr.	NOUN
+Katzenstein	NOUN
 describes	VERB
 how	ADV
-Sony	NNP
+Sony	NOUN
 invades	VERB
 even	ADV
 the	DET
@@ -10509,7 +10030,7 @@ of	ADP
 its	PRON
 workers'	NOUN
 lives	NOUN
---	:
+--	.
 at	ADP
 the	DET
 regimented	ADJ
@@ -10521,12 +10042,12 @@ are	VERB
 assigned	VERB
 lunch	NOUN
 partners	NOUN
---	:
+--	.
 and	CONJ
 at	ADP
-``	OQU
+``	None
 home	NOUN
-"	QUOT
+"	None
 in	ADP
 the	DET
 austere	ADJ
@@ -10538,7 +10059,6 @@ a	DET
 prying	ADJ
 caretaker	NOUN
 .	.
-
 Some	DET
 of	ADP
 his	PRON
