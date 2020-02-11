@@ -27,18 +27,17 @@ labelMap = loadDict()
 
 # Conversion
 for line in inputFile:
-	if line == "\n":
-		outputFile.write("\n")
-	words = line.split("\n")
-	for word in words:
-		wordLabel = word.split("\t")
-		if (len(wordLabel) == 2):
-			# If the label is already universal, use it as it is
-			if (wordLabel[1] in labelMap.values()):
-				outputFile.write(wordLabel[0] + "\t" + wordLabel[1] + "\n")
-			# Else convert from PTB to universal
-			else:
-				outputFile.write(wordLabel[0] + "\t" + str(labelMap.get(wordLabel[1])) + "\n")
+	if line != "\n":
+		words = line.split("\n")
+		for word in words:
+			wordLabel = word.split("\t")
+			if (len(wordLabel) == 2):
+				# If the label is already universal, use it as it is
+				if (wordLabel[1] in labelMap.values()):
+					outputFile.write(wordLabel[0] + "\t" + wordLabel[1] + "\n")
+				# Else convert from PTB to universal
+				else:
+					outputFile.write(wordLabel[0] + "\t" + str(labelMap.get(wordLabel[1])) + "\n")
 			
 
 inputFile.close()
