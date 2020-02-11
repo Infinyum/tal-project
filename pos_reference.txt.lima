@@ -2,7 +2,7 @@ Pierre Vinken	NNP
 ,	.
 61 years old	ADJ
 ,	.
-will	AUX
+will	MD
 join	VERB
 the	DET
 board	NOUN
@@ -475,7 +475,7 @@ filters	NOUN
 The	DET
 finding	NOUN
 probably	ADV
-will	AUX
+will	MD
 support	VERB
 those	DET
 who	PRON
@@ -483,7 +483,7 @@ argue	VERB
 that	CC
 the	DET
 U.S.	NNP
-should	AUX
+should	MD
 regulate	VERB
 the	DET
 class	NOUN
@@ -612,7 +612,7 @@ of	ADP
 cancer	NOUN
 causing	VERB
 asbestos	NOUN
-will	AUX
+will	MD
 be	VERB
 outlawed	VERB
 .	.
@@ -897,7 +897,7 @@ rates	NOUN
 because	ADP
 portfolio	NOUN
 managers	NOUN
-can	AUX
+can	MD
 capture	VERB
 higher	ADJ
 rates	NOUN
@@ -952,7 +952,7 @@ Money Fund Report	NNP
 ,	.
 yields	NOUN
 ``	OQU
-may	AUX
+may	MD
 blip up	VERB
 again	ADV
 before	ADP
@@ -1034,7 +1034,7 @@ investments	NOUN
 because	ADP
 portfolio	NOUN
 managers	NOUN
-can	AUX
+can	MD
 vary	VERB
 maturities	NOUN
 and	CONJ
@@ -1425,7 +1425,7 @@ Treasury	NNP
 said	VERB
 the	DET
 U.S.	NNP
-will	AUX
+will	MD
 default	VERB
 on	ADP
 Nov. 9	NNP
@@ -1465,7 +1465,7 @@ the	DET
 new	ADJ
 position	NOUN
 he	PRON
-will	AUX
+will	MD
 oversee	VERB
 Mazda's	NNP
 U.S.	NNP
@@ -1709,7 +1709,7 @@ lights	NOUN
 
 The	DET
 governor	NOUN
-could	AUX
+could	MD
 n't	PART
 make	VERB
 it	PRON
@@ -2064,7 +2064,7 @@ end	NOUN
 of	ADP
 the	DET
 year	NOUN
-would	AUX
+would	MD
 remain	VERB
 under	ADP
 a	DET
@@ -2143,7 +2143,7 @@ for	ADP
 and	CONJ
 said	VERB
 it	PRON
-will	AUX
+will	MD
 introduce	VERB
 a	DET
 new	ADJ
@@ -2226,7 +2226,7 @@ said	VERB
 Newsweek's	NNP
 ad	NOUN
 rates	NOUN
-would	AUX
+would	MD
 increase	VERB
 5 %	NOUN
 in	ADP
@@ -2241,7 +2241,7 @@ color	ADJ
 page	NOUN
 in	ADP
 Newsweek	NNP
-will	AUX
+will	MD
 cost	VERB
 $ 100,980	NOUN
 .	.
@@ -2275,7 +2275,7 @@ base	NOUN
 Time's	NNP
 ad	NOUN
 rate	NOUN
-will	AUX
+will	MD
 be	VERB
 effectively	ADV
 7.5 %	NOUN
@@ -2308,7 +2308,7 @@ rates	NOUN
 Newsweek	NNP
 said	VERB
 it	PRON
-will	AUX
+will	MD
 introduce	VERB
 the	DET
 Circulation	NNP
@@ -2330,7 +2330,7 @@ advertising	NOUN
 "	QUOT
 The	DET
 magazine	NOUN
-will	AUX
+will	MD
 reward	VERB
 with	ADP
 ``	OQU
@@ -2590,7 +2590,7 @@ bankruptcy	NOUN
 proceedings	NOUN
 under which	ADP
 it	PRON
-would	AUX
+would	MD
 remain	VERB
 an	DET
 independent	ADJ
@@ -2689,7 +2689,7 @@ company's	NOUN
 return	NOUN
 on	ADP
 equity	NOUN
-could	AUX
+could	MD
 suffer	VERB
 if	ADP
 it	PRON
@@ -2786,7 +2786,7 @@ bankruptcy	NOUN
 proceedings	NOUN
 its	PRON
 rates	NOUN
-will	AUX
+will	MD
 be	VERB
 among	ADP
 the	DET
@@ -2854,7 +2854,7 @@ the	DET
 withdrawal	NOUN
 of	ADP
 New England Electric	NNP
-might	AUX
+might	MD
 speed up	VERB
 the	DET
 reorganization	NOUN
@@ -2933,7 +2933,7 @@ PS of New Hampshire	NNP
 Northeast	NNP
 said	VERB
 it	PRON
-would	AUX
+would	MD
 refile	VERB
 its	PRON
 request	NOUN
@@ -2949,7 +2949,7 @@ the	DET
 FERC	NNP
 so that	ADP
 it	PRON
-could	AUX
+could	MD
 complete	VERB
 the	DET
 purchase	NOUN
@@ -3091,7 +3091,7 @@ trade	NOUN
 groups	NOUN
 said	VERB
 it	PRON
-may	AUX
+may	MD
 be	VERB
 the	DET
 largest	ADJ
@@ -3156,7 +3156,7 @@ and	CONJ
 said	VERB
 that	CC
 he	PRON
-would	AUX
+would	MD
 n't	PART
 entertain	VERB
 any	DET
@@ -3182,7 +3182,7 @@ pool	NOUN
 
 .	.
 
-may	AUX
+may	MD
 not	PART
 be	VERB
 held	VERB
@@ -3224,7 +3224,7 @@ amount	NOUN
 of	ADP
 the	DET
 refund	NOUN
-will	AUX
+will	MD
 be	VERB
 determined	VERB
 next	ADJ
@@ -3245,7 +3245,7 @@ Commonwealth Edison	NNP
 said	VERB
 the	DET
 ruling	NOUN
-could	AUX
+could	MD
 force	VERB
 it	PRON
 to	PART
@@ -3292,7 +3292,7 @@ the	DET
 past	ADJ
 3 1/2	NUM
 years	NOUN
-would	AUX
+would	MD
 be	VERB
 ``	OQU
 an	DET
@@ -3342,7 +3342,7 @@ the	DET
 Commerce Commission	NNP
 said	VERB
 Commonwealth Edison	NNP
-could	AUX
+could	MD
 raise	VERB
 its	PRON
 electricity	NOUN
@@ -3434,7 +3434,7 @@ cost	NOUN
 was	VERB
 unreasonable	ADJ
 and	CONJ
-should	AUX
+should	MD
 be	VERB
 refunded	VERB
 ,	.
@@ -3510,7 +3510,7 @@ Curry's	NNP
 Byron	NNP
 1	NUM
 order	NOUN
-may	AUX
+may	MD
 set	VERB
 a	DET
 precedent	NOUN
@@ -3733,7 +3733,7 @@ miles	NOUN
 from	ADP
 Seoul	NNP
 ,	.
-will	AUX
+will	MD
 help	VERB
 meet	VERB
 increasing	VERB
@@ -3753,7 +3753,7 @@ said	VERB
 
 The	DET
 plant	NOUN
-will	AUX
+will	MD
 produce	VERB
 control	NOUN
 devices	NOUN
@@ -3834,7 +3834,7 @@ spinoff	NOUN
 disclosed	VERB
 that	CC
 Cray Research Inc.	NNP
-will	AUX
+will	MD
 withdraw	VERB
 the	DET
 almost	ADV
@@ -4005,7 +4005,7 @@ and	CONJ
 without	ADP
 him	PRON
 it	PRON
-could	AUX
+could	MD
 not	PART
 be	VERB
 completed	VERB
@@ -4099,7 +4099,7 @@ to	ADP
 Mr.	NNP
 Cray's	NNP
 presence	NOUN
-will	AUX
+will	MD
 complicate	VERB
 a	DET
 valuation	NOUN
@@ -4134,7 +4134,7 @@ Minneapolis	NNP
 
 ``	OQU
 Cray Computer	NNP
-will	AUX
+will	MD
 be	VERB
 a	DET
 concept	NOUN
@@ -4150,7 +4150,7 @@ You	PRON
 either	ADV
 believe	VERB
 Seymour	NNP
-can	AUX
+can	MD
 do	VERB
 it	PRON
 again	ADV
@@ -4207,7 +4207,7 @@ fragile	ADJ
 and	CONJ
 minute	ADJ
 they	PRON
-will	AUX
+will	MD
 require	VERB
 special	ADJ
 robotic	ADJ
@@ -4221,7 +4221,7 @@ the	DET
 Cray	NNP
 -	:
 3	NUM
-will	AUX
+will	MD
 contain	VERB
 16	NUM
 processors	NOUN
@@ -4236,7 +4236,7 @@ supercomputer	NOUN
 
 Cray Computer	NNP
 also	ADV
-will	AUX
+will	MD
 face	VERB
 intense	ADJ
 competition	NOUN
@@ -4283,7 +4283,7 @@ in	ADP
 The	DET
 spinoff	NOUN
 also	ADV
-will	AUX
+will	MD
 compete	VERB
 with	ADP
 International Business Machines Corp.	NNP
@@ -4374,7 +4374,7 @@ Instead	ADV
 ,	.
 the	DET
 companies	NOUN
-will	AUX
+will	MD
 leave	VERB
 it	PRON
 up to	ADV
@@ -4462,7 +4462,7 @@ expenses	NOUN
 ,	.
 the	DET
 company	NOUN
-would	AUX
+would	MD
 have	VERB
 been	VERB
 able	ADJ
@@ -4496,7 +4496,7 @@ existed	VERB
 then	ADV
 ,	.
 Cray Computer	NNP
-would	AUX
+would	MD
 have	VERB
 incurred	VERB
 a	DET
@@ -4508,14 +4508,14 @@ Mr.	NNP
 Cray	NNP
 ,	.
 who	PRON
-could	AUX
+could	MD
 n't	PART
 be	VERB
 reached	VERB
 for	ADP
 comment	NOUN
 ,	.
-will	AUX
+will	MD
 work	VERB
 for	ADP
 the	DET
@@ -4563,7 +4563,7 @@ At	ADP
 Cray Computer	NNP
 ,	.
 he	PRON
-will	AUX
+will	MD
 be	VERB
 paid	VERB
 $ 240,000	NOUN
@@ -4673,7 +4673,7 @@ positions	NOUN
 .	.
 
 He	PRON
-will	AUX
+will	MD
 continue	VERB
 to	PART
 report	VERB
@@ -4830,7 +4830,7 @@ Brazil	NNP
 and	CONJ
 Mexico	NNP
 --	:
-will	AUX
+will	MD
 remain	VERB
 on	ADP
 that	DET
@@ -4861,7 +4861,7 @@ law	NOUN
 ,	.
 those	DET
 countries	NOUN
-could	AUX
+could	MD
 face	VERB
 accelerated	ADJ
 unfair	NOUN
@@ -4967,7 +4967,7 @@ for	ADP
 intellectual	ADJ
 property	NOUN
 rights	NOUN
-could	AUX
+could	MD
 be	VERB
 hurting	VERB
 themselves	PRON
@@ -5079,7 +5079,7 @@ films	NOUN
 
 That	DET
 measure	NOUN
-could	AUX
+could	MD
 compel	VERB
 Taipei's	NNP
 growing	VERB
@@ -5148,7 +5148,7 @@ though	ADV
 .	.
 
 They	PRON
-will	AUX
+will	MD
 remain	VERB
 on	ADP
 a	DET
@@ -5275,7 +5275,7 @@ said	VERB
 He	PRON
 said	VERB
 Mexico	NNP
-could	AUX
+could	MD
 be	VERB
 one	NUM
 of	ADP
@@ -5403,7 +5403,7 @@ act	NOUN
 Argentina	NNP
 said	VERB
 it	PRON
-will	AUX
+will	MD
 ask	VERB
 creditor	NOUN
 banks	NOUN
@@ -5553,7 +5553,7 @@ way	NOUN
 the	DET
 debt	NOUN
 problem	NOUN
-may	AUX
+may	MD
 be	VERB
 solved	VERB
 .	.
@@ -5581,7 +5581,7 @@ centennial	NOUN
 year	NOUN
 ,	.
 The Wall Street Journal	NNP
-will	AUX
+will	MD
 report	VERB
 events	NOUN
 of	ADP
@@ -5753,7 +5753,7 @@ IMSAI	NNP
 had	VERB
 keyboards	NOUN
 and	CONJ
-could	AUX
+could	MD
 store	VERB
 about	ADV
 two	NUM
@@ -6000,7 +6000,7 @@ from	ADP
 Australia's	NNP
 Bass Strait	NNP
 fields	NOUN
-will	AUX
+will	MD
 be	VERB
 raised	VERB
 by	ADP
@@ -6073,7 +6073,7 @@ Tuesday	NNP
 .	.
 
 Output	NOUN
-will	AUX
+will	MD
 be	VERB
 gradually	ADV
 increased	VERB
@@ -6415,7 +6415,7 @@ the	DET
 Philippines	NNP
 and	CONJ
 Thailand	NNP
-would	AUX
+would	MD
 be	VERB
 the	DET
 main	ADJ
@@ -6434,7 +6434,7 @@ of	ADP
 watches	NOUN
 that	CC
 now	ADV
-will	AUX
+will	MD
 be	VERB
 eligible	ADJ
 for	ADP
@@ -6501,7 +6501,7 @@ said	VERB
 
 Mr.	NNP
 Stronach	NNP
-will	AUX
+will	MD
 direct	VERB
 an	DET
 effort	NOUN
@@ -6537,7 +6537,7 @@ vice	NOUN
 president	NOUN
 finance	NOUN
 ,	.
-will	AUX
+will	MD
 succeed	VERB
 Mr.	NNP
 McAlpine	NNP
@@ -6697,7 +6697,7 @@ company	NOUN
 said	VERB
 Mr.	NNP
 Stronach	NNP
-will	AUX
+will	MD
 personally	ADV
 direct	VERB
 the	DET
@@ -6718,7 +6718,7 @@ they	PRON
 nor	CONJ
 Mr.	NNP
 McAlpine	NNP
-could	AUX
+could	MD
 be	VERB
 reached	VERB
 for	ADP
@@ -6938,7 +6938,7 @@ prepayment	NOUN
 --	:
 mortgage-backed	ADJ
 securities	NOUN
-can	AUX
+can	MD
 be	VERB
 retired	VERB
 early	ADV
@@ -7438,7 +7438,7 @@ the	DET
 Philippine	NNP
 Fund's	NNP
 launch	NOUN
-will	AUX
+will	MD
 be	VERB
 capped	VERB
 by	ADP
@@ -7582,7 +7582,7 @@ that	CC
 are	VERB
 or	CONJ
 soon	ADV
-will	AUX
+will	MD
 be	VERB
 listed	VERB
 in	ADP
@@ -7768,7 +7768,7 @@ Political	ADJ
 and	CONJ
 currency	NOUN
 gyrations	NOUN
-can	AUX
+can	MD
 whipsaw	VERB
 the	DET
 funds	NOUN
@@ -8053,7 +8053,7 @@ seeking	VERB
 foreign	ADJ
 stock	NOUN
 exposure	NOUN
-may	AUX
+may	MD
 be	VERB
 less	ADV
 resistant	ADJ
@@ -8068,7 +8068,7 @@ funds	NOUN
 
 ``	OQU
 There	PRON
-may	AUX
+may	MD
 be	VERB
 an	DET
 international	ADJ
@@ -8114,7 +8114,7 @@ that	CC
 U.S.	NNP
 investors	NOUN
 often	ADV
-can	AUX
+can	MD
 buy	VERB
 American	ADJ
 depositary	ADJ
@@ -8144,7 +8144,7 @@ U.S.	NNP
 That	DET
 way	NOUN
 investors	NOUN
-can	AUX
+can	MD
 essentially	ADV
 buy	VERB
 the	DET
@@ -8236,7 +8236,7 @@ are	VERB
 repaid	VERB
 ,	.
 it	PRON
-could	AUX
+could	MD
 clear	VERB
 the	DET
 way	NOUN
@@ -8275,7 +8275,7 @@ say	VERB
 "	QUOT
 whether	ADP
 that	PRON
-will	AUX
+will	MD
 happen	VERB
 .	.
 
@@ -8320,7 +8320,7 @@ a	DET
 Soviet	ADJ
 bank	NOUN
 here	ADV
-would	AUX
+would	MD
 be	VERB
 crippled	VERB
 unless	ADP
@@ -8441,7 +8441,7 @@ Johnson Act	NNP
 But	CONJ
 the	DET
 Soviets	NOUN
-might	AUX
+might	MD
 still	ADV
 face	VERB
 legal	ADJ
@@ -8612,7 +8612,7 @@ contractors	NOUN
 ,	.
 factory	NOUN
 orders	NOUN
-would	AUX
+would	MD
 have	VERB
 fallen	VERB
 2.1 %	NOUN
@@ -8843,13 +8843,13 @@ a	DET
 buildup	NOUN
 in	ADP
 inventories	NOUN
-can	AUX
+can	MD
 provoke	VERB
 cutbacks	NOUN
 in	ADP
 production	NOUN
 that	CC
-can	AUX
+can	MD
 lead	VERB
 to	ADP
 a	DET
@@ -9107,7 +9107,7 @@ in	ADP
 interest	NOUN
 rates	NOUN
 eventually	ADV
-will	AUX
+will	MD
 boost	VERB
 spending	NOUN
 on	ADP
@@ -9300,7 +9300,7 @@ He	PRON
 said	VERB
 the	DET
 index	NOUN
-would	AUX
+would	MD
 have	VERB
 to	PART
 be	VERB
@@ -9336,7 +9336,7 @@ though	ADP
 still	ADV
 continuing	VERB
 ,	.
-may	AUX
+may	MD
 be	VERB
 slowing	VERB
 .	.
@@ -9463,7 +9463,7 @@ is	VERB
 stronger	ADJ
 than	ADP
 suppliers	NOUN
-can	AUX
+can	MD
 handle	VERB
 and	CONJ
 delivery	NOUN
@@ -9849,7 +9849,7 @@ of	ADP
 this	DET
 engaging	ADJ
 novel	NOUN
-should	AUX
+should	MD
 come in	VERB
 recognizing	VERB
 that	CC
@@ -10186,7 +10186,7 @@ the	DET
 Nipponese	ADJ
 version	NOUN
 we	PRON
-would	AUX
+would	MD
 be	VERB
 hard	ADV
 put	VERB
@@ -10343,7 +10343,7 @@ of	ADP
 defeat	NOUN
 ;	:
 players	NOUN
-must	AUX
+must	MD
 abide by	VERB
 strict	ADJ
 rules	NOUN
@@ -10363,7 +10363,7 @@ Giants	NNP
 ,	.
 for example	ADV
 ,	.
-must	AUX
+must	MD
 always	ADV
 wear	VERB
 ties	NOUN

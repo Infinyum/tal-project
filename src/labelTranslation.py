@@ -27,6 +27,8 @@ labelMap = loadDict()
 
 # Conversion
 for line in inputFile:
+	if line == "\n":
+		outputFile.write("\n")
 	words = line.split("\n")
 	for word in words:
 		wordLabel = word.split("\t")
