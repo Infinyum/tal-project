@@ -30,21 +30,23 @@ Le premier paramètre est le fichier en entrée, le second est le fichier de sor
 ```python3 src/labelTranslationPOS.py pos_test.txt.pos.lima pos_test.txt.pos.lima.univ POSTags_PTB_Universal_Linux.txt```
 
 ### 5. Lancer l’évaluation des trois POS taggers
-Stanford :
-Word precision: 0.015882469724
-Word recall: 0.0146991272393
-Tag precision: 0.015882469724
-Tag recall: 0.0146991272393
-Word F-measure: 0.0152679040031
-Tag F-measure: 0.0152679040031
+Stanford :  
+Word precision: 0.015882469724  
+Word recall: 0.0146991272393  
+Tag precision: 0.015882469724  
+Tag recall: 0.0146991272393  
+Word F-measure: 0.0152679040031  
+Tag F-measure: 0.0152679040031  
+  
+nltk :  
+Word precision: 0.0156839388525  
+Word recall: 0.0145153881488  
+Tag precision: 0.0156839388525  
+Tag recall: 0.0145153881488  
+Word F-measure: 0.015077055203  
+Tag F-measure: 0.015077055203  
 
-nltk :
-Word precision: 0.0156839388525
-Word recall: 0.0145153881488
-Tag precision: 0.0156839388525
-Tag recall: 0.0145153881488
-Word F-measure: 0.015077055203
-Tag F-measure: 0.015077055203
+lima :  
 
 ### 6. Quelles conclusions vous pouvez avoir à partir des résultats d’évaluation des trois (ou deux) POS taggers ?
 
