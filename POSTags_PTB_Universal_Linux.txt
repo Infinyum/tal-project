@@ -39,7 +39,3 @@ WRB ADV
 :   .
 (   .
 )   .
-SCONJ CC
-SENT .
-COMMA ,
-COLON :
