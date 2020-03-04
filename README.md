@@ -23,7 +23,11 @@ On réutilise les outils des trois premiers TPs :
 ```./stanford-postagger.sh models/english-left3words-distsim.tagger pos_test.txt > temp_pos.txt.stanford```
 ```python3 src/formatStanford.py temp_pos.txt.stanford pos_test.txt.pos.stanford```
   
+Le premier paramètre est le fichier en entrée, le second est le fichier de sortie.  
+  
 ```python3 src/nltkPOSTagger.py pos_test.txt pos_test.txt.pos.nltk```
+  
+Le premier paramètre est le fichier en entrée, le second est le fichier de sortie.  
 
 ### 4. Convertir les résultats des trois POS taggers en utilisant les étiquettes universelles.
 ```python3 src/labelTranslationPOS.py pos_test.txt.pos.nltk pos_test.txt.pos.nltk.univ POSTags_PTB_Universal_Linux.txt```
@@ -77,10 +81,16 @@ On réutilise les outils des trois premiers TPs :
 ```java -mx600m -cp stanford-ner.jar:lib/* edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier classifiers/english.all.3class.distsim.crf.ser.gz -textFile ~/Documents/TAL_project/ne_test.txt > ~/Documents/TAL_project/ne_test.txt.ne.stanford.temp```  
 ```python3 src/format_NE.py ne_test.txt.ne.stanford.temp ne_test.txt.ne.stanford```  
   
+Le premier paramètre est le fichier en entrée, le second est le fichier de sortie.  
+  
 ```analyzeText -l eng -p main ne_test.txt > ne_test.txt.ne.lima.temp```  
 ```python3 src/format_NE_lima.py ne_test.txt.ne.lima.temp ne_test.txt.ne.lima```  
   
+Le premier paramètre est le fichier en entrée, le second est le fichier de sortie.  
+  
 ```python3 src/nltk_ne_recognizer.py ne_test.txt ne_test.txt.ne.nltk```
+
+Le premier paramètre est le fichier en entrée, le second est le fichier de sortie.  
 
 ### 3. Convertir les résultats des trois NE recognizers en utilisant les étiquettes CoNLL-2003.
 ```python3 src/neTranslationConLL.py ne_test.txt.ne.lima ne_test.txt.ne.lima.conll```  
