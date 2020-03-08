@@ -1,0 +1,10 @@
+Compound: {<JJ><NN>}
+(Compound biannual/JJ powwow/NN)
+(Compound corporate/JJ decision/NN)
+(Compound good/JJ place/NN)
+
+Compound: {<NN><NN>}
+
+Compound: {<JJ><NN><NN>}
+
+Compound: {<JJ><JJ><NN>}
